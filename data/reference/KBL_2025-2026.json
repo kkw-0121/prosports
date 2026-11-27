@@ -1,0 +1,2889 @@
+{
+  "league": "KBL",
+  "season": "2025-2026",
+  "collected_at": "2026-11-27T15:22:37+09:00",
+  "purpose": "전 시즌 같은 시점 비교용 (합계에는 쓰지 않음)",
+  "source_url": "https://www.kbl.or.kr/record/crowd",
+  "games": [
+    {
+      "game_id": "2025-2026-정규경기-1",
+      "date": "2025-10-03",
+      "stage": "regular",
+      "round": 1,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-2",
+      "date": "2025-10-03",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 4620
+    },
+    {
+      "game_id": "2025-2026-정규경기-3",
+      "date": "2025-10-03",
+      "stage": "regular",
+      "round": 1,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 4188
+    },
+    {
+      "game_id": "2025-2026-정규경기-4",
+      "date": "2025-10-04",
+      "stage": "regular",
+      "round": 1,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3650
+    },
+    {
+      "game_id": "2025-2026-정규경기-5",
+      "date": "2025-10-04",
+      "stage": "regular",
+      "round": 1,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 3443
+    },
+    {
+      "game_id": "2025-2026-정규경기-6",
+      "date": "2025-10-04",
+      "stage": "regular",
+      "round": 1,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 4160
+    },
+    {
+      "game_id": "2025-2026-정규경기-7",
+      "date": "2025-10-05",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 5203
+    },
+    {
+      "game_id": "2025-2026-정규경기-8",
+      "date": "2025-10-05",
+      "stage": "regular",
+      "round": 1,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 4150
+    },
+    {
+      "game_id": "2025-2026-정규경기-9",
+      "date": "2025-10-05",
+      "stage": "regular",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3749
+    },
+    {
+      "game_id": "2025-2026-정규경기-10",
+      "date": "2025-10-06",
+      "stage": "regular",
+      "round": 1,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2370
+    },
+    {
+      "game_id": "2025-2026-정규경기-11",
+      "date": "2025-10-07",
+      "stage": "regular",
+      "round": 1,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3003
+    },
+    {
+      "game_id": "2025-2026-정규경기-12",
+      "date": "2025-10-08",
+      "stage": "regular",
+      "round": 1,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3816
+    },
+    {
+      "game_id": "2025-2026-정규경기-13",
+      "date": "2025-10-08",
+      "stage": "regular",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3494
+    },
+    {
+      "game_id": "2025-2026-정규경기-14",
+      "date": "2025-10-09",
+      "stage": "regular",
+      "round": 1,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3259
+    },
+    {
+      "game_id": "2025-2026-정규경기-15",
+      "date": "2025-10-10",
+      "stage": "regular",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 2523
+    },
+    {
+      "game_id": "2025-2026-정규경기-16",
+      "date": "2025-10-11",
+      "stage": "regular",
+      "round": 1,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 3608
+    },
+    {
+      "game_id": "2025-2026-정규경기-17",
+      "date": "2025-10-11",
+      "stage": "regular",
+      "round": 1,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2290
+    },
+    {
+      "game_id": "2025-2026-정규경기-18",
+      "date": "2025-10-11",
+      "stage": "regular",
+      "round": 1,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 3402
+    },
+    {
+      "game_id": "2025-2026-정규경기-19",
+      "date": "2025-10-12",
+      "stage": "regular",
+      "round": 1,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-20",
+      "date": "2025-10-12",
+      "stage": "regular",
+      "round": 1,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2277
+    },
+    {
+      "game_id": "2025-2026-정규경기-21",
+      "date": "2025-10-12",
+      "stage": "regular",
+      "round": 1,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2548
+    },
+    {
+      "game_id": "2025-2026-정규경기-22",
+      "date": "2025-10-13",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 2997
+    },
+    {
+      "game_id": "2025-2026-정규경기-23",
+      "date": "2025-10-14",
+      "stage": "regular",
+      "round": 1,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1153
+    },
+    {
+      "game_id": "2025-2026-정규경기-24",
+      "date": "2025-10-15",
+      "stage": "regular",
+      "round": 1,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 2373
+    },
+    {
+      "game_id": "2025-2026-정규경기-25",
+      "date": "2025-10-16",
+      "stage": "regular",
+      "round": 1,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2601
+    },
+    {
+      "game_id": "2025-2026-정규경기-26",
+      "date": "2025-10-17",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3008
+    },
+    {
+      "game_id": "2025-2026-정규경기-27",
+      "date": "2025-10-18",
+      "stage": "regular",
+      "round": 1,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3050
+    },
+    {
+      "game_id": "2025-2026-정규경기-28",
+      "date": "2025-10-18",
+      "stage": "regular",
+      "round": 1,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3001
+    },
+    {
+      "game_id": "2025-2026-정규경기-29",
+      "date": "2025-10-18",
+      "stage": "regular",
+      "round": 1,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4326
+    },
+    {
+      "game_id": "2025-2026-정규경기-30",
+      "date": "2025-10-19",
+      "stage": "regular",
+      "round": 1,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 3119
+    },
+    {
+      "game_id": "2025-2026-정규경기-31",
+      "date": "2025-10-19",
+      "stage": "regular",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3863
+    },
+    {
+      "game_id": "2025-2026-정규경기-32",
+      "date": "2025-10-19",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4166
+    },
+    {
+      "game_id": "2025-2026-정규경기-33",
+      "date": "2025-10-20",
+      "stage": "regular",
+      "round": 1,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 2084
+    },
+    {
+      "game_id": "2025-2026-정규경기-34",
+      "date": "2025-10-21",
+      "stage": "regular",
+      "round": 1,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2043
+    },
+    {
+      "game_id": "2025-2026-정규경기-35",
+      "date": "2025-10-22",
+      "stage": "regular",
+      "round": 1,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2052
+    },
+    {
+      "game_id": "2025-2026-정규경기-36",
+      "date": "2025-10-23",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1345
+    },
+    {
+      "game_id": "2025-2026-정규경기-37",
+      "date": "2025-10-24",
+      "stage": "regular",
+      "round": 1,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1790
+    },
+    {
+      "game_id": "2025-2026-정규경기-38",
+      "date": "2025-10-25",
+      "stage": "regular",
+      "round": 1,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2486
+    },
+    {
+      "game_id": "2025-2026-정규경기-39",
+      "date": "2025-10-25",
+      "stage": "regular",
+      "round": 1,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2441
+    },
+    {
+      "game_id": "2025-2026-정규경기-40",
+      "date": "2025-10-25",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2464
+    },
+    {
+      "game_id": "2025-2026-정규경기-41",
+      "date": "2025-10-26",
+      "stage": "regular",
+      "round": 1,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3040
+    },
+    {
+      "game_id": "2025-2026-정규경기-42",
+      "date": "2025-10-26",
+      "stage": "regular",
+      "round": 1,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1759
+    },
+    {
+      "game_id": "2025-2026-정규경기-43",
+      "date": "2025-10-26",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1977
+    },
+    {
+      "game_id": "2025-2026-정규경기-44",
+      "date": "2025-10-27",
+      "stage": "regular",
+      "round": 1,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 3539
+    },
+    {
+      "game_id": "2025-2026-정규경기-45",
+      "date": "2025-10-28",
+      "stage": "regular",
+      "round": 1,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1550
+    },
+    {
+      "game_id": "2025-2026-정규경기-46",
+      "date": "2025-10-29",
+      "stage": "regular",
+      "round": 2,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1720
+    },
+    {
+      "game_id": "2025-2026-정규경기-47",
+      "date": "2025-10-30",
+      "stage": "regular",
+      "round": 2,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1467
+    },
+    {
+      "game_id": "2025-2026-정규경기-48",
+      "date": "2025-10-31",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3205
+    },
+    {
+      "game_id": "2025-2026-정규경기-49",
+      "date": "2025-11-01",
+      "stage": "regular",
+      "round": 2,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 2587
+    },
+    {
+      "game_id": "2025-2026-정규경기-50",
+      "date": "2025-11-01",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 3748
+    },
+    {
+      "game_id": "2025-2026-정규경기-51",
+      "date": "2025-11-01",
+      "stage": "regular",
+      "round": 2,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3227
+    },
+    {
+      "game_id": "2025-2026-정규경기-52",
+      "date": "2025-11-02",
+      "stage": "regular",
+      "round": 2,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2370
+    },
+    {
+      "game_id": "2025-2026-정규경기-53",
+      "date": "2025-11-02",
+      "stage": "regular",
+      "round": 2,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2878
+    },
+    {
+      "game_id": "2025-2026-정규경기-54",
+      "date": "2025-11-02",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4121
+    },
+    {
+      "game_id": "2025-2026-정규경기-55",
+      "date": "2025-11-03",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1273
+    },
+    {
+      "game_id": "2025-2026-정규경기-56",
+      "date": "2025-11-04",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3226
+    },
+    {
+      "game_id": "2025-2026-정규경기-57",
+      "date": "2025-11-05",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1836
+    },
+    {
+      "game_id": "2025-2026-정규경기-58",
+      "date": "2025-11-06",
+      "stage": "regular",
+      "round": 2,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1511
+    },
+    {
+      "game_id": "2025-2026-정규경기-59",
+      "date": "2025-11-07",
+      "stage": "regular",
+      "round": 2,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 1732
+    },
+    {
+      "game_id": "2025-2026-정규경기-60",
+      "date": "2025-11-08",
+      "stage": "regular",
+      "round": 2,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3370
+    },
+    {
+      "game_id": "2025-2026-정규경기-61",
+      "date": "2025-11-08",
+      "stage": "regular",
+      "round": 2,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3054
+    },
+    {
+      "game_id": "2025-2026-정규경기-62",
+      "date": "2025-11-08",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2046
+    },
+    {
+      "game_id": "2025-2026-정규경기-63",
+      "date": "2025-11-09",
+      "stage": "regular",
+      "round": 2,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2267
+    },
+    {
+      "game_id": "2025-2026-정규경기-64",
+      "date": "2025-11-09",
+      "stage": "regular",
+      "round": 2,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2195
+    },
+    {
+      "game_id": "2025-2026-정규경기-65",
+      "date": "2025-11-09",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2709
+    },
+    {
+      "game_id": "2025-2026-정규경기-66",
+      "date": "2025-11-10",
+      "stage": "regular",
+      "round": 2,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4158
+    },
+    {
+      "game_id": "2025-2026-정규경기-67",
+      "date": "2025-11-11",
+      "stage": "regular",
+      "round": 2,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2486
+    },
+    {
+      "game_id": "2025-2026-정규경기-68",
+      "date": "2025-11-12",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1661
+    },
+    {
+      "game_id": "2025-2026-정규경기-69",
+      "date": "2025-11-13",
+      "stage": "regular",
+      "round": 2,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 1685
+    },
+    {
+      "game_id": "2025-2026-정규경기-70",
+      "date": "2025-11-13",
+      "stage": "regular",
+      "round": 2,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 1577
+    },
+    {
+      "game_id": "2025-2026-정규경기-71",
+      "date": "2025-11-15",
+      "stage": "regular",
+      "round": 2,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2482
+    },
+    {
+      "game_id": "2025-2026-정규경기-72",
+      "date": "2025-11-15",
+      "stage": "regular",
+      "round": 2,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3257
+    },
+    {
+      "game_id": "2025-2026-정규경기-73",
+      "date": "2025-11-15",
+      "stage": "regular",
+      "round": 2,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 7167
+    },
+    {
+      "game_id": "2025-2026-정규경기-74",
+      "date": "2025-11-16",
+      "stage": "regular",
+      "round": 2,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 3949
+    },
+    {
+      "game_id": "2025-2026-정규경기-75",
+      "date": "2025-11-16",
+      "stage": "regular",
+      "round": 2,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3056
+    },
+    {
+      "game_id": "2025-2026-정규경기-76",
+      "date": "2025-11-16",
+      "stage": "regular",
+      "round": 2,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2854
+    },
+    {
+      "game_id": "2025-2026-정규경기-77",
+      "date": "2025-11-17",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3751
+    },
+    {
+      "game_id": "2025-2026-정규경기-78",
+      "date": "2025-11-18",
+      "stage": "regular",
+      "round": 2,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2619
+    },
+    {
+      "game_id": "2025-2026-정규경기-79",
+      "date": "2025-11-18",
+      "stage": "regular",
+      "round": 2,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2388
+    },
+    {
+      "game_id": "2025-2026-정규경기-80",
+      "date": "2025-11-19",
+      "stage": "regular",
+      "round": 2,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1263
+    },
+    {
+      "game_id": "2025-2026-정규경기-81",
+      "date": "2025-11-19",
+      "stage": "regular",
+      "round": 2,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 1880
+    },
+    {
+      "game_id": "2025-2026-정규경기-82",
+      "date": "2025-11-20",
+      "stage": "regular",
+      "round": 2,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2340
+    },
+    {
+      "game_id": "2025-2026-정규경기-83",
+      "date": "2025-11-20",
+      "stage": "regular",
+      "round": 2,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 3499
+    },
+    {
+      "game_id": "2025-2026-정규경기-84",
+      "date": "2025-12-04",
+      "stage": "regular",
+      "round": 2,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 2984
+    },
+    {
+      "game_id": "2025-2026-정규경기-85",
+      "date": "2025-12-04",
+      "stage": "regular",
+      "round": 2,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 2197
+    },
+    {
+      "game_id": "2025-2026-정규경기-86",
+      "date": "2025-12-05",
+      "stage": "regular",
+      "round": 2,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 2359
+    },
+    {
+      "game_id": "2025-2026-정규경기-87",
+      "date": "2025-12-05",
+      "stage": "regular",
+      "round": 2,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1642
+    },
+    {
+      "game_id": "2025-2026-정규경기-88",
+      "date": "2025-12-06",
+      "stage": "regular",
+      "round": 2,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4317
+    },
+    {
+      "game_id": "2025-2026-정규경기-89",
+      "date": "2025-12-06",
+      "stage": "regular",
+      "round": 2,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2112
+    },
+    {
+      "game_id": "2025-2026-정규경기-90",
+      "date": "2025-12-06",
+      "stage": "regular",
+      "round": 2,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4129
+    },
+    {
+      "game_id": "2025-2026-정규경기-91",
+      "date": "2025-12-07",
+      "stage": "regular",
+      "round": 3,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4336
+    },
+    {
+      "game_id": "2025-2026-정규경기-92",
+      "date": "2025-12-07",
+      "stage": "regular",
+      "round": 3,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2613
+    },
+    {
+      "game_id": "2025-2026-정규경기-93",
+      "date": "2025-12-07",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 3619
+    },
+    {
+      "game_id": "2025-2026-정규경기-94",
+      "date": "2025-12-08",
+      "stage": "regular",
+      "round": 3,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2641
+    },
+    {
+      "game_id": "2025-2026-정규경기-95",
+      "date": "2025-12-09",
+      "stage": "regular",
+      "round": 3,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 1708
+    },
+    {
+      "game_id": "2025-2026-정규경기-96",
+      "date": "2025-12-10",
+      "stage": "regular",
+      "round": 3,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1732
+    },
+    {
+      "game_id": "2025-2026-정규경기-97",
+      "date": "2025-12-11",
+      "stage": "regular",
+      "round": 3,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 4279
+    },
+    {
+      "game_id": "2025-2026-정규경기-98",
+      "date": "2025-12-12",
+      "stage": "regular",
+      "round": 3,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2014
+    },
+    {
+      "game_id": "2025-2026-정규경기-100",
+      "date": "2025-12-13",
+      "stage": "regular",
+      "round": 3,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2224
+    },
+    {
+      "game_id": "2025-2026-정규경기-101",
+      "date": "2025-12-13",
+      "stage": "regular",
+      "round": 3,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1748
+    },
+    {
+      "game_id": "2025-2026-정규경기-99",
+      "date": "2025-12-13",
+      "stage": "regular",
+      "round": 3,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4854
+    },
+    {
+      "game_id": "2025-2026-정규경기-102",
+      "date": "2025-12-14",
+      "stage": "regular",
+      "round": 3,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3364
+    },
+    {
+      "game_id": "2025-2026-정규경기-103",
+      "date": "2025-12-14",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4211
+    },
+    {
+      "game_id": "2025-2026-정규경기-104",
+      "date": "2025-12-14",
+      "stage": "regular",
+      "round": 3,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2955
+    },
+    {
+      "game_id": "2025-2026-정규경기-105",
+      "date": "2025-12-15",
+      "stage": "regular",
+      "round": 3,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2137
+    },
+    {
+      "game_id": "2025-2026-정규경기-106",
+      "date": "2025-12-16",
+      "stage": "regular",
+      "round": 3,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 1664
+    },
+    {
+      "game_id": "2025-2026-정규경기-107",
+      "date": "2025-12-17",
+      "stage": "regular",
+      "round": 3,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1169
+    },
+    {
+      "game_id": "2025-2026-정규경기-108",
+      "date": "2025-12-18",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 3080
+    },
+    {
+      "game_id": "2025-2026-정규경기-109",
+      "date": "2025-12-19",
+      "stage": "regular",
+      "round": 3,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1809
+    },
+    {
+      "game_id": "2025-2026-정규경기-110",
+      "date": "2025-12-20",
+      "stage": "regular",
+      "round": 3,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4510
+    },
+    {
+      "game_id": "2025-2026-정규경기-111",
+      "date": "2025-12-20",
+      "stage": "regular",
+      "round": 3,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2291
+    },
+    {
+      "game_id": "2025-2026-정규경기-112",
+      "date": "2025-12-20",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4059
+    },
+    {
+      "game_id": "2025-2026-정규경기-113",
+      "date": "2025-12-21",
+      "stage": "regular",
+      "round": 3,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-114",
+      "date": "2025-12-21",
+      "stage": "regular",
+      "round": 3,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4401
+    },
+    {
+      "game_id": "2025-2026-정규경기-115",
+      "date": "2025-12-21",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4000
+    },
+    {
+      "game_id": "2025-2026-정규경기-116",
+      "date": "2025-12-22",
+      "stage": "regular",
+      "round": 3,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2072
+    },
+    {
+      "game_id": "2025-2026-정규경기-117",
+      "date": "2025-12-23",
+      "stage": "regular",
+      "round": 3,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 3556
+    },
+    {
+      "game_id": "2025-2026-정규경기-118",
+      "date": "2025-12-24",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 2963
+    },
+    {
+      "game_id": "2025-2026-정규경기-119",
+      "date": "2025-12-25",
+      "stage": "regular",
+      "round": 3,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 3110
+    },
+    {
+      "game_id": "2025-2026-정규경기-120",
+      "date": "2025-12-25",
+      "stage": "regular",
+      "round": 3,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 3299
+    },
+    {
+      "game_id": "2025-2026-정규경기-121",
+      "date": "2025-12-25",
+      "stage": "regular",
+      "round": 3,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 5354
+    },
+    {
+      "game_id": "2025-2026-정규경기-122",
+      "date": "2025-12-26",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4333
+    },
+    {
+      "game_id": "2025-2026-정규경기-123",
+      "date": "2025-12-27",
+      "stage": "regular",
+      "round": 3,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2728
+    },
+    {
+      "game_id": "2025-2026-정규경기-124",
+      "date": "2025-12-27",
+      "stage": "regular",
+      "round": 3,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3580
+    },
+    {
+      "game_id": "2025-2026-정규경기-125",
+      "date": "2025-12-27",
+      "stage": "regular",
+      "round": 3,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1937
+    },
+    {
+      "game_id": "2025-2026-정규경기-126",
+      "date": "2025-12-28",
+      "stage": "regular",
+      "round": 3,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-127",
+      "date": "2025-12-28",
+      "stage": "regular",
+      "round": 3,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 4291
+    },
+    {
+      "game_id": "2025-2026-정규경기-128",
+      "date": "2025-12-28",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4684
+    },
+    {
+      "game_id": "2025-2026-정규경기-129",
+      "date": "2025-12-29",
+      "stage": "regular",
+      "round": 3,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 1883
+    },
+    {
+      "game_id": "2025-2026-정규경기-130",
+      "date": "2025-12-30",
+      "stage": "regular",
+      "round": 3,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1802
+    },
+    {
+      "game_id": "2025-2026-정규경기-131",
+      "date": "2025-12-31",
+      "stage": "regular",
+      "round": 3,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2350
+    },
+    {
+      "game_id": "2025-2026-정규경기-132",
+      "date": "2025-12-31",
+      "stage": "regular",
+      "round": 3,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 7066
+    },
+    {
+      "game_id": "2025-2026-정규경기-133",
+      "date": "2026-01-01",
+      "stage": "regular",
+      "round": 3,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3462
+    },
+    {
+      "game_id": "2025-2026-정규경기-134",
+      "date": "2026-01-01",
+      "stage": "regular",
+      "round": 3,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 5204
+    },
+    {
+      "game_id": "2025-2026-정규경기-135",
+      "date": "2026-01-02",
+      "stage": "regular",
+      "round": 3,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2311
+    },
+    {
+      "game_id": "2025-2026-정규경기-136",
+      "date": "2026-01-03",
+      "stage": "regular",
+      "round": 4,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2369
+    },
+    {
+      "game_id": "2025-2026-정규경기-137",
+      "date": "2026-01-03",
+      "stage": "regular",
+      "round": 4,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3179
+    },
+    {
+      "game_id": "2025-2026-정규경기-138",
+      "date": "2026-01-03",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 5001
+    },
+    {
+      "game_id": "2025-2026-정규경기-139",
+      "date": "2026-01-04",
+      "stage": "regular",
+      "round": 4,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3099
+    },
+    {
+      "game_id": "2025-2026-정규경기-140",
+      "date": "2026-01-04",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 3000
+    },
+    {
+      "game_id": "2025-2026-정규경기-141",
+      "date": "2026-01-04",
+      "stage": "regular",
+      "round": 4,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 5416
+    },
+    {
+      "game_id": "2025-2026-정규경기-142",
+      "date": "2026-01-05",
+      "stage": "regular",
+      "round": 4,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1783
+    },
+    {
+      "game_id": "2025-2026-정규경기-143",
+      "date": "2026-01-06",
+      "stage": "regular",
+      "round": 4,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1372
+    },
+    {
+      "game_id": "2025-2026-정규경기-144",
+      "date": "2026-01-07",
+      "stage": "regular",
+      "round": 4,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 3041
+    },
+    {
+      "game_id": "2025-2026-정규경기-145",
+      "date": "2026-01-08",
+      "stage": "regular",
+      "round": 4,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2606
+    },
+    {
+      "game_id": "2025-2026-정규경기-146",
+      "date": "2026-01-09",
+      "stage": "regular",
+      "round": 4,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2083
+    },
+    {
+      "game_id": "2025-2026-정규경기-147",
+      "date": "2026-01-10",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4800
+    },
+    {
+      "game_id": "2025-2026-정규경기-148",
+      "date": "2026-01-10",
+      "stage": "regular",
+      "round": 4,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4185
+    },
+    {
+      "game_id": "2025-2026-정규경기-149",
+      "date": "2026-01-10",
+      "stage": "regular",
+      "round": 4,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-150",
+      "date": "2026-01-11",
+      "stage": "regular",
+      "round": 4,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3095
+    },
+    {
+      "game_id": "2025-2026-정규경기-151",
+      "date": "2026-01-11",
+      "stage": "regular",
+      "round": 4,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 4251
+    },
+    {
+      "game_id": "2025-2026-정규경기-152",
+      "date": "2026-01-11",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4214
+    },
+    {
+      "game_id": "2025-2026-정규경기-153",
+      "date": "2026-01-12",
+      "stage": "regular",
+      "round": 4,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2539
+    },
+    {
+      "game_id": "2025-2026-정규경기-154",
+      "date": "2026-01-12",
+      "stage": "regular",
+      "round": 4,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 2181
+    },
+    {
+      "game_id": "2025-2026-정규경기-155",
+      "date": "2026-01-13",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3384
+    },
+    {
+      "game_id": "2025-2026-정규경기-156",
+      "date": "2026-01-13",
+      "stage": "regular",
+      "round": 4,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1115
+    },
+    {
+      "game_id": "2025-2026-정규경기-157",
+      "date": "2026-01-14",
+      "stage": "regular",
+      "round": 4,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2035
+    },
+    {
+      "game_id": "2025-2026-정규경기-158",
+      "date": "2026-01-14",
+      "stage": "regular",
+      "round": 4,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2184
+    },
+    {
+      "game_id": "2025-2026-정규경기-159",
+      "date": "2026-01-15",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3342
+    },
+    {
+      "game_id": "2025-2026-정규경기-160",
+      "date": "2026-01-15",
+      "stage": "regular",
+      "round": 4,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 1911
+    },
+    {
+      "game_id": "2025-2026-정규경기-161",
+      "date": "2026-01-21",
+      "stage": "regular",
+      "round": 4,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2189
+    },
+    {
+      "game_id": "2025-2026-정규경기-162",
+      "date": "2026-01-21",
+      "stage": "regular",
+      "round": 4,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3063
+    },
+    {
+      "game_id": "2025-2026-정규경기-163",
+      "date": "2026-01-22",
+      "stage": "regular",
+      "round": 4,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1142
+    },
+    {
+      "game_id": "2025-2026-정규경기-164",
+      "date": "2026-01-22",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1275
+    },
+    {
+      "game_id": "2025-2026-정규경기-165",
+      "date": "2026-01-23",
+      "stage": "regular",
+      "round": 4,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2285
+    },
+    {
+      "game_id": "2025-2026-정규경기-166",
+      "date": "2026-01-23",
+      "stage": "regular",
+      "round": 4,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 3278
+    },
+    {
+      "game_id": "2025-2026-정규경기-167",
+      "date": "2026-01-24",
+      "stage": "regular",
+      "round": 4,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2290
+    },
+    {
+      "game_id": "2025-2026-정규경기-168",
+      "date": "2026-01-24",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4667
+    },
+    {
+      "game_id": "2025-2026-정규경기-169",
+      "date": "2026-01-24",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2441
+    },
+    {
+      "game_id": "2025-2026-정규경기-170",
+      "date": "2026-01-25",
+      "stage": "regular",
+      "round": 4,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-171",
+      "date": "2026-01-25",
+      "stage": "regular",
+      "round": 4,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4207
+    },
+    {
+      "game_id": "2025-2026-정규경기-172",
+      "date": "2026-01-25",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2252
+    },
+    {
+      "game_id": "2025-2026-정규경기-173",
+      "date": "2026-01-26",
+      "stage": "regular",
+      "round": 4,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1923
+    },
+    {
+      "game_id": "2025-2026-정규경기-174",
+      "date": "2026-01-27",
+      "stage": "regular",
+      "round": 4,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 1872
+    },
+    {
+      "game_id": "2025-2026-정규경기-175",
+      "date": "2026-01-28",
+      "stage": "regular",
+      "round": 4,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 3207
+    },
+    {
+      "game_id": "2025-2026-정규경기-176",
+      "date": "2026-01-29",
+      "stage": "regular",
+      "round": 4,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 1696
+    },
+    {
+      "game_id": "2025-2026-정규경기-177",
+      "date": "2026-01-30",
+      "stage": "regular",
+      "round": 4,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3285
+    },
+    {
+      "game_id": "2025-2026-정규경기-178",
+      "date": "2026-01-31",
+      "stage": "regular",
+      "round": 4,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4570
+    },
+    {
+      "game_id": "2025-2026-정규경기-179",
+      "date": "2026-01-31",
+      "stage": "regular",
+      "round": 4,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 3418
+    },
+    {
+      "game_id": "2025-2026-정규경기-180",
+      "date": "2026-01-31",
+      "stage": "regular",
+      "round": 4,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 5005
+    },
+    {
+      "game_id": "2025-2026-정규경기-181",
+      "date": "2026-02-01",
+      "stage": "regular",
+      "round": 5,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2272
+    },
+    {
+      "game_id": "2025-2026-정규경기-182",
+      "date": "2026-02-01",
+      "stage": "regular",
+      "round": 5,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3650
+    },
+    {
+      "game_id": "2025-2026-정규경기-183",
+      "date": "2026-02-01",
+      "stage": "regular",
+      "round": 5,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 4054
+    },
+    {
+      "game_id": "2025-2026-정규경기-184",
+      "date": "2026-02-02",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4009
+    },
+    {
+      "game_id": "2025-2026-정규경기-185",
+      "date": "2026-02-03",
+      "stage": "regular",
+      "round": 5,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 2821
+    },
+    {
+      "game_id": "2025-2026-정규경기-186",
+      "date": "2026-02-04",
+      "stage": "regular",
+      "round": 5,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 2794
+    },
+    {
+      "game_id": "2025-2026-정규경기-187",
+      "date": "2026-02-05",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1589
+    },
+    {
+      "game_id": "2025-2026-정규경기-188",
+      "date": "2026-02-06",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3101
+    },
+    {
+      "game_id": "2025-2026-정규경기-189",
+      "date": "2026-02-07",
+      "stage": "regular",
+      "round": 5,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 4605
+    },
+    {
+      "game_id": "2025-2026-정규경기-190",
+      "date": "2026-02-07",
+      "stage": "regular",
+      "round": 5,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3594
+    },
+    {
+      "game_id": "2025-2026-정규경기-191",
+      "date": "2026-02-07",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2828
+    },
+    {
+      "game_id": "2025-2026-정규경기-192",
+      "date": "2026-02-08",
+      "stage": "regular",
+      "round": 5,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2452
+    },
+    {
+      "game_id": "2025-2026-정규경기-193",
+      "date": "2026-02-08",
+      "stage": "regular",
+      "round": 5,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 4272
+    },
+    {
+      "game_id": "2025-2026-정규경기-194",
+      "date": "2026-02-08",
+      "stage": "regular",
+      "round": 5,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 4210
+    },
+    {
+      "game_id": "2025-2026-정규경기-195",
+      "date": "2026-02-09",
+      "stage": "regular",
+      "round": 5,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1749
+    },
+    {
+      "game_id": "2025-2026-정규경기-196",
+      "date": "2026-02-10",
+      "stage": "regular",
+      "round": 5,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1865
+    },
+    {
+      "game_id": "2025-2026-정규경기-197",
+      "date": "2026-02-11",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3399
+    },
+    {
+      "game_id": "2025-2026-정규경기-198",
+      "date": "2026-02-12",
+      "stage": "regular",
+      "round": 5,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1226
+    },
+    {
+      "game_id": "2025-2026-정규경기-199",
+      "date": "2026-02-13",
+      "stage": "regular",
+      "round": 5,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2390
+    },
+    {
+      "game_id": "2025-2026-정규경기-200",
+      "date": "2026-02-14",
+      "stage": "regular",
+      "round": 5,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2246
+    },
+    {
+      "game_id": "2025-2026-정규경기-201",
+      "date": "2026-02-14",
+      "stage": "regular",
+      "round": 5,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4026
+    },
+    {
+      "game_id": "2025-2026-정규경기-202",
+      "date": "2026-02-14",
+      "stage": "regular",
+      "round": 5,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-203",
+      "date": "2026-02-15",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 5219
+    },
+    {
+      "game_id": "2025-2026-정규경기-204",
+      "date": "2026-02-15",
+      "stage": "regular",
+      "round": 5,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4435
+    },
+    {
+      "game_id": "2025-2026-정규경기-205",
+      "date": "2026-02-15",
+      "stage": "regular",
+      "round": 5,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 3175
+    },
+    {
+      "game_id": "2025-2026-정규경기-206",
+      "date": "2026-02-16",
+      "stage": "regular",
+      "round": 5,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-207",
+      "date": "2026-02-16",
+      "stage": "regular",
+      "round": 5,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3657
+    },
+    {
+      "game_id": "2025-2026-정규경기-208",
+      "date": "2026-02-17",
+      "stage": "regular",
+      "round": 5,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1861
+    },
+    {
+      "game_id": "2025-2026-정규경기-209",
+      "date": "2026-02-17",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 3246
+    },
+    {
+      "game_id": "2025-2026-정규경기-210",
+      "date": "2026-02-18",
+      "stage": "regular",
+      "round": 5,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 4531
+    },
+    {
+      "game_id": "2025-2026-정규경기-211",
+      "date": "2026-02-18",
+      "stage": "regular",
+      "round": 5,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 5274
+    },
+    {
+      "game_id": "2025-2026-정규경기-212",
+      "date": "2026-02-19",
+      "stage": "regular",
+      "round": 5,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1882
+    },
+    {
+      "game_id": "2025-2026-정규경기-213",
+      "date": "2026-02-19",
+      "stage": "regular",
+      "round": 5,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 2809
+    },
+    {
+      "game_id": "2025-2026-정규경기-214",
+      "date": "2026-03-05",
+      "stage": "regular",
+      "round": 5,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 1818
+    },
+    {
+      "game_id": "2025-2026-정규경기-215",
+      "date": "2026-03-05",
+      "stage": "regular",
+      "round": 5,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2172
+    },
+    {
+      "game_id": "2025-2026-정규경기-216",
+      "date": "2026-03-06",
+      "stage": "regular",
+      "round": 5,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 2787
+    },
+    {
+      "game_id": "2025-2026-정규경기-217",
+      "date": "2026-03-06",
+      "stage": "regular",
+      "round": 5,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2001
+    },
+    {
+      "game_id": "2025-2026-정규경기-218",
+      "date": "2026-03-07",
+      "stage": "regular",
+      "round": 5,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3025
+    },
+    {
+      "game_id": "2025-2026-정규경기-219",
+      "date": "2026-03-07",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 4194
+    },
+    {
+      "game_id": "2025-2026-정규경기-220",
+      "date": "2026-03-07",
+      "stage": "regular",
+      "round": 5,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 3317
+    },
+    {
+      "game_id": "2025-2026-정규경기-221",
+      "date": "2026-03-08",
+      "stage": "regular",
+      "round": 5,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-222",
+      "date": "2026-03-08",
+      "stage": "regular",
+      "round": 5,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2153
+    },
+    {
+      "game_id": "2025-2026-정규경기-223",
+      "date": "2026-03-08",
+      "stage": "regular",
+      "round": 5,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2550
+    },
+    {
+      "game_id": "2025-2026-정규경기-224",
+      "date": "2026-03-09",
+      "stage": "regular",
+      "round": 5,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1296
+    },
+    {
+      "game_id": "2025-2026-정규경기-225",
+      "date": "2026-03-10",
+      "stage": "regular",
+      "round": 5,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 1749
+    },
+    {
+      "game_id": "2025-2026-정규경기-226",
+      "date": "2026-03-11",
+      "stage": "regular",
+      "round": 6,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 2478
+    },
+    {
+      "game_id": "2025-2026-정규경기-227",
+      "date": "2026-03-12",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3350
+    },
+    {
+      "game_id": "2025-2026-정규경기-228",
+      "date": "2026-03-13",
+      "stage": "regular",
+      "round": 6,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 2484
+    },
+    {
+      "game_id": "2025-2026-정규경기-229",
+      "date": "2026-03-14",
+      "stage": "regular",
+      "round": 6,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 3650
+    },
+    {
+      "game_id": "2025-2026-정규경기-230",
+      "date": "2026-03-14",
+      "stage": "regular",
+      "round": 6,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 3307
+    },
+    {
+      "game_id": "2025-2026-정규경기-231",
+      "date": "2026-03-14",
+      "stage": "regular",
+      "round": 6,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 3439
+    },
+    {
+      "game_id": "2025-2026-정규경기-232",
+      "date": "2026-03-15",
+      "stage": "regular",
+      "round": 6,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 3228
+    },
+    {
+      "game_id": "2025-2026-정규경기-233",
+      "date": "2026-03-15",
+      "stage": "regular",
+      "round": 6,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3922
+    },
+    {
+      "game_id": "2025-2026-정규경기-234",
+      "date": "2026-03-15",
+      "stage": "regular",
+      "round": 6,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2514
+    },
+    {
+      "game_id": "2025-2026-정규경기-235",
+      "date": "2026-03-16",
+      "stage": "regular",
+      "round": 6,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1183
+    },
+    {
+      "game_id": "2025-2026-정규경기-236",
+      "date": "2026-03-18",
+      "stage": "regular",
+      "round": 6,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1151
+    },
+    {
+      "game_id": "2025-2026-정규경기-237",
+      "date": "2026-03-19",
+      "stage": "regular",
+      "round": 6,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 2844
+    },
+    {
+      "game_id": "2025-2026-정규경기-238",
+      "date": "2026-03-20",
+      "stage": "regular",
+      "round": 6,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1600
+    },
+    {
+      "game_id": "2025-2026-정규경기-239",
+      "date": "2026-03-21",
+      "stage": "regular",
+      "round": 6,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3839
+    },
+    {
+      "game_id": "2025-2026-정규경기-240",
+      "date": "2026-03-21",
+      "stage": "regular",
+      "round": 6,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 3338
+    },
+    {
+      "game_id": "2025-2026-정규경기-241",
+      "date": "2026-03-22",
+      "stage": "regular",
+      "round": 6,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 3973
+    },
+    {
+      "game_id": "2025-2026-정규경기-242",
+      "date": "2026-03-22",
+      "stage": "regular",
+      "round": 6,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2630
+    },
+    {
+      "game_id": "2025-2026-정규경기-243",
+      "date": "2026-03-23",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 1132
+    },
+    {
+      "game_id": "2025-2026-정규경기-244",
+      "date": "2026-03-24",
+      "stage": "regular",
+      "round": 6,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2020
+    },
+    {
+      "game_id": "2025-2026-정규경기-245",
+      "date": "2026-03-25",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3814
+    },
+    {
+      "game_id": "2025-2026-정규경기-246",
+      "date": "2026-03-26",
+      "stage": "regular",
+      "round": 6,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 2233
+    },
+    {
+      "game_id": "2025-2026-정규경기-247",
+      "date": "2026-03-27",
+      "stage": "regular",
+      "round": 6,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 2319
+    },
+    {
+      "game_id": "2025-2026-정규경기-248",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "round": 6,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 2111
+    },
+    {
+      "game_id": "2025-2026-정규경기-249",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "round": 6,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 3815
+    },
+    {
+      "game_id": "2025-2026-정규경기-250",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2211
+    },
+    {
+      "game_id": "2025-2026-정규경기-251",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "round": 6,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4512
+    },
+    {
+      "game_id": "2025-2026-정규경기-252",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "round": 6,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 3290
+    },
+    {
+      "game_id": "2025-2026-정규경기-253",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 2211
+    },
+    {
+      "game_id": "2025-2026-정규경기-254",
+      "date": "2026-03-30",
+      "stage": "regular",
+      "round": 6,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 1111
+    },
+    {
+      "game_id": "2025-2026-정규경기-255",
+      "date": "2026-03-31",
+      "stage": "regular",
+      "round": 6,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2621
+    },
+    {
+      "game_id": "2025-2026-정규경기-256",
+      "date": "2026-04-01",
+      "stage": "regular",
+      "round": 6,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 1470
+    },
+    {
+      "game_id": "2025-2026-정규경기-257",
+      "date": "2026-04-02",
+      "stage": "regular",
+      "round": 6,
+      "home": "대구 한국가스공사",
+      "away": null,
+      "venue": "대구",
+      "attendance": 1761
+    },
+    {
+      "game_id": "2025-2026-정규경기-258",
+      "date": "2026-04-03",
+      "stage": "regular",
+      "round": 6,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1963
+    },
+    {
+      "game_id": "2025-2026-정규경기-259",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "round": 6,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 2959
+    },
+    {
+      "game_id": "2025-2026-정규경기-260",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "round": 6,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2755
+    },
+    {
+      "game_id": "2025-2026-정규경기-261",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4198
+    },
+    {
+      "game_id": "2025-2026-정규경기-262",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "round": 6,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-정규경기-263",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "round": 6,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 4270
+    },
+    {
+      "game_id": "2025-2026-정규경기-264",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "round": 6,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 2395
+    },
+    {
+      "game_id": "2025-2026-정규경기-265",
+      "date": "2026-04-06",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 3001
+    },
+    {
+      "game_id": "2025-2026-정규경기-266",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "round": 6,
+      "home": "울산 현대모비스",
+      "away": null,
+      "venue": "울산동천",
+      "attendance": 3979
+    },
+    {
+      "game_id": "2025-2026-정규경기-267",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "round": 6,
+      "home": "수원 KT",
+      "away": null,
+      "venue": "수원 KT 소닉붐 아레나",
+      "attendance": 1438
+    },
+    {
+      "game_id": "2025-2026-정규경기-268",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "round": 6,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 3624
+    },
+    {
+      "game_id": "2025-2026-정규경기-269",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "round": 6,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 1878
+    },
+    {
+      "game_id": "2025-2026-정규경기-270",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "round": 6,
+      "home": "서울 삼성",
+      "away": null,
+      "venue": "잠실실내",
+      "attendance": 3374
+    },
+    {
+      "game_id": "2025-2026-플레이오프-1",
+      "date": "2026-04-12",
+      "stage": "postseason",
+      "round": 1,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 5202
+    },
+    {
+      "game_id": "2025-2026-플레이오프-2",
+      "date": "2026-04-13",
+      "stage": "postseason",
+      "round": 1,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2843
+    },
+    {
+      "game_id": "2025-2026-플레이오프-3",
+      "date": "2026-04-14",
+      "stage": "postseason",
+      "round": 1,
+      "home": "서울 SK",
+      "away": null,
+      "venue": "잠실학생",
+      "attendance": 4146
+    },
+    {
+      "game_id": "2025-2026-플레이오프-4",
+      "date": "2026-04-15",
+      "stage": "postseason",
+      "round": 1,
+      "home": "원주 DB",
+      "away": null,
+      "venue": "원주DB프로미아레나",
+      "attendance": 2830
+    },
+    {
+      "game_id": "2025-2026-플레이오프-5",
+      "date": "2026-04-16",
+      "stage": "postseason",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 6120
+    },
+    {
+      "game_id": "2025-2026-플레이오프-6",
+      "date": "2026-04-17",
+      "stage": "postseason",
+      "round": 1,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4122
+    },
+    {
+      "game_id": "2025-2026-플레이오프-11",
+      "date": "2026-04-23",
+      "stage": "postseason",
+      "round": 2,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-플레이오프-12",
+      "date": "2026-04-24",
+      "stage": "postseason",
+      "round": 2,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 5196
+    },
+    {
+      "game_id": "2025-2026-플레이오프-13",
+      "date": "2026-04-25",
+      "stage": "postseason",
+      "round": 2,
+      "home": "창원 LG",
+      "away": null,
+      "venue": "창원체육관",
+      "attendance": 4950
+    },
+    {
+      "game_id": "2025-2026-플레이오프-14",
+      "date": "2026-04-26",
+      "stage": "postseason",
+      "round": 2,
+      "home": "안양 정관장",
+      "away": null,
+      "venue": "안양 정관장 아레나",
+      "attendance": 5302
+    },
+    {
+      "game_id": "2025-2026-플레이오프-15",
+      "date": "2026-04-27",
+      "stage": "postseason",
+      "round": 2,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 6259
+    },
+    {
+      "game_id": "2025-2026-플레이오프-16",
+      "date": "2026-04-28",
+      "stage": "postseason",
+      "round": 2,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 4232
+    },
+    {
+      "game_id": "2025-2026-플레이오프-18",
+      "date": "2026-04-30",
+      "stage": "postseason",
+      "round": 2,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 5147
+    },
+    {
+      "game_id": "2025-2026-챔피언결정전-1",
+      "date": "2026-05-05",
+      "stage": "postseason",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 6486
+    },
+    {
+      "game_id": "2025-2026-챔피언결정전-2",
+      "date": "2026-05-07",
+      "stage": "postseason",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 6316
+    },
+    {
+      "game_id": "2025-2026-챔피언결정전-3",
+      "date": "2026-05-09",
+      "stage": "postseason",
+      "round": 1,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 10998
+    },
+    {
+      "game_id": "2025-2026-챔피언결정전-4",
+      "date": "2026-05-10",
+      "stage": "postseason",
+      "round": 1,
+      "home": "부산 KCC",
+      "away": null,
+      "venue": "부산사직",
+      "attendance": 11336
+    },
+    {
+      "game_id": "2025-2026-챔피언결정전-5",
+      "date": "2026-05-13",
+      "stage": "postseason",
+      "round": 1,
+      "home": "고양 소노",
+      "away": null,
+      "venue": "고양소노아레나",
+      "attendance": 6363
+    }
+  ]
+}

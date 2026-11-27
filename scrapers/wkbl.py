@@ -17,7 +17,7 @@ from urllib.parse import parse_qs, urlparse
 
 from bs4 import BeautifulSoup
 
-from scrapers.base import CollectError, Http, Result, load_config, load_previous, to_int
+from scrapers.base import CollectError, Http, Result, load_config, load_previous, now_kst, to_int
 
 BASE = "https://www.wkbl.or.kr"
 SCHEDULE = f"{BASE}/game/sch/schedule1.asp"
@@ -159,11 +159,19 @@ def collect(season: str) -> Result:
     if known > total:
         raise CollectError(f"WKBL 경기별 관중 합({known:,})이 시즌 합계({total:,})보다 큼")
 
+    # 시즌 합계 기록 (날짜별 누적 관중 그래프용). 합계나 반영 경기 수가 바뀔 때만 한 줄 추가
+    history = list(prev.get("total_history") or [])
+    reflected = [g for g in games if not g.get("pending")]
+    entry = {"last_game": max((g["date"] for g in reflected), default=None),
+             "games": len(reflected), "total": total, "recorded_at": now_kst()}
+    if not history or (history[-1]["total"], history[-1]["games"]) != (entry["total"], entry["games"]):
+        history.append(entry)
+
     return Result(
         games=games, source_url=f"{SCHEDULE} + {CROWD}",
         official={"total": {"attendance": total, "games": None,
                             "note": "WKBL 역대관중현황 시즌 합계 (정규+PO+챔프전)"}},
         notes=notes,
         extra={"attendance_method": "season_total_snapshot", "season_total": total,
-               "stage_totals": stage_totals},
+               "stage_totals": stage_totals, "total_history": history},
     )

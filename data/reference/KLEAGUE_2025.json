@@ -1,0 +1,5079 @@
+{
+  "league": "KLEAGUE",
+  "season": "2025",
+  "collected_at": "2026-11-27T15:22:15+09:00",
+  "purpose": "전 시즌 같은 시점 비교용 (합계에는 쓰지 않음)",
+  "source_url": "https://portal.kleague.com/mainFrame.do (관중정보)",
+  "games": [
+    {
+      "game_id": "하나은행 K리그1 2025-1",
+      "date": "2025-02-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "대전",
+      "venue": "포항 스틸야드",
+      "attendance": 10519
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-2",
+      "date": "2025-02-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "서울",
+      "venue": "제주 월드컵",
+      "attendance": 11049
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-3",
+      "date": "2025-02-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "수원FC",
+      "venue": "광주 월드컵",
+      "attendance": 4690
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-4",
+      "date": "2025-02-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "안양",
+      "venue": "울산 문수",
+      "attendance": 18718
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-5",
+      "date": "2025-02-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "김천",
+      "venue": "전주 월드컵",
+      "attendance": 19619
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-6",
+      "date": "2025-02-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "강원",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12240
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-7",
+      "date": "2025-02-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "김천",
+      "venue": "제주 월드컵",
+      "attendance": 5733
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-8",
+      "date": "2025-02-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "안양",
+      "venue": "서울 월드컵",
+      "attendance": 41415
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-9",
+      "date": "2025-02-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "수원FC",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12098
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-1",
+      "date": "2025-02-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "경남",
+      "venue": "인천 전용",
+      "attendance": 9363
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-2",
+      "date": "2025-02-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "전남",
+      "venue": "천안 종합",
+      "attendance": 2764
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-3",
+      "date": "2025-02-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "김포",
+      "venue": "부산 구덕",
+      "attendance": 4101
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-4",
+      "date": "2025-02-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "수원",
+      "venue": "안산 와스타디움",
+      "attendance": 10956
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-10",
+      "date": "2025-02-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "울산",
+      "venue": "대전 월드컵",
+      "attendance": 19628
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-11",
+      "date": "2025-02-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "광주",
+      "venue": "전주 월드컵",
+      "attendance": 15393
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-12",
+      "date": "2025-02-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "포항",
+      "venue": "춘천 송암",
+      "attendance": 6539
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-5",
+      "date": "2025-02-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "화성",
+      "venue": "탄천 종합",
+      "attendance": 3314
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-6",
+      "date": "2025-02-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "충남아산",
+      "venue": "목동 종합",
+      "attendance": 3592
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-7",
+      "date": "2025-02-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "충북청주",
+      "venue": "부천 종합",
+      "attendance": 3590
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-13",
+      "date": "2025-03-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "전북",
+      "venue": "울산 문수",
+      "attendance": 26317
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-14",
+      "date": "2025-03-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "대구",
+      "venue": "포항 스틸야드",
+      "attendance": 11207
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-15",
+      "date": "2025-03-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "안양",
+      "venue": "광주 월드컵",
+      "attendance": 3319
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-10",
+      "date": "2025-03-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "김포",
+      "venue": "안산 와스타디움",
+      "attendance": 1444
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-8",
+      "date": "2025-03-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "수원",
+      "venue": "인천 전용",
+      "attendance": 18173
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-9",
+      "date": "2025-03-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "전남",
+      "venue": "목동 종합",
+      "attendance": 2554
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-16",
+      "date": "2025-03-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "수원FC",
+      "venue": "대전 월드컵",
+      "attendance": 7220
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-17",
+      "date": "2025-03-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "제주",
+      "venue": "춘천 송암",
+      "attendance": 5009
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-11",
+      "date": "2025-03-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "충남아산",
+      "venue": "화성 종합",
+      "attendance": 3731
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-12",
+      "date": "2025-03-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "경남",
+      "venue": "부산 구덕",
+      "attendance": 2610
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-13",
+      "date": "2025-03-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "부천",
+      "venue": "천안 종합",
+      "attendance": 1198
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-18",
+      "date": "2025-03-03",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "김천",
+      "venue": "서울 월드컵",
+      "attendance": 24889
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-14",
+      "date": "2025-03-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "충북청주",
+      "venue": "탄천 종합",
+      "attendance": 2015
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-19",
+      "date": "2025-03-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "서울",
+      "venue": "수원 종합",
+      "attendance": 8661
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-20",
+      "date": "2025-03-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "대전",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12168
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-21",
+      "date": "2025-03-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "김천",
+      "venue": "안양 종합",
+      "attendance": 13579
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-15",
+      "date": "2025-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "부산",
+      "venue": "부천 종합",
+      "attendance": 3277
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-16",
+      "date": "2025-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "경남",
+      "venue": "화성 종합",
+      "attendance": 1425
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-17",
+      "date": "2025-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "충북청주",
+      "venue": "김포솔터축구장",
+      "attendance": 4017
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-18",
+      "date": "2025-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "전남",
+      "venue": "안산 와스타디움",
+      "attendance": 1447
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-22",
+      "date": "2025-03-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "제주",
+      "venue": "울산 문수",
+      "attendance": 16749
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-24",
+      "date": "2025-03-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "강원",
+      "venue": "전주 월드컵",
+      "attendance": 14090
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-19",
+      "date": "2025-03-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "수원",
+      "venue": "목동 종합",
+      "attendance": 9644
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-20",
+      "date": "2025-03-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "충남아산",
+      "venue": "천안 종합",
+      "attendance": 3163
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-21",
+      "date": "2025-03-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "인천",
+      "venue": "탄천 종합",
+      "attendance": 4891
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-25",
+      "date": "2025-03-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "대전",
+      "venue": "제주 월드컵",
+      "attendance": 4651
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-26",
+      "date": "2025-03-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "서울",
+      "venue": "춘천 송암",
+      "attendance": 10231
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-27",
+      "date": "2025-03-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "안양",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12183
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-22",
+      "date": "2025-03-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "서울E",
+      "venue": "인천 전용",
+      "attendance": 9695
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-23",
+      "date": "2025-03-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "충북청주",
+      "venue": "화성 종합",
+      "attendance": 1735
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-24",
+      "date": "2025-03-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "성남",
+      "venue": "김포솔터축구장",
+      "attendance": 3126
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-25",
+      "date": "2025-03-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "충남아산",
+      "venue": "수원 월드컵",
+      "attendance": 14099
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-28",
+      "date": "2025-03-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "울산",
+      "venue": "수원 종합",
+      "attendance": 5557
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-29",
+      "date": "2025-03-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "광주",
+      "venue": "김천 종합",
+      "attendance": 3193
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-30",
+      "date": "2025-03-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "포항",
+      "venue": "전주 월드컵",
+      "attendance": 10442
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-26",
+      "date": "2025-03-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "천안",
+      "venue": "부산 구덕",
+      "attendance": 1812
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-27",
+      "date": "2025-03-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "전남",
+      "venue": "창원 축구센터",
+      "attendance": 5969
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-28",
+      "date": "2025-03-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "안산",
+      "venue": "부천 종합",
+      "attendance": 2462
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-23",
+      "date": "2025-03-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "포항",
+      "venue": "광주 월드컵",
+      "attendance": 4544
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-31",
+      "date": "2025-03-29",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "대구",
+      "venue": "서울 월드컵",
+      "attendance": 25258
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-32",
+      "date": "2025-03-29",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "울산",
+      "venue": "포항 스틸야드",
+      "attendance": 12565
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-33",
+      "date": "2025-03-29",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "광주",
+      "venue": "대전 월드컵",
+      "attendance": 11469
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-29",
+      "date": "2025-03-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "화성",
+      "venue": "안산 와스타디움",
+      "attendance": 1768
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-30",
+      "date": "2025-03-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "전남",
+      "venue": "수원 월드컵",
+      "attendance": 9692
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-31",
+      "date": "2025-03-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "충북청주",
+      "venue": "창원 축구센터",
+      "attendance": 2696
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-32",
+      "date": "2025-03-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "부산",
+      "venue": "인천 전용",
+      "attendance": 8507
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-34",
+      "date": "2025-03-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "수원FC",
+      "venue": "제주 월드컵",
+      "attendance": 10778
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-35",
+      "date": "2025-03-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "강원",
+      "venue": "김천 종합",
+      "attendance": 2026
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-36",
+      "date": "2025-03-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "전북",
+      "venue": "안양 종합",
+      "attendance": 10031
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-33",
+      "date": "2025-03-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "부천",
+      "venue": "목동 종합",
+      "attendance": 3140
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-34",
+      "date": "2025-03-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "김포",
+      "venue": "천안 종합",
+      "attendance": 1283
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-35",
+      "date": "2025-03-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "성남",
+      "venue": "아산 이순신",
+      "attendance": 6519
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-108",
+      "date": "2025-04-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "대전",
+      "venue": "울산 문수",
+      "attendance": 6902
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-37",
+      "date": "2025-04-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "서울",
+      "venue": "울산 문수",
+      "attendance": 20358
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-38",
+      "date": "2025-04-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "대구",
+      "venue": "김천 종합",
+      "attendance": 3740
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-39",
+      "date": "2025-04-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "전북",
+      "venue": "대전 월드컵",
+      "attendance": 14622
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-40",
+      "date": "2025-04-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "포항",
+      "venue": "수원 종합",
+      "attendance": 2924
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-36",
+      "date": "2025-04-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "천안",
+      "venue": "목동 종합",
+      "attendance": 2136
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-37",
+      "date": "2025-04-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "인천",
+      "venue": "화성 종합",
+      "attendance": 2279
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-38",
+      "date": "2025-04-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "전남",
+      "venue": "부산 구덕",
+      "attendance": 2081
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-41",
+      "date": "2025-04-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "강원",
+      "venue": "안양 종합",
+      "attendance": 8127
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-42",
+      "date": "2025-04-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "제주",
+      "venue": "광주 월드컵",
+      "attendance": 3858
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-39",
+      "date": "2025-04-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "경남",
+      "venue": "수원 월드컵",
+      "attendance": 11343
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-40",
+      "date": "2025-04-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "부천",
+      "venue": "김포솔터축구장",
+      "attendance": 3176
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-41",
+      "date": "2025-04-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "충북청주",
+      "venue": "아산 이순신",
+      "attendance": 3871
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-42",
+      "date": "2025-04-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "안산",
+      "venue": "탄천 종합",
+      "attendance": 2291
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-56",
+      "date": "2025-04-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "대구",
+      "venue": "광주 월드컵",
+      "attendance": 1983
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-43",
+      "date": "2025-04-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "김천",
+      "venue": "수원 종합",
+      "attendance": 2066
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-44",
+      "date": "2025-04-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "대전",
+      "venue": "서울 월드컵",
+      "attendance": 20284
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-45",
+      "date": "2025-04-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "안양",
+      "venue": "포항 스틸야드",
+      "attendance": 8354
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-43",
+      "date": "2025-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "충남아산",
+      "venue": "김포솔터축구장",
+      "attendance": 1494
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-44",
+      "date": "2025-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "전남",
+      "venue": "화성 종합",
+      "attendance": 1036
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-45",
+      "date": "2025-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "수원",
+      "venue": "부천 종합",
+      "attendance": 5936
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-46",
+      "date": "2025-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "성남",
+      "venue": "창원 축구센터",
+      "attendance": 2162
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-46",
+      "date": "2025-04-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "광주",
+      "venue": "춘천 송암",
+      "attendance": 5080
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-47",
+      "date": "2025-04-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "제주",
+      "venue": "전주 월드컵",
+      "attendance": 10958
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-48",
+      "date": "2025-04-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "울산",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12218
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-47",
+      "date": "2025-04-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "충북청주",
+      "venue": "인천 전용",
+      "attendance": 5542
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-48",
+      "date": "2025-04-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "서울E",
+      "venue": "부산 구덕",
+      "attendance": 2321
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-49",
+      "date": "2025-04-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "안산",
+      "venue": "천안 종합",
+      "attendance": 1021
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-49",
+      "date": "2025-04-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "강원",
+      "venue": "울산 문수",
+      "attendance": 13536
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-50",
+      "date": "2025-04-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "대전",
+      "venue": "김천 종합",
+      "attendance": 2789
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-51",
+      "date": "2025-04-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "수원FC",
+      "venue": "안양 종합",
+      "attendance": 4508
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-52",
+      "date": "2025-04-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "광주",
+      "venue": "서울 월드컵",
+      "attendance": 19234
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-50",
+      "date": "2025-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "천안",
+      "venue": "인천 전용",
+      "attendance": 4637
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-51",
+      "date": "2025-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "충북청주",
+      "venue": "목동 종합",
+      "attendance": 1888
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-52",
+      "date": "2025-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "화성",
+      "venue": "수원 월드컵",
+      "attendance": 9238
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-53",
+      "date": "2025-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "부천",
+      "venue": "탄천 종합",
+      "attendance": 2223
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-53",
+      "date": "2025-04-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "포항",
+      "venue": "제주 월드컵",
+      "attendance": 5531
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-54",
+      "date": "2025-04-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "대구",
+      "venue": "전주 월드컵",
+      "attendance": 12897
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-54",
+      "date": "2025-04-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "부산",
+      "venue": "안산 와스타디움",
+      "attendance": 2424
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-55",
+      "date": "2025-04-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "전남",
+      "venue": "아산 이순신",
+      "attendance": 3131
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-56",
+      "date": "2025-04-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "김포",
+      "venue": "창원 축구센터",
+      "attendance": 2318
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-114",
+      "date": "2025-04-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "울산",
+      "venue": "안양 종합",
+      "attendance": 5592
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-55",
+      "date": "2025-04-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "전북",
+      "venue": "수원 종합",
+      "attendance": 7131
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-57",
+      "date": "2025-04-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "제주",
+      "venue": "안양 종합",
+      "attendance": 5939
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-57",
+      "date": "2025-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "경남",
+      "venue": "목동 종합",
+      "attendance": 3383
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-58",
+      "date": "2025-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "충북청주",
+      "venue": "천안 종합",
+      "attendance": 1411
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-59",
+      "date": "2025-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "안산",
+      "venue": "아산 이순신",
+      "attendance": 2043
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-60",
+      "date": "2025-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "인천",
+      "venue": "부천 종합",
+      "attendance": 7561
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-58",
+      "date": "2025-04-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "서울",
+      "venue": "포항 스틸야드",
+      "attendance": 10984
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-59",
+      "date": "2025-04-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "울산",
+      "venue": "김천 종합",
+      "attendance": 3300
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-60",
+      "date": "2025-04-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "강원",
+      "venue": "대전 월드컵",
+      "attendance": 9412
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-61",
+      "date": "2025-04-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "성남",
+      "venue": "수원 월드컵",
+      "attendance": 13948
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-62",
+      "date": "2025-04-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "전남",
+      "venue": "김포솔터축구장",
+      "attendance": 3279
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-63",
+      "date": "2025-04-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "화성",
+      "venue": "부산 구덕",
+      "attendance": 2769
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-61",
+      "date": "2025-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "광주",
+      "venue": "울산 문수",
+      "attendance": 9659
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-62",
+      "date": "2025-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "김천",
+      "venue": "포항 스틸야드",
+      "attendance": 7405
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-63",
+      "date": "2025-05-03",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "안양",
+      "venue": "대전 월드컵",
+      "attendance": 12570
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-64",
+      "date": "2025-05-03",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "제주",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 11325
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-65",
+      "date": "2025-05-03",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "전북",
+      "venue": "서울 월드컵",
+      "attendance": 48008
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-66",
+      "date": "2025-05-03",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "수원FC",
+      "venue": "춘천 송암",
+      "attendance": 5105
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-64",
+      "date": "2025-05-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "서울E",
+      "venue": "탄천 종합",
+      "attendance": 3421
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-65",
+      "date": "2025-05-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "전남",
+      "venue": "부천 종합",
+      "attendance": 2698
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-66",
+      "date": "2025-05-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "김포",
+      "venue": "인천 전용",
+      "attendance": 11792
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-67",
+      "date": "2025-05-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "수원",
+      "venue": "청주 종합",
+      "attendance": 10149
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-68",
+      "date": "2025-05-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "경남",
+      "venue": "안산 와스타디움",
+      "attendance": 1864
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-69",
+      "date": "2025-05-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "충남아산",
+      "venue": "부산 구덕",
+      "attendance": 3240
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-70",
+      "date": "2025-05-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "천안",
+      "venue": "화성 종합",
+      "attendance": 1712
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-67",
+      "date": "2025-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "김천",
+      "venue": "광주 월드컵",
+      "attendance": 6238
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-68",
+      "date": "2025-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "포항",
+      "venue": "울산 문수",
+      "attendance": 23442
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-69",
+      "date": "2025-05-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "대전",
+      "venue": "전주 월드컵",
+      "attendance": 24338
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-70",
+      "date": "2025-05-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "강원",
+      "venue": "제주 월드컵",
+      "attendance": 11017
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-71",
+      "date": "2025-05-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "서울",
+      "venue": "안양 종합",
+      "attendance": 10103
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-72",
+      "date": "2025-05-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "대구",
+      "venue": "수원 종합",
+      "attendance": 3114
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-73",
+      "date": "2025-05-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "수원FC",
+      "venue": "포항 스틸야드",
+      "attendance": 8811
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-74",
+      "date": "2025-05-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "서울",
+      "venue": "대전 월드컵",
+      "attendance": 13706
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-75",
+      "date": "2025-05-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "대구",
+      "venue": "안양 종합",
+      "attendance": 6365
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-71",
+      "date": "2025-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "화성",
+      "venue": "김포솔터축구장",
+      "attendance": 2022
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-72",
+      "date": "2025-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "부천",
+      "venue": "창원 축구센터",
+      "attendance": 2604
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-73",
+      "date": "2025-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "인천",
+      "venue": "아산 이순신",
+      "attendance": 4204
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-74",
+      "date": "2025-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "안산",
+      "venue": "목동 종합",
+      "attendance": 2408
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-76",
+      "date": "2025-05-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "울산",
+      "venue": "제주 월드컵",
+      "attendance": 8012
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-77",
+      "date": "2025-05-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "김천",
+      "venue": "춘천 송암",
+      "attendance": 3628
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-78",
+      "date": "2025-05-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "전북",
+      "venue": "광주 월드컵",
+      "attendance": 8444
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-75",
+      "date": "2025-05-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "성남",
+      "venue": "광양 전용",
+      "attendance": 7975
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-76",
+      "date": "2025-05-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "부산",
+      "venue": "청주 종합",
+      "attendance": 2321
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-77",
+      "date": "2025-05-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "천안",
+      "venue": "수원 월드컵",
+      "attendance": 10664
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-79",
+      "date": "2025-05-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "안양",
+      "venue": "전주 월드컵",
+      "attendance": 21021
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-80",
+      "date": "2025-05-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "울산",
+      "venue": "춘천 송암",
+      "attendance": 6920
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-81",
+      "date": "2025-05-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "제주",
+      "venue": "김천 종합",
+      "attendance": 1771
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-78",
+      "date": "2025-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "충남아산",
+      "venue": "창원 축구센터",
+      "attendance": 2610
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-79",
+      "date": "2025-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "화성",
+      "venue": "부천 종합",
+      "attendance": 2891
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-80",
+      "date": "2025-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "성남",
+      "venue": "천안 종합",
+      "attendance": 2470
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-81",
+      "date": "2025-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "수원",
+      "venue": "부산 구덕",
+      "attendance": 8529
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-82",
+      "date": "2025-05-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "광주",
+      "venue": "포항 스틸야드",
+      "attendance": 9819
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-83",
+      "date": "2025-05-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "서울",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 11699
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-84",
+      "date": "2025-05-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "대전",
+      "venue": "수원 종합",
+      "attendance": 3579
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-82",
+      "date": "2025-05-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "인천",
+      "venue": "안산 와스타디움",
+      "attendance": 6282
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-83",
+      "date": "2025-05-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "충북청주",
+      "venue": "광양 전용",
+      "attendance": 4378
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-84",
+      "date": "2025-05-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "서울E",
+      "venue": "김포솔터축구장",
+      "attendance": 2265
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-85",
+      "date": "2025-05-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "전북",
+      "venue": "제주 월드컵",
+      "attendance": 6224
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-86",
+      "date": "2025-05-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "포항",
+      "venue": "안양 종합",
+      "attendance": 6124
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-87",
+      "date": "2025-05-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "수원FC",
+      "venue": "서울 월드컵",
+      "attendance": 25578
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-88",
+      "date": "2025-05-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "김천",
+      "venue": "울산 문수",
+      "attendance": 16012
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-89",
+      "date": "2025-05-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "대구",
+      "venue": "대전 월드컵",
+      "attendance": 10417
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-85",
+      "date": "2025-05-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "서울E",
+      "venue": "화성 종합",
+      "attendance": 2120
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-86",
+      "date": "2025-05-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "안산",
+      "venue": "청주 종합",
+      "attendance": 1539
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-87",
+      "date": "2025-05-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "부산",
+      "venue": "탄천 종합",
+      "attendance": 3108
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-88",
+      "date": "2025-05-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "천안",
+      "venue": "창원 축구센터",
+      "attendance": 2434
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-90",
+      "date": "2025-05-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "강원",
+      "venue": "광주 월드컵",
+      "attendance": 4554
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-89",
+      "date": "2025-05-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "부천",
+      "venue": "아산 이순신",
+      "attendance": 2461
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-90",
+      "date": "2025-05-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "전남",
+      "venue": "인천 전용",
+      "attendance": 12052
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-91",
+      "date": "2025-05-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "김포",
+      "venue": "수원 월드컵",
+      "attendance": 12396
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-91",
+      "date": "2025-05-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "제주",
+      "venue": "수원 종합",
+      "attendance": 1884
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-92",
+      "date": "2025-05-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "포항",
+      "venue": "대전 월드컵",
+      "attendance": 5833
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-93",
+      "date": "2025-05-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "전북",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 7994
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-94",
+      "date": "2025-05-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "서울",
+      "venue": "김천 종합",
+      "attendance": 2040
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-95",
+      "date": "2025-05-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "안양",
+      "venue": "춘천 송암",
+      "attendance": 3135
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-96",
+      "date": "2025-05-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "울산",
+      "venue": "광주 월드컵",
+      "attendance": 2933
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-97",
+      "date": "2025-05-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "제주",
+      "venue": "서울 월드컵",
+      "attendance": 24270
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-98",
+      "date": "2025-05-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "울산",
+      "venue": "전주 월드컵",
+      "attendance": 31830
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-99",
+      "date": "2025-05-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "대전",
+      "venue": "안양 종합",
+      "attendance": 8752
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-92",
+      "date": "2025-05-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "화성",
+      "venue": "광양 전용",
+      "attendance": 3784
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-93",
+      "date": "2025-05-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "부산",
+      "venue": "목동 종합",
+      "attendance": 4482
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-94",
+      "date": "2025-05-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "경남",
+      "venue": "청주 종합",
+      "attendance": 1863
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-95",
+      "date": "2025-05-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "성남",
+      "venue": "안산 와스타디움",
+      "attendance": 2548
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-100",
+      "date": "2025-06-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "수원FC",
+      "venue": "김천 종합",
+      "attendance": 1533
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-101",
+      "date": "2025-06-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "강원",
+      "venue": "포항 스틸야드",
+      "attendance": 8944
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-102",
+      "date": "2025-06-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "광주",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 11111
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-96",
+      "date": "2025-06-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "김포",
+      "venue": "아산 이순신",
+      "attendance": 2149
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-97",
+      "date": "2025-06-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "부천",
+      "venue": "수원 월드컵",
+      "attendance": 12264
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-98",
+      "date": "2025-06-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "인천",
+      "venue": "천안 종합",
+      "attendance": 4032
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-100",
+      "date": "2025-06-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "수원",
+      "venue": "탄천 종합",
+      "attendance": 8843
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-99",
+      "date": "2025-06-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "충남아산",
+      "venue": "청주 종합",
+      "attendance": 2793
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-101",
+      "date": "2025-06-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "안산",
+      "venue": "부산 구덕",
+      "attendance": 4132
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-102",
+      "date": "2025-06-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "서울E",
+      "venue": "광양 전용",
+      "attendance": 6946
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-103",
+      "date": "2025-06-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "화성",
+      "venue": "창원 축구센터",
+      "attendance": 3053
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-104",
+      "date": "2025-06-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "부천",
+      "venue": "인천 전용",
+      "attendance": 11007
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-105",
+      "date": "2025-06-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "천안",
+      "venue": "김포솔터축구장",
+      "attendance": 2053
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-103",
+      "date": "2025-06-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "전북",
+      "venue": "춘천 송암",
+      "attendance": 6219
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-104",
+      "date": "2025-06-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "서울",
+      "venue": "광주 월드컵",
+      "attendance": 2746
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-105",
+      "date": "2025-06-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "포항",
+      "venue": "김천 종합",
+      "attendance": 2681
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-106",
+      "date": "2025-06-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "안양",
+      "venue": "수원 종합",
+      "attendance": 7524
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-107",
+      "date": "2025-06-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "대구",
+      "venue": "제주 월드컵",
+      "attendance": 6542
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-106",
+      "date": "2025-06-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "천안",
+      "venue": "아산 이순신",
+      "attendance": 2340
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-107",
+      "date": "2025-06-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "서울E",
+      "venue": "부천 종합",
+      "attendance": 3440
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-108",
+      "date": "2025-06-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "성남",
+      "venue": "청주 종합",
+      "attendance": 1806
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-109",
+      "date": "2025-06-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "부산",
+      "venue": "광양 전용",
+      "attendance": 2387
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-110",
+      "date": "2025-06-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "안산",
+      "venue": "화성 종합",
+      "attendance": 1259
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-111",
+      "date": "2025-06-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "경남",
+      "venue": "김포솔터축구장",
+      "attendance": 1762
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-112",
+      "date": "2025-06-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "인천",
+      "venue": "수원 월드컵",
+      "attendance": 22625
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-109",
+      "date": "2025-06-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "강원",
+      "venue": "서울 월드컵",
+      "attendance": 15290
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-110",
+      "date": "2025-06-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "수원FC",
+      "venue": "전주 월드컵",
+      "attendance": 11355
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-111",
+      "date": "2025-06-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "포항",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9384
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-112",
+      "date": "2025-06-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "광주",
+      "venue": "제주 월드컵",
+      "attendance": 5307
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-113",
+      "date": "2025-06-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "김천",
+      "venue": "대전 월드컵",
+      "attendance": 5016
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-115",
+      "date": "2025-06-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "대구",
+      "venue": "강릉하이원아레나",
+      "attendance": 9256
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-116",
+      "date": "2025-06-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "제주",
+      "venue": "포항 스틸야드",
+      "attendance": 6204
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-117",
+      "date": "2025-06-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "서울",
+      "venue": "전주 월드컵",
+      "attendance": 22862
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-113",
+      "date": "2025-06-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "화성",
+      "venue": "인천 전용",
+      "attendance": 9245
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-114",
+      "date": "2025-06-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "서울E",
+      "venue": "천안 종합",
+      "attendance": 2777
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-115",
+      "date": "2025-06-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "부천",
+      "venue": "안산 와스타디움",
+      "attendance": 1950
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-116",
+      "date": "2025-06-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "충남아산",
+      "venue": "탄천 종합",
+      "attendance": 2487
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-118",
+      "date": "2025-06-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "안양",
+      "venue": "김천 종합",
+      "attendance": 1774
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-120",
+      "date": "2025-06-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "대전",
+      "venue": "광주 월드컵",
+      "attendance": 3055
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-117",
+      "date": "2025-06-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "김포",
+      "venue": "광양 전용",
+      "attendance": 2662
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-118",
+      "date": "2025-06-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "충북청주",
+      "venue": "부산 구덕",
+      "attendance": 2673
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-119",
+      "date": "2025-06-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "수원",
+      "venue": "창원 축구센터",
+      "attendance": 4329
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-121",
+      "date": "2025-06-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "전북",
+      "venue": "김천 종합",
+      "attendance": 3840
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-122",
+      "date": "2025-06-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "제주",
+      "venue": "대전 월드컵",
+      "attendance": 7097
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-123",
+      "date": "2025-06-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "강원",
+      "venue": "수원 종합",
+      "attendance": 3401
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-124",
+      "date": "2025-06-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "광주",
+      "venue": "안양 종합",
+      "attendance": 7253
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-120",
+      "date": "2025-06-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "서울E",
+      "venue": "아산 이순신",
+      "attendance": 1784
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-121",
+      "date": "2025-06-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "경남",
+      "venue": "부천 종합",
+      "attendance": 2429
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-122",
+      "date": "2025-06-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "천안",
+      "venue": "안산 와스타디움",
+      "attendance": 1854
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-123",
+      "date": "2025-06-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "성남",
+      "venue": "화성 종합",
+      "attendance": 1519
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-126",
+      "date": "2025-06-29",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "포항",
+      "venue": "서울 월드컵",
+      "attendance": 20036
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-124",
+      "date": "2025-06-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "부산",
+      "venue": "수원 월드컵",
+      "attendance": 11467
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-125",
+      "date": "2025-06-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "전남",
+      "venue": "청주 종합",
+      "attendance": 1550
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-126",
+      "date": "2025-06-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "인천",
+      "venue": "김포솔터축구장",
+      "attendance": 5298
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-127",
+      "date": "2025-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "수원",
+      "venue": "아산 이순신",
+      "attendance": 7382
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-128",
+      "date": "2025-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "인천",
+      "venue": "광양 전용",
+      "attendance": 5149
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-129",
+      "date": "2025-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "서울E",
+      "venue": "청주 종합",
+      "attendance": 1659
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-130",
+      "date": "2025-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "안산",
+      "venue": "창원 축구센터",
+      "attendance": 2157
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-131",
+      "date": "2025-07-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "천안",
+      "venue": "탄천 종합",
+      "attendance": 1979
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-132",
+      "date": "2025-07-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "부천",
+      "venue": "화성 종합",
+      "attendance": 2013
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-133",
+      "date": "2025-07-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "부산",
+      "venue": "김포솔터축구장",
+      "attendance": 1821
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-125",
+      "date": "2025-07-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "대구",
+      "venue": "울산 문수",
+      "attendance": 14555
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-134",
+      "date": "2025-07-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "경남",
+      "venue": "광양 전용",
+      "attendance": 2851
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-135",
+      "date": "2025-07-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "성남",
+      "venue": "부산 구덕",
+      "attendance": 2606
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-136",
+      "date": "2025-07-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "충북청주",
+      "venue": "수원 월드컵",
+      "attendance": 12769
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-137",
+      "date": "2025-07-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "화성",
+      "venue": "천안 종합",
+      "attendance": 2218
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-138",
+      "date": "2025-07-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "충남아산",
+      "venue": "인천 전용",
+      "attendance": 9326
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-139",
+      "date": "2025-07-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "김포",
+      "venue": "부천 종합",
+      "attendance": 2544
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-140",
+      "date": "2025-07-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "서울E",
+      "venue": "안산 와스타디움",
+      "attendance": 1743
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-127",
+      "date": "2025-07-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "광주",
+      "venue": "수원 종합",
+      "attendance": 2036
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-128",
+      "date": "2025-07-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "김천",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 8562
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-129",
+      "date": "2025-07-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "대전",
+      "venue": "강릉하이원아레나",
+      "attendance": 10207
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-130",
+      "date": "2025-07-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "전북",
+      "venue": "포항 스틸야드",
+      "attendance": 13973
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-131",
+      "date": "2025-07-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "안양",
+      "venue": "제주 월드컵",
+      "attendance": 7120
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-141",
+      "date": "2025-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "수원",
+      "venue": "광양 전용",
+      "attendance": 5945
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-142",
+      "date": "2025-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "안산",
+      "venue": "김포솔터축구장",
+      "attendance": 2779
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-143",
+      "date": "2025-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "성남",
+      "venue": "목동 종합",
+      "attendance": 2690
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-144",
+      "date": "2025-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "부산",
+      "venue": "화성 종합",
+      "attendance": 1293
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-132",
+      "date": "2025-07-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "울산",
+      "venue": "서울 월드컵",
+      "attendance": 24047
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-145",
+      "date": "2025-07-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "충남아산",
+      "venue": "부천 종합",
+      "attendance": 2297
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-146",
+      "date": "2025-07-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "천안",
+      "venue": "청주 종합",
+      "attendance": 1939
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-147",
+      "date": "2025-07-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "인천",
+      "venue": "창원 축구센터",
+      "attendance": 3214
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-133",
+      "date": "2025-07-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "수원FC",
+      "venue": "포항 스틸야드",
+      "attendance": 8260
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-134",
+      "date": "2025-07-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "김천",
+      "venue": "광주 월드컵",
+      "attendance": 1710
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-135",
+      "date": "2025-07-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "대구",
+      "venue": "안양 종합",
+      "attendance": 5368
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-136",
+      "date": "2025-07-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "대전",
+      "venue": "울산 문수",
+      "attendance": 8127
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-137",
+      "date": "2025-07-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "서울",
+      "venue": "제주 월드컵",
+      "attendance": 7084
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-138",
+      "date": "2025-07-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "강원",
+      "venue": "전주 월드컵",
+      "attendance": 13795
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-139",
+      "date": "2025-07-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "제주",
+      "venue": "김천 종합",
+      "attendance": 1922
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-140",
+      "date": "2025-07-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "안양",
+      "venue": "수원 종합",
+      "attendance": 8027
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-141",
+      "date": "2025-07-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "전북",
+      "venue": "광주 월드컵",
+      "attendance": 9544
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-148",
+      "date": "2025-07-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "부천",
+      "venue": "부산 구덕",
+      "attendance": 2032
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-149",
+      "date": "2025-07-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "경남",
+      "venue": "천안 종합",
+      "attendance": 1598
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-150",
+      "date": "2025-07-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "김포",
+      "venue": "청주 종합",
+      "attendance": 1196
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-151",
+      "date": "2025-07-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "화성",
+      "venue": "아산 이순신",
+      "attendance": 1539
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-142",
+      "date": "2025-07-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "울산",
+      "venue": "강릉하이원아레나",
+      "attendance": 9144
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-143",
+      "date": "2025-07-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "서울",
+      "venue": "대전 월드컵",
+      "attendance": 11029
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-144",
+      "date": "2025-07-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "포항",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 10153
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-152",
+      "date": "2025-07-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "안산",
+      "venue": "인천 전용",
+      "attendance": 7392
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-153",
+      "date": "2025-07-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "서울E",
+      "venue": "수원 월드컵",
+      "attendance": 11929
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-154",
+      "date": "2025-07-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "전남",
+      "venue": "탄천 종합",
+      "attendance": 1587
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-119",
+      "date": "2025-08-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "수원FC",
+      "venue": "울산 문수",
+      "attendance": 10197
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-155",
+      "date": "2025-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "성남",
+      "venue": "부천 종합",
+      "attendance": 2405
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-156",
+      "date": "2025-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "인천",
+      "venue": "목동 종합",
+      "attendance": 6612
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-157",
+      "date": "2025-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "충남아산",
+      "venue": "광양 전용",
+      "attendance": 3036
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-158",
+      "date": "2025-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "김포",
+      "venue": "화성 종합",
+      "attendance": 1522
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-159",
+      "date": "2025-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "충북청주",
+      "venue": "안산 와스타디움",
+      "attendance": 1403
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-160",
+      "date": "2025-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "부산",
+      "venue": "창원 축구센터",
+      "attendance": 2089
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-161",
+      "date": "2025-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "수원",
+      "venue": "천안 종합",
+      "attendance": 9970
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-145",
+      "date": "2025-08-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "대구",
+      "venue": "서울 월드컵",
+      "attendance": 15778
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-146",
+      "date": "2025-08-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "안양",
+      "venue": "전주 월드컵",
+      "attendance": 21346
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-147",
+      "date": "2025-08-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "제주",
+      "venue": "울산 문수",
+      "attendance": 10510
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-148",
+      "date": "2025-08-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "김천",
+      "venue": "강릉하이원아레나",
+      "attendance": 9415
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-162",
+      "date": "2025-08-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "경남",
+      "venue": "아산 이순신",
+      "attendance": 1211
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-163",
+      "date": "2025-08-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "인천",
+      "venue": "부산 구덕",
+      "attendance": 3852
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-164",
+      "date": "2025-08-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "안산",
+      "venue": "수원 월드컵",
+      "attendance": 11348
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-165",
+      "date": "2025-08-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "김포",
+      "venue": "탄천 종합",
+      "attendance": 1939
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-149",
+      "date": "2025-08-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "광주",
+      "venue": "포항 스틸야드",
+      "attendance": 10020
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-150",
+      "date": "2025-08-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "수원FC",
+      "venue": "대전 월드컵",
+      "attendance": 9022
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-166",
+      "date": "2025-08-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "화성",
+      "venue": "목동 종합",
+      "attendance": 2607
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-167",
+      "date": "2025-08-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "천안",
+      "venue": "광양 전용",
+      "attendance": 2439
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-168",
+      "date": "2025-08-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "부천",
+      "venue": "청주 종합",
+      "attendance": 2425
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-151",
+      "date": "2025-08-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "강원",
+      "venue": "제주 월드컵",
+      "attendance": 8093
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-152",
+      "date": "2025-08-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "포항",
+      "venue": "안양 종합",
+      "attendance": 8122
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-169",
+      "date": "2025-08-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "부천",
+      "venue": "광양 전용",
+      "attendance": 3266
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-170",
+      "date": "2025-08-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "충남아산",
+      "venue": "안산 와스타디움",
+      "attendance": 1598
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-153",
+      "date": "2025-08-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "대구",
+      "venue": "전주 월드컵",
+      "attendance": 23460
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-154",
+      "date": "2025-08-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "울산",
+      "venue": "수원 종합",
+      "attendance": 5702
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-171",
+      "date": "2025-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "성남",
+      "venue": "인천 전용",
+      "attendance": 9352
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-172",
+      "date": "2025-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "수원",
+      "venue": "김포솔터축구장",
+      "attendance": 6275
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-173",
+      "date": "2025-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "화성",
+      "venue": "청주 종합",
+      "attendance": 1517
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-174",
+      "date": "2025-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "서울E",
+      "venue": "창원 축구센터",
+      "attendance": 2391
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-155",
+      "date": "2025-08-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "서울",
+      "venue": "김천 종합",
+      "attendance": 2667
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-156",
+      "date": "2025-08-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "대전",
+      "venue": "광주 월드컵",
+      "attendance": 3278
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-175",
+      "date": "2025-08-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "부산",
+      "venue": "천안 종합",
+      "attendance": 3087
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-157",
+      "date": "2025-08-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "수원FC",
+      "venue": "김천 종합",
+      "attendance": 2303
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-158",
+      "date": "2025-08-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "강원",
+      "venue": "광주 월드컵",
+      "attendance": 3044
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-159",
+      "date": "2025-08-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "제주",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 7586
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-176",
+      "date": "2025-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "안산",
+      "venue": "광양 전용",
+      "attendance": 3121
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-177",
+      "date": "2025-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "천안",
+      "venue": "부천 종합",
+      "attendance": 2671
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-178",
+      "date": "2025-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "김포",
+      "venue": "목동 종합",
+      "attendance": 2710
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-179",
+      "date": "2025-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "경남",
+      "venue": "탄천 종합",
+      "attendance": 2119
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-160",
+      "date": "2025-08-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "울산",
+      "venue": "서울 월드컵",
+      "attendance": 20737
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-161",
+      "date": "2025-08-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "전북",
+      "venue": "포항 스틸야드",
+      "attendance": 11582
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-162",
+      "date": "2025-08-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "대전",
+      "venue": "안양 종합",
+      "attendance": 6317
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-180",
+      "date": "2025-08-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "인천",
+      "venue": "청주 종합",
+      "attendance": 3076
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-181",
+      "date": "2025-08-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "부산",
+      "venue": "아산 이순신",
+      "attendance": 1621
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-182",
+      "date": "2025-08-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "수원",
+      "venue": "화성 종합",
+      "attendance": 9307
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-163",
+      "date": "2025-08-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "전북",
+      "venue": "울산 문수",
+      "attendance": 23294
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-164",
+      "date": "2025-08-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "수원FC",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 7324
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-165",
+      "date": "2025-08-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "광주",
+      "venue": "제주 월드컵",
+      "attendance": 6967
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-183",
+      "date": "2025-08-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "충남아산",
+      "venue": "인천 전용",
+      "attendance": 8441
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-184",
+      "date": "2025-08-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "성남",
+      "venue": "수원 월드컵",
+      "attendance": 13736
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-185",
+      "date": "2025-08-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "화성",
+      "venue": "안산 와스타디움",
+      "attendance": 2013
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-186",
+      "date": "2025-08-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "전남",
+      "venue": "김포솔터축구장",
+      "attendance": 3005
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-188",
+      "date": "2025-08-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "충북청주",
+      "venue": "부산 구덕",
+      "attendance": 2559
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-166",
+      "date": "2025-08-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "안양",
+      "venue": "서울 월드컵",
+      "attendance": 20027
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-167",
+      "date": "2025-08-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "포항",
+      "venue": "강릉하이원아레나",
+      "attendance": 8505
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-168",
+      "date": "2025-08-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "김천",
+      "venue": "대전 월드컵",
+      "attendance": 6534
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-187",
+      "date": "2025-08-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "부천",
+      "venue": "창원 축구센터",
+      "attendance": 2083
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-189",
+      "date": "2025-08-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "서울E",
+      "venue": "천안 종합",
+      "attendance": 2813
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-190",
+      "date": "2025-09-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "수원",
+      "venue": "부산 구덕",
+      "attendance": 9819
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-191",
+      "date": "2025-09-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "서울E",
+      "venue": "광양 전용",
+      "attendance": 3106
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-192",
+      "date": "2025-09-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "경남",
+      "venue": "청주 종합",
+      "attendance": 1875
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-193",
+      "date": "2025-09-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "안산",
+      "venue": "탄천 종합",
+      "attendance": 1671
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-194",
+      "date": "2025-09-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "천안",
+      "venue": "김포솔터축구장",
+      "attendance": 2383
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-195",
+      "date": "2025-09-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "인천",
+      "venue": "부천 종합",
+      "attendance": 6569
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-196",
+      "date": "2025-09-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "충남아산",
+      "venue": "화성 종합",
+      "attendance": 1916
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-169",
+      "date": "2025-09-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "서울",
+      "venue": "강릉하이원아레나",
+      "attendance": 7572
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-170",
+      "date": "2025-09-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "울산",
+      "venue": "포항 스틸야드",
+      "attendance": 14166
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-171",
+      "date": "2025-09-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "대전",
+      "venue": "전주 월드컵",
+      "attendance": 22588
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-197",
+      "date": "2025-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "부천",
+      "venue": "아산 이순신",
+      "attendance": 1751
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-198",
+      "date": "2025-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "김포",
+      "venue": "창원 축구센터",
+      "attendance": 2411
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-199",
+      "date": "2025-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "수원",
+      "venue": "목동 종합",
+      "attendance": 8299
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-200",
+      "date": "2025-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "인천",
+      "venue": "천안 종합",
+      "attendance": 3850
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-172",
+      "date": "2025-09-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "제주",
+      "venue": "안양 종합",
+      "attendance": 7412
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-173",
+      "date": "2025-09-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "대구",
+      "venue": "김천 종합",
+      "attendance": 3872
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-174",
+      "date": "2025-09-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "광주",
+      "venue": "수원 종합",
+      "attendance": 3354
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-201",
+      "date": "2025-09-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "화성",
+      "venue": "광양 전용",
+      "attendance": 3154
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-202",
+      "date": "2025-09-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "성남",
+      "venue": "청주 종합",
+      "attendance": 6862
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-203",
+      "date": "2025-09-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "부산",
+      "venue": "안산 와스타디움",
+      "attendance": 1430
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-175",
+      "date": "2025-09-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "김천",
+      "venue": "전주 월드컵",
+      "attendance": 17212
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-176",
+      "date": "2025-09-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "대구",
+      "venue": "대전 월드컵",
+      "attendance": 21045
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-204",
+      "date": "2025-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "경남",
+      "venue": "수원 월드컵",
+      "attendance": 11318
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-205",
+      "date": "2025-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "서울E",
+      "venue": "부천 종합",
+      "attendance": 3033
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-206",
+      "date": "2025-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "김포",
+      "venue": "인천 전용",
+      "attendance": 10328
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-207",
+      "date": "2025-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "충남아산",
+      "venue": "탄천 종합",
+      "attendance": 2183
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-177",
+      "date": "2025-09-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "안양",
+      "venue": "울산 문수",
+      "attendance": 13201
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-178",
+      "date": "2025-09-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "강원",
+      "venue": "수원 종합",
+      "attendance": 4005
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-179",
+      "date": "2025-09-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "광주",
+      "venue": "서울 월드컵",
+      "attendance": 15221
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-180",
+      "date": "2025-09-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "제주",
+      "venue": "포항 스틸야드",
+      "attendance": 9014
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-208",
+      "date": "2025-09-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "충북청주",
+      "venue": "안산 와스타디움",
+      "attendance": 1933
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-209",
+      "date": "2025-09-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "화성",
+      "venue": "천안 종합",
+      "attendance": 1851
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-210",
+      "date": "2025-09-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "전남",
+      "venue": "부산 구덕",
+      "attendance": 2045
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-181",
+      "date": "2025-09-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "대전",
+      "venue": "강릉하이원아레나",
+      "attendance": 7112
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-182",
+      "date": "2025-09-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "포항",
+      "venue": "김천 종합",
+      "attendance": 3634
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-183",
+      "date": "2025-09-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "울산",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 10601
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-184",
+      "date": "2025-09-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "전북",
+      "venue": "서울 월드컵",
+      "attendance": 31348
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-211",
+      "date": "2025-09-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "부천",
+      "venue": "순천 팔마",
+      "attendance": 8589
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-212",
+      "date": "2025-09-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "수원",
+      "venue": "아산 이순신",
+      "attendance": 6604
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-213",
+      "date": "2025-09-27",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "천안",
+      "venue": "청주 종합",
+      "attendance": 1768
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-185",
+      "date": "2025-09-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "수원FC",
+      "venue": "제주 월드컵",
+      "attendance": 5142
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-186",
+      "date": "2025-09-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "광주",
+      "venue": "안양 종합",
+      "attendance": 7435
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-214",
+      "date": "2025-09-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "안산",
+      "venue": "창원 축구센터",
+      "attendance": 2375
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-215",
+      "date": "2025-09-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "부산",
+      "venue": "화성 종합",
+      "attendance": 2019
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-216",
+      "date": "2025-09-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "성남",
+      "venue": "김포솔터축구장",
+      "attendance": 2730
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-217",
+      "date": "2025-09-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "인천",
+      "venue": "목동 종합",
+      "attendance": 6226
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-187",
+      "date": "2025-10-03",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "전북",
+      "venue": "제주 월드컵",
+      "attendance": 6102
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-218",
+      "date": "2025-10-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "서울E",
+      "venue": "탄천 종합",
+      "attendance": 2781
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-188",
+      "date": "2025-10-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "대구",
+      "venue": "광주 월드컵",
+      "attendance": 6731
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-219",
+      "date": "2025-10-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "부천",
+      "venue": "수원 월드컵",
+      "attendance": 13065
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-220",
+      "date": "2025-10-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "안산",
+      "venue": "김포솔터축구장",
+      "attendance": 3283
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-221",
+      "date": "2025-10-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "충북청주",
+      "venue": "아산 이순신",
+      "attendance": 1206
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-222",
+      "date": "2025-10-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "인천",
+      "venue": "화성 종합",
+      "attendance": 3374
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-189",
+      "date": "2025-10-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "울산",
+      "venue": "김천 종합",
+      "attendance": 4239
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-190",
+      "date": "2025-10-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "대전",
+      "venue": "포항 스틸야드",
+      "attendance": 11821
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-191",
+      "date": "2025-10-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "안양",
+      "venue": "강릉하이원아레나",
+      "attendance": 8464
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-192",
+      "date": "2025-10-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "서울",
+      "venue": "수원 종합",
+      "attendance": 7304
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-223",
+      "date": "2025-10-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "천안",
+      "venue": "광양 전용",
+      "attendance": 2913
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-224",
+      "date": "2025-10-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "경남",
+      "venue": "부산 구덕",
+      "attendance": 2326
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-225",
+      "date": "2025-10-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "화성",
+      "venue": "목동 종합",
+      "attendance": 2344
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-226",
+      "date": "2025-10-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "김포",
+      "venue": "청주 종합",
+      "attendance": 1255
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-227",
+      "date": "2025-10-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "수원",
+      "venue": "인천 전용",
+      "attendance": 18134
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-228",
+      "date": "2025-10-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "부산",
+      "venue": "천안 종합",
+      "attendance": 2004
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-229",
+      "date": "2025-10-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "전남",
+      "venue": "창원 축구센터",
+      "attendance": 2981
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-230",
+      "date": "2025-10-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "성남",
+      "venue": "부천 종합",
+      "attendance": 4233
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-231",
+      "date": "2025-10-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "충남아산",
+      "venue": "안산 와스타디움",
+      "attendance": 1610
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-232",
+      "date": "2025-10-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "서울E",
+      "venue": "김포솔터축구장",
+      "attendance": 2135
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-233",
+      "date": "2025-10-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "충북청주",
+      "venue": "화성 종합",
+      "attendance": 1761
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-234",
+      "date": "2025-10-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "천안",
+      "venue": "수원 월드컵",
+      "attendance": 10036
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-235",
+      "date": "2025-10-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "안산",
+      "venue": "광양 전용",
+      "attendance": 4239
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-236",
+      "date": "2025-10-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "부천",
+      "venue": "부산 구덕",
+      "attendance": 2054
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-237",
+      "date": "2025-10-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "인천",
+      "venue": "탄천 종합",
+      "attendance": 4384
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-238",
+      "date": "2025-10-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "경남",
+      "venue": "아산 이순신",
+      "attendance": 1705
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-193",
+      "date": "2025-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "광주",
+      "venue": "울산 문수",
+      "attendance": 10294
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-194",
+      "date": "2025-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "포항",
+      "venue": "서울 월드컵",
+      "attendance": 23672
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-195",
+      "date": "2025-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "제주",
+      "venue": "대전 월드컵",
+      "attendance": 10425
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-196",
+      "date": "2025-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "수원FC",
+      "venue": "전주 월드컵",
+      "attendance": 21899
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-197",
+      "date": "2025-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "강원",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 10795
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-198",
+      "date": "2025-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "김천",
+      "venue": "안양 종합",
+      "attendance": 7178
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-239",
+      "date": "2025-10-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "인천",
+      "venue": "안산 와스타디움",
+      "attendance": 3950
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-240",
+      "date": "2025-10-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "부산",
+      "venue": "목동 종합",
+      "attendance": 2859
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-241",
+      "date": "2025-10-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "김포",
+      "venue": "아산 이순신",
+      "attendance": 1912
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-242",
+      "date": "2025-10-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "성남",
+      "venue": "창원 축구센터",
+      "attendance": 2232
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-243",
+      "date": "2025-10-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "전남",
+      "venue": "청주 종합",
+      "attendance": 1687
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-244",
+      "date": "2025-10-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "천안",
+      "venue": "부천 종합",
+      "attendance": 3897
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-245",
+      "date": "2025-10-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "수원",
+      "venue": "화성 종합",
+      "attendance": 8871
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-199",
+      "date": "2025-10-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "김천",
+      "venue": "전주 월드컵",
+      "attendance": 8498
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-200",
+      "date": "2025-10-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "안양",
+      "venue": "광주 월드컵",
+      "attendance": 2228
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-201",
+      "date": "2025-10-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "제주",
+      "venue": "수원 종합",
+      "attendance": 2510
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-246",
+      "date": "2025-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "전남",
+      "venue": "수원 월드컵",
+      "attendance": 11740
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-247",
+      "date": "2025-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "화성",
+      "venue": "탄천 종합",
+      "attendance": 3471
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-248",
+      "date": "2025-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "안산",
+      "venue": "천안 종합",
+      "attendance": 1811
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-249",
+      "date": "2025-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "김포",
+      "venue": "부산 구덕",
+      "attendance": 1932
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-250",
+      "date": "2025-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "부천",
+      "venue": "청주 종합",
+      "attendance": 1113
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-202",
+      "date": "2025-10-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "대구",
+      "venue": "울산 문수",
+      "attendance": 10858
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-203",
+      "date": "2025-10-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "강원",
+      "venue": "서울 월드컵",
+      "attendance": 12177
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-204",
+      "date": "2025-10-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "포항",
+      "venue": "대전 월드컵",
+      "attendance": 8275
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-251",
+      "date": "2025-10-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "경남",
+      "venue": "인천 전용",
+      "attendance": 11156
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-252",
+      "date": "2025-10-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "충남아산",
+      "venue": "목동 종합",
+      "attendance": 2809
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-205",
+      "date": "2025-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "전북",
+      "venue": "강릉하이원아레나",
+      "attendance": 6424
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-206",
+      "date": "2025-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "서울",
+      "venue": "대전 월드컵",
+      "attendance": 9353
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-207",
+      "date": "2025-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "포항",
+      "venue": "김천 종합",
+      "attendance": 2147
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-208",
+      "date": "2025-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "울산",
+      "venue": "안양 종합",
+      "attendance": 8206
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-253",
+      "date": "2025-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "서울E",
+      "venue": "창원 축구센터",
+      "attendance": 2281
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-254",
+      "date": "2025-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "충북청주",
+      "venue": "수원 월드컵",
+      "attendance": 9012
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-255",
+      "date": "2025-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "안산",
+      "venue": "부천 종합",
+      "attendance": 3522
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-256",
+      "date": "2025-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "화성",
+      "venue": "김포솔터축구장",
+      "attendance": 2632
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-209",
+      "date": "2025-11-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "제주",
+      "venue": "광주 월드컵",
+      "attendance": 2485
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-210",
+      "date": "2025-11-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "대구",
+      "venue": "수원 종합",
+      "attendance": 3865
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-257",
+      "date": "2025-11-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "부산",
+      "venue": "인천 전용",
+      "attendance": 7058
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-258",
+      "date": "2025-11-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "성남",
+      "venue": "광양 전용",
+      "attendance": 4828
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-259",
+      "date": "2025-11-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "천안",
+      "venue": "아산 이순신",
+      "attendance": 2772
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-211",
+      "date": "2025-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "안양",
+      "venue": "제주 월드컵",
+      "attendance": 4161
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-212",
+      "date": "2025-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "광주",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9372
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-213",
+      "date": "2025-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "강원",
+      "venue": "김천 종합",
+      "attendance": 1405
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-214",
+      "date": "2025-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "대전",
+      "venue": "전주 월드컵",
+      "attendance": 23160
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-260",
+      "date": "2025-11-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "전남",
+      "away": "인천",
+      "venue": "광양 전용",
+      "attendance": 5779
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-261",
+      "date": "2025-11-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "화성",
+      "away": "경남",
+      "venue": "화성 종합",
+      "attendance": 3617
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-262",
+      "date": "2025-11-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부산",
+      "away": "충남아산",
+      "venue": "부산 구덕",
+      "attendance": 2113
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-263",
+      "date": "2025-11-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "천안",
+      "away": "성남",
+      "venue": "천안 종합",
+      "attendance": 2891
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-215",
+      "date": "2025-11-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "서울",
+      "venue": "포항 스틸야드",
+      "attendance": 10493
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-216",
+      "date": "2025-11-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "수원FC",
+      "venue": "울산 문수",
+      "attendance": 10187
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-264",
+      "date": "2025-11-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충북청주",
+      "away": "서울E",
+      "venue": "청주 종합",
+      "attendance": 5406
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-265",
+      "date": "2025-11-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "안산",
+      "away": "수원",
+      "venue": "안산 와스타디움",
+      "attendance": 6663
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-266",
+      "date": "2025-11-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "김포",
+      "away": "부천",
+      "venue": "김포솔터축구장",
+      "attendance": 3368
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-217",
+      "date": "2025-11-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "안양",
+      "away": "수원FC",
+      "venue": "안양 종합",
+      "attendance": 7835
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-218",
+      "date": "2025-11-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "서울",
+      "away": "김천",
+      "venue": "서울 월드컵",
+      "attendance": 13247
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-219",
+      "date": "2025-11-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대전",
+      "away": "강원",
+      "venue": "대전 월드컵",
+      "attendance": 9102
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-220",
+      "date": "2025-11-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "광주",
+      "away": "울산",
+      "venue": "광주 월드컵",
+      "attendance": 4033
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-221",
+      "date": "2025-11-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "포항",
+      "away": "전북",
+      "venue": "포항 스틸야드",
+      "attendance": 10572
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-222",
+      "date": "2025-11-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "제주",
+      "away": "대구",
+      "venue": "제주 월드컵",
+      "attendance": 9246
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-267",
+      "date": "2025-11-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "충남아산",
+      "away": "전남",
+      "venue": "아산 이순신",
+      "attendance": 4463
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-268",
+      "date": "2025-11-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "인천",
+      "away": "충북청주",
+      "venue": "인천 전용",
+      "attendance": 12102
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-269",
+      "date": "2025-11-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "수원",
+      "away": "김포",
+      "venue": "수원 월드컵",
+      "attendance": 8278
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-270",
+      "date": "2025-11-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "화성",
+      "venue": "부천 종합",
+      "attendance": 3222
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-271",
+      "date": "2025-11-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "안산",
+      "venue": "목동 종합",
+      "attendance": 5211
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-272",
+      "date": "2025-11-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "경남",
+      "away": "천안",
+      "venue": "창원 축구센터",
+      "attendance": 3007
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-273",
+      "date": "2025-11-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2025",
+      "home": "성남",
+      "away": "부산",
+      "venue": "탄천 종합",
+      "attendance": 3703
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-274",
+      "date": "2025-11-27",
+      "stage": "k_po",
+      "competition": "하나은행 K리그2 2025",
+      "home": "서울E",
+      "away": "성남",
+      "venue": "목동 종합",
+      "attendance": 4147
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-223",
+      "date": "2025-11-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "대구",
+      "away": "안양",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12092
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-224",
+      "date": "2025-11-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "수원FC",
+      "away": "광주",
+      "venue": "수원 종합",
+      "attendance": 6064
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-225",
+      "date": "2025-11-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "울산",
+      "away": "제주",
+      "venue": "울산 문수",
+      "attendance": 11928
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-226",
+      "date": "2025-11-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "전북",
+      "away": "서울",
+      "venue": "전주 월드컵",
+      "attendance": 21742
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-227",
+      "date": "2025-11-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "김천",
+      "away": "대전",
+      "venue": "김천 종합",
+      "attendance": 2804
+    },
+    {
+      "game_id": "하나은행 K리그1 2025-228",
+      "date": "2025-11-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2025",
+      "home": "강원",
+      "away": "포항",
+      "venue": "강릉하이원아레나",
+      "attendance": 6524
+    },
+    {
+      "game_id": "하나은행 K리그2 2025-275",
+      "date": "2025-11-30",
+      "stage": "k_po",
+      "competition": "하나은행 K리그2 2025",
+      "home": "부천",
+      "away": "성남",
+      "venue": "부천 종합",
+      "attendance": 6171
+    },
+    {
+      "game_id": "하나은행 K리그 승강 PO 2025-1",
+      "date": "2025-12-03",
+      "stage": "k_po",
+      "competition": "하나은행 K리그 승강 PO 2025",
+      "home": "수원",
+      "away": "제주",
+      "venue": "수원 월드컵",
+      "attendance": 18715
+    },
+    {
+      "game_id": "하나은행 K리그 승강 PO 2025-2",
+      "date": "2025-12-05",
+      "stage": "k_po",
+      "competition": "하나은행 K리그 승강 PO 2025",
+      "home": "부천",
+      "away": "수원FC",
+      "venue": "부천 종합",
+      "attendance": 4353
+    },
+    {
+      "game_id": "하나은행 K리그 승강 PO 2025-3",
+      "date": "2025-12-07",
+      "stage": "k_po",
+      "competition": "하나은행 K리그 승강 PO 2025",
+      "home": "제주",
+      "away": "수원",
+      "venue": "제주 월드컵",
+      "attendance": 18912
+    },
+    {
+      "game_id": "하나은행 K리그 승강 PO 2025-4",
+      "date": "2025-12-08",
+      "stage": "k_po",
+      "competition": "하나은행 K리그 승강 PO 2025",
+      "home": "수원FC",
+      "away": "부천",
+      "venue": "수원 종합",
+      "attendance": 4180
+    }
+  ]
+}

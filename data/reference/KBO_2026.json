@@ -1,0 +1,6639 @@
+{
+  "league": "KBO",
+  "season": "2026",
+  "collected_at": "2026-11-27T15:21:52+09:00",
+  "purpose": "전 시즌 같은 시점 비교용 (합계에는 쓰지 않음)",
+  "source_url": "https://www.koreabaseball.com/Record/Crowd/GraphDaily.aspx",
+  "games": [
+    {
+      "game_id": "20260328-LG-KT-1",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260328-NC-두산-1",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260328-SSG-KIA-1",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KIA",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260328-삼성-롯데-1",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260328-한화-키움-1",
+      "date": "2026-03-28",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260329-LG-KT-1",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260329-NC-두산-1",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260329-SSG-KIA-1",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KIA",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260329-삼성-롯데-1",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260329-한화-키움-1",
+      "date": "2026-03-29",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260331-LG-KIA-1",
+      "date": "2026-03-31",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260331-NC-롯데-1",
+      "date": "2026-03-31",
+      "stage": "regular",
+      "home": "NC",
+      "away": "롯데",
+      "venue": "창원",
+      "attendance": 12730
+    },
+    {
+      "game_id": "20260331-SSG-키움-1",
+      "date": "2026-03-31",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "키움",
+      "venue": "문학",
+      "attendance": 11385
+    },
+    {
+      "game_id": "20260331-삼성-두산-1",
+      "date": "2026-03-31",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 21489
+    },
+    {
+      "game_id": "20260331-한화-KT-1",
+      "date": "2026-03-31",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KT",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260401-LG-KIA-1",
+      "date": "2026-04-01",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260401-NC-롯데-1",
+      "date": "2026-04-01",
+      "stage": "regular",
+      "home": "NC",
+      "away": "롯데",
+      "venue": "창원",
+      "attendance": 11875
+    },
+    {
+      "game_id": "20260401-SSG-키움-1",
+      "date": "2026-04-01",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "키움",
+      "venue": "문학",
+      "attendance": 12921
+    },
+    {
+      "game_id": "20260401-삼성-두산-1",
+      "date": "2026-04-01",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 23120
+    },
+    {
+      "game_id": "20260401-한화-KT-1",
+      "date": "2026-04-01",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KT",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260402-LG-KIA-1",
+      "date": "2026-04-02",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260402-NC-롯데-1",
+      "date": "2026-04-02",
+      "stage": "regular",
+      "home": "NC",
+      "away": "롯데",
+      "venue": "창원",
+      "attendance": 13176
+    },
+    {
+      "game_id": "20260402-SSG-키움-1",
+      "date": "2026-04-02",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "키움",
+      "venue": "문학",
+      "attendance": 11311
+    },
+    {
+      "game_id": "20260402-삼성-두산-1",
+      "date": "2026-04-02",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 23617
+    },
+    {
+      "game_id": "20260402-한화-KT-1",
+      "date": "2026-04-02",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KT",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260403-KIA-NC-1",
+      "date": "2026-04-03",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "NC",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260403-KT-삼성-1",
+      "date": "2026-04-03",
+      "stage": "regular",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260403-두산-한화-1",
+      "date": "2026-04-03",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260403-롯데-SSG-1",
+      "date": "2026-04-03",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "SSG",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260403-키움-LG-1",
+      "date": "2026-04-03",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 14150
+    },
+    {
+      "game_id": "20260404-KIA-NC-1",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "NC",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260404-KT-삼성-1",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260404-두산-한화-1",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260404-롯데-SSG-1",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "SSG",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260404-키움-LG-1",
+      "date": "2026-04-04",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260405-KIA-NC-1",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "NC",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260405-KT-삼성-1",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260405-두산-한화-1",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260405-롯데-SSG-1",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "SSG",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260405-키움-LG-1",
+      "date": "2026-04-05",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 15331
+    },
+    {
+      "game_id": "20260407-KIA-삼성-1",
+      "date": "2026-04-07",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 12675
+    },
+    {
+      "game_id": "20260407-NC-LG-1",
+      "date": "2026-04-07",
+      "stage": "regular",
+      "home": "NC",
+      "away": "LG",
+      "venue": "창원",
+      "attendance": 6855
+    },
+    {
+      "game_id": "20260407-SSG-한화-1",
+      "date": "2026-04-07",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 18637
+    },
+    {
+      "game_id": "20260407-두산-키움-1",
+      "date": "2026-04-07",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 14435
+    },
+    {
+      "game_id": "20260407-롯데-KT-1",
+      "date": "2026-04-07",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KT",
+      "venue": "사직",
+      "attendance": 15611
+    },
+    {
+      "game_id": "20260408-KIA-삼성-1",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 12672
+    },
+    {
+      "game_id": "20260408-NC-LG-1",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "home": "NC",
+      "away": "LG",
+      "venue": "창원",
+      "attendance": 8180
+    },
+    {
+      "game_id": "20260408-SSG-한화-1",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 19836
+    },
+    {
+      "game_id": "20260408-두산-키움-1",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 15461
+    },
+    {
+      "game_id": "20260408-롯데-KT-1",
+      "date": "2026-04-08",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KT",
+      "venue": "사직",
+      "attendance": 16080
+    },
+    {
+      "game_id": "20260410-KT-두산-1",
+      "date": "2026-04-10",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 11337
+    },
+    {
+      "game_id": "20260410-LG-SSG-1",
+      "date": "2026-04-10",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23122
+    },
+    {
+      "game_id": "20260410-삼성-NC-1",
+      "date": "2026-04-10",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "NC",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260410-키움-롯데-1",
+      "date": "2026-04-10",
+      "stage": "regular",
+      "home": "키움",
+      "away": "롯데",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260410-한화-KIA-1",
+      "date": "2026-04-10",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260411-KT-두산-1",
+      "date": "2026-04-11",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260411-LG-SSG-1",
+      "date": "2026-04-11",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260411-삼성-NC-1",
+      "date": "2026-04-11",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "NC",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260411-키움-롯데-1",
+      "date": "2026-04-11",
+      "stage": "regular",
+      "home": "키움",
+      "away": "롯데",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260411-한화-KIA-1",
+      "date": "2026-04-11",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260412-KT-두산-1",
+      "date": "2026-04-12",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 16488
+    },
+    {
+      "game_id": "20260412-LG-SSG-1",
+      "date": "2026-04-12",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260412-삼성-NC-1",
+      "date": "2026-04-12",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "NC",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260412-키움-롯데-1",
+      "date": "2026-04-12",
+      "stage": "regular",
+      "home": "키움",
+      "away": "롯데",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260412-한화-KIA-1",
+      "date": "2026-04-12",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260414-KIA-키움-1",
+      "date": "2026-04-14",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "키움",
+      "venue": "광주",
+      "attendance": 9930
+    },
+    {
+      "game_id": "20260414-LG-롯데-1",
+      "date": "2026-04-14",
+      "stage": "regular",
+      "home": "LG",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260414-NC-KT-1",
+      "date": "2026-04-14",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 4730
+    },
+    {
+      "game_id": "20260414-SSG-두산-1",
+      "date": "2026-04-14",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 12752
+    },
+    {
+      "game_id": "20260414-한화-삼성-1",
+      "date": "2026-04-14",
+      "stage": "regular",
+      "home": "한화",
+      "away": "삼성",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260415-KIA-키움-1",
+      "date": "2026-04-15",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "키움",
+      "venue": "광주",
+      "attendance": 10981
+    },
+    {
+      "game_id": "20260415-LG-롯데-1",
+      "date": "2026-04-15",
+      "stage": "regular",
+      "home": "LG",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260415-NC-KT-1",
+      "date": "2026-04-15",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 5902
+    },
+    {
+      "game_id": "20260415-SSG-두산-1",
+      "date": "2026-04-15",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 13755
+    },
+    {
+      "game_id": "20260415-한화-삼성-1",
+      "date": "2026-04-15",
+      "stage": "regular",
+      "home": "한화",
+      "away": "삼성",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260416-KIA-키움-1",
+      "date": "2026-04-16",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "키움",
+      "venue": "광주",
+      "attendance": 12713
+    },
+    {
+      "game_id": "20260416-LG-롯데-1",
+      "date": "2026-04-16",
+      "stage": "regular",
+      "home": "LG",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260416-NC-KT-1",
+      "date": "2026-04-16",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 5921
+    },
+    {
+      "game_id": "20260416-SSG-두산-1",
+      "date": "2026-04-16",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 13786
+    },
+    {
+      "game_id": "20260416-한화-삼성-1",
+      "date": "2026-04-16",
+      "stage": "regular",
+      "home": "한화",
+      "away": "삼성",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260417-KT-키움-1",
+      "date": "2026-04-17",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 7479
+    },
+    {
+      "game_id": "20260417-두산-KIA-1",
+      "date": "2026-04-17",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260418-KT-키움-1",
+      "date": "2026-04-18",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 13721
+    },
+    {
+      "game_id": "20260418-NC-SSG-1",
+      "date": "2026-04-18",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 14888
+    },
+    {
+      "game_id": "20260418-두산-KIA-1",
+      "date": "2026-04-18",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260418-롯데-한화-1",
+      "date": "2026-04-18",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260418-삼성-LG-1",
+      "date": "2026-04-18",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "LG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260419-KT-키움-1",
+      "date": "2026-04-19",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 10403
+    },
+    {
+      "game_id": "20260419-NC-SSG-1",
+      "date": "2026-04-19",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 13677
+    },
+    {
+      "game_id": "20260419-두산-KIA-1",
+      "date": "2026-04-19",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260419-롯데-한화-1",
+      "date": "2026-04-19",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260419-삼성-LG-1",
+      "date": "2026-04-19",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "LG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260421-KT-KIA-1",
+      "date": "2026-04-21",
+      "stage": "regular",
+      "home": "KT",
+      "away": "KIA",
+      "venue": "수원",
+      "attendance": 13143
+    },
+    {
+      "game_id": "20260421-LG-한화-1",
+      "date": "2026-04-21",
+      "stage": "regular",
+      "home": "LG",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260421-롯데-두산-1",
+      "date": "2026-04-21",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "두산",
+      "venue": "사직",
+      "attendance": 15942
+    },
+    {
+      "game_id": "20260421-삼성-SSG-1",
+      "date": "2026-04-21",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 23420
+    },
+    {
+      "game_id": "20260421-키움-NC-1",
+      "date": "2026-04-21",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 5531
+    },
+    {
+      "game_id": "20260422-KT-KIA-1",
+      "date": "2026-04-22",
+      "stage": "regular",
+      "home": "KT",
+      "away": "KIA",
+      "venue": "수원",
+      "attendance": 14428
+    },
+    {
+      "game_id": "20260422-LG-한화-1",
+      "date": "2026-04-22",
+      "stage": "regular",
+      "home": "LG",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260422-롯데-두산-1",
+      "date": "2026-04-22",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "두산",
+      "venue": "사직",
+      "attendance": 19425
+    },
+    {
+      "game_id": "20260422-삼성-SSG-1",
+      "date": "2026-04-22",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 23539
+    },
+    {
+      "game_id": "20260422-키움-NC-1",
+      "date": "2026-04-22",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 5793
+    },
+    {
+      "game_id": "20260423-KT-KIA-1",
+      "date": "2026-04-23",
+      "stage": "regular",
+      "home": "KT",
+      "away": "KIA",
+      "venue": "수원",
+      "attendance": 15561
+    },
+    {
+      "game_id": "20260423-LG-한화-1",
+      "date": "2026-04-23",
+      "stage": "regular",
+      "home": "LG",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260423-롯데-두산-1",
+      "date": "2026-04-23",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "두산",
+      "venue": "사직",
+      "attendance": 17334
+    },
+    {
+      "game_id": "20260423-삼성-SSG-1",
+      "date": "2026-04-23",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 23524
+    },
+    {
+      "game_id": "20260423-키움-NC-1",
+      "date": "2026-04-23",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 6176
+    },
+    {
+      "game_id": "20260424-KIA-롯데-1",
+      "date": "2026-04-24",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260424-SSG-KT-1",
+      "date": "2026-04-24",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 15569
+    },
+    {
+      "game_id": "20260424-두산-LG-1",
+      "date": "2026-04-24",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260424-키움-삼성-1",
+      "date": "2026-04-24",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260424-한화-NC-1",
+      "date": "2026-04-24",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260425-KIA-롯데-1",
+      "date": "2026-04-25",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260425-SSG-KT-1",
+      "date": "2026-04-25",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 22655
+    },
+    {
+      "game_id": "20260425-두산-LG-1",
+      "date": "2026-04-25",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260425-키움-삼성-1",
+      "date": "2026-04-25",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260425-한화-NC-1",
+      "date": "2026-04-25",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260426-KIA-롯데-1",
+      "date": "2026-04-26",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260426-SSG-KT-1",
+      "date": "2026-04-26",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 19484
+    },
+    {
+      "game_id": "20260426-두산-LG-1",
+      "date": "2026-04-26",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260426-키움-삼성-1",
+      "date": "2026-04-26",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260426-한화-NC-1",
+      "date": "2026-04-26",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260428-KT-LG-1",
+      "date": "2026-04-28",
+      "stage": "regular",
+      "home": "KT",
+      "away": "LG",
+      "venue": "수원",
+      "attendance": 12312
+    },
+    {
+      "game_id": "20260428-NC-KIA-1",
+      "date": "2026-04-28",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 8781
+    },
+    {
+      "game_id": "20260428-두산-삼성-1",
+      "date": "2026-04-28",
+      "stage": "regular",
+      "home": "두산",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260428-롯데-키움-1",
+      "date": "2026-04-28",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 19704
+    },
+    {
+      "game_id": "20260428-한화-SSG-1",
+      "date": "2026-04-28",
+      "stage": "regular",
+      "home": "한화",
+      "away": "SSG",
+      "venue": "대전",
+      "attendance": 16651
+    },
+    {
+      "game_id": "20260429-KT-LG-1",
+      "date": "2026-04-29",
+      "stage": "regular",
+      "home": "KT",
+      "away": "LG",
+      "venue": "수원",
+      "attendance": 13711
+    },
+    {
+      "game_id": "20260429-NC-KIA-1",
+      "date": "2026-04-29",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 11824
+    },
+    {
+      "game_id": "20260429-두산-삼성-1",
+      "date": "2026-04-29",
+      "stage": "regular",
+      "home": "두산",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260429-롯데-키움-1",
+      "date": "2026-04-29",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 19362
+    },
+    {
+      "game_id": "20260429-한화-SSG-1",
+      "date": "2026-04-29",
+      "stage": "regular",
+      "home": "한화",
+      "away": "SSG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260430-KT-LG-1",
+      "date": "2026-04-30",
+      "stage": "regular",
+      "home": "KT",
+      "away": "LG",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260430-NC-KIA-1",
+      "date": "2026-04-30",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 16616
+    },
+    {
+      "game_id": "20260430-두산-삼성-1",
+      "date": "2026-04-30",
+      "stage": "regular",
+      "home": "두산",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260430-롯데-키움-1",
+      "date": "2026-04-30",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260430-한화-SSG-1",
+      "date": "2026-04-30",
+      "stage": "regular",
+      "home": "한화",
+      "away": "SSG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260501-KIA-KT-1",
+      "date": "2026-05-01",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260501-LG-NC-1",
+      "date": "2026-05-01",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260501-SSG-롯데-1",
+      "date": "2026-05-01",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260501-삼성-한화-1",
+      "date": "2026-05-01",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260501-키움-두산-1",
+      "date": "2026-05-01",
+      "stage": "regular",
+      "home": "키움",
+      "away": "두산",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260502-KIA-KT-1",
+      "date": "2026-05-02",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260502-LG-NC-1",
+      "date": "2026-05-02",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260502-SSG-롯데-1",
+      "date": "2026-05-02",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260502-삼성-한화-1",
+      "date": "2026-05-02",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260502-키움-두산-1",
+      "date": "2026-05-02",
+      "stage": "regular",
+      "home": "키움",
+      "away": "두산",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260503-KIA-KT-1",
+      "date": "2026-05-03",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260503-LG-NC-1",
+      "date": "2026-05-03",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 23633
+    },
+    {
+      "game_id": "20260503-SSG-롯데-1",
+      "date": "2026-05-03",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260503-삼성-한화-1",
+      "date": "2026-05-03",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260503-키움-두산-1",
+      "date": "2026-05-03",
+      "stage": "regular",
+      "home": "키움",
+      "away": "두산",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260505-KIA-한화-1",
+      "date": "2026-05-05",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "한화",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260505-KT-롯데-1",
+      "date": "2026-05-05",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260505-LG-두산-1",
+      "date": "2026-05-05",
+      "stage": "regular",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260505-SSG-NC-1",
+      "date": "2026-05-05",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "NC",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260505-삼성-키움-1",
+      "date": "2026-05-05",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "키움",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260506-KIA-한화-1",
+      "date": "2026-05-06",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "한화",
+      "venue": "광주",
+      "attendance": 18441
+    },
+    {
+      "game_id": "20260506-KT-롯데-1",
+      "date": "2026-05-06",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 12531
+    },
+    {
+      "game_id": "20260506-LG-두산-1",
+      "date": "2026-05-06",
+      "stage": "regular",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260506-SSG-NC-1",
+      "date": "2026-05-06",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "NC",
+      "venue": "문학",
+      "attendance": 15681
+    },
+    {
+      "game_id": "20260506-삼성-키움-1",
+      "date": "2026-05-06",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "키움",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260507-KIA-한화-1",
+      "date": "2026-05-07",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "한화",
+      "venue": "광주",
+      "attendance": 17607
+    },
+    {
+      "game_id": "20260507-LG-두산-1",
+      "date": "2026-05-07",
+      "stage": "regular",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 22805
+    },
+    {
+      "game_id": "20260507-SSG-NC-1",
+      "date": "2026-05-07",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "NC",
+      "venue": "문학",
+      "attendance": 14364
+    },
+    {
+      "game_id": "20260507-삼성-키움-1",
+      "date": "2026-05-07",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "키움",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260508-NC-삼성-1",
+      "date": "2026-05-08",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 15758
+    },
+    {
+      "game_id": "20260508-두산-SSG-1",
+      "date": "2026-05-08",
+      "stage": "regular",
+      "home": "두산",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260508-롯데-KIA-1",
+      "date": "2026-05-08",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KIA",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260508-키움-KT-1",
+      "date": "2026-05-08",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KT",
+      "venue": "고척",
+      "attendance": 6159
+    },
+    {
+      "game_id": "20260508-한화-LG-1",
+      "date": "2026-05-08",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 16551
+    },
+    {
+      "game_id": "20260509-NC-삼성-1",
+      "date": "2026-05-09",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260509-두산-SSG-1",
+      "date": "2026-05-09",
+      "stage": "regular",
+      "home": "두산",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260509-롯데-KIA-1",
+      "date": "2026-05-09",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KIA",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260509-키움-KT-1",
+      "date": "2026-05-09",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KT",
+      "venue": "고척",
+      "attendance": 11300
+    },
+    {
+      "game_id": "20260509-한화-LG-1",
+      "date": "2026-05-09",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260510-NC-삼성-1",
+      "date": "2026-05-10",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260510-두산-SSG-1",
+      "date": "2026-05-10",
+      "stage": "regular",
+      "home": "두산",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260510-롯데-KIA-1",
+      "date": "2026-05-10",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KIA",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260510-키움-KT-1",
+      "date": "2026-05-10",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KT",
+      "venue": "고척",
+      "attendance": 9153
+    },
+    {
+      "game_id": "20260510-한화-LG-1",
+      "date": "2026-05-10",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260512-KIA-두산-1",
+      "date": "2026-05-12",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 13698
+    },
+    {
+      "game_id": "20260512-KT-SSG-1",
+      "date": "2026-05-12",
+      "stage": "regular",
+      "home": "KT",
+      "away": "SSG",
+      "venue": "수원",
+      "attendance": 7742
+    },
+    {
+      "game_id": "20260512-LG-삼성-1",
+      "date": "2026-05-12",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260512-롯데-NC-1",
+      "date": "2026-05-12",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 16431
+    },
+    {
+      "game_id": "20260512-키움-한화-1",
+      "date": "2026-05-12",
+      "stage": "regular",
+      "home": "키움",
+      "away": "한화",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260513-KIA-두산-1",
+      "date": "2026-05-13",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 15366
+    },
+    {
+      "game_id": "20260513-KT-SSG-1",
+      "date": "2026-05-13",
+      "stage": "regular",
+      "home": "KT",
+      "away": "SSG",
+      "venue": "수원",
+      "attendance": 8350
+    },
+    {
+      "game_id": "20260513-LG-삼성-1",
+      "date": "2026-05-13",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260513-롯데-NC-1",
+      "date": "2026-05-13",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 21019
+    },
+    {
+      "game_id": "20260513-키움-한화-1",
+      "date": "2026-05-13",
+      "stage": "regular",
+      "home": "키움",
+      "away": "한화",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260514-KIA-두산-1",
+      "date": "2026-05-14",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 15738
+    },
+    {
+      "game_id": "20260514-KT-SSG-1",
+      "date": "2026-05-14",
+      "stage": "regular",
+      "home": "KT",
+      "away": "SSG",
+      "venue": "수원",
+      "attendance": 9128
+    },
+    {
+      "game_id": "20260514-LG-삼성-1",
+      "date": "2026-05-14",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260514-롯데-NC-1",
+      "date": "2026-05-14",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 22834
+    },
+    {
+      "game_id": "20260514-키움-한화-1",
+      "date": "2026-05-14",
+      "stage": "regular",
+      "home": "키움",
+      "away": "한화",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260515-KT-한화-1",
+      "date": "2026-05-15",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260515-NC-키움-1",
+      "date": "2026-05-15",
+      "stage": "regular",
+      "home": "NC",
+      "away": "키움",
+      "venue": "창원",
+      "attendance": 9762
+    },
+    {
+      "game_id": "20260515-SSG-LG-1",
+      "date": "2026-05-15",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "LG",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260515-두산-롯데-1",
+      "date": "2026-05-15",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260515-삼성-KIA-1",
+      "date": "2026-05-15",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260516-KT-한화-1",
+      "date": "2026-05-16",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260516-NC-키움-1",
+      "date": "2026-05-16",
+      "stage": "regular",
+      "home": "NC",
+      "away": "키움",
+      "venue": "창원",
+      "attendance": 15091
+    },
+    {
+      "game_id": "20260516-SSG-LG-1",
+      "date": "2026-05-16",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "LG",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260516-두산-롯데-1",
+      "date": "2026-05-16",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260516-삼성-KIA-1",
+      "date": "2026-05-16",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260517-KT-한화-1",
+      "date": "2026-05-17",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260517-NC-키움-1",
+      "date": "2026-05-17",
+      "stage": "regular",
+      "home": "NC",
+      "away": "키움",
+      "venue": "창원",
+      "attendance": 12047
+    },
+    {
+      "game_id": "20260517-SSG-LG-1",
+      "date": "2026-05-17",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "LG",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260517-두산-롯데-1",
+      "date": "2026-05-17",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260517-삼성-KIA-1",
+      "date": "2026-05-17",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260519-KIA-LG-1",
+      "date": "2026-05-19",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 14801
+    },
+    {
+      "game_id": "20260519-두산-NC-1",
+      "date": "2026-05-19",
+      "stage": "regular",
+      "home": "두산",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 19186
+    },
+    {
+      "game_id": "20260519-삼성-KT-1",
+      "date": "2026-05-19",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "포항",
+      "attendance": 12120
+    },
+    {
+      "game_id": "20260519-키움-SSG-1",
+      "date": "2026-05-19",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 7674
+    },
+    {
+      "game_id": "20260519-한화-롯데-1",
+      "date": "2026-05-19",
+      "stage": "regular",
+      "home": "한화",
+      "away": "롯데",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260520-키움-SSG-1",
+      "date": "2026-05-20",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 9234
+    },
+    {
+      "game_id": "20260521-KIA-LG-1",
+      "date": "2026-05-21",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 15082
+    },
+    {
+      "game_id": "20260521-두산-NC-1",
+      "date": "2026-05-21",
+      "stage": "regular",
+      "home": "두산",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 16593
+    },
+    {
+      "game_id": "20260521-삼성-KT-1",
+      "date": "2026-05-21",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "포항",
+      "attendance": 12120
+    },
+    {
+      "game_id": "20260521-키움-SSG-1",
+      "date": "2026-05-21",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 8043
+    },
+    {
+      "game_id": "20260521-한화-롯데-1",
+      "date": "2026-05-21",
+      "stage": "regular",
+      "home": "한화",
+      "away": "롯데",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260522-KIA-SSG-1",
+      "date": "2026-05-22",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260522-KT-NC-1",
+      "date": "2026-05-22",
+      "stage": "regular",
+      "home": "KT",
+      "away": "NC",
+      "venue": "수원",
+      "attendance": 10312
+    },
+    {
+      "game_id": "20260522-LG-키움-1",
+      "date": "2026-05-22",
+      "stage": "regular",
+      "home": "LG",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260522-롯데-삼성-1",
+      "date": "2026-05-22",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "삼성",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260522-한화-두산-1",
+      "date": "2026-05-22",
+      "stage": "regular",
+      "home": "한화",
+      "away": "두산",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260523-KIA-SSG-1",
+      "date": "2026-05-23",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260523-KT-NC-1",
+      "date": "2026-05-23",
+      "stage": "regular",
+      "home": "KT",
+      "away": "NC",
+      "venue": "수원",
+      "attendance": 17078
+    },
+    {
+      "game_id": "20260523-LG-키움-1",
+      "date": "2026-05-23",
+      "stage": "regular",
+      "home": "LG",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260523-롯데-삼성-1",
+      "date": "2026-05-23",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "삼성",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260523-한화-두산-1",
+      "date": "2026-05-23",
+      "stage": "regular",
+      "home": "한화",
+      "away": "두산",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260524-KIA-SSG-1",
+      "date": "2026-05-24",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260524-KT-NC-1",
+      "date": "2026-05-24",
+      "stage": "regular",
+      "home": "KT",
+      "away": "NC",
+      "venue": "수원",
+      "attendance": 15202
+    },
+    {
+      "game_id": "20260524-LG-키움-1",
+      "date": "2026-05-24",
+      "stage": "regular",
+      "home": "LG",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260524-롯데-삼성-1",
+      "date": "2026-05-24",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "삼성",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260524-한화-두산-1",
+      "date": "2026-05-24",
+      "stage": "regular",
+      "home": "한화",
+      "away": "두산",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260526-두산-KT-1",
+      "date": "2026-05-26",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 19281
+    },
+    {
+      "game_id": "20260526-롯데-LG-1",
+      "date": "2026-05-26",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 15588
+    },
+    {
+      "game_id": "20260526-키움-KIA-1",
+      "date": "2026-05-26",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260527-NC-한화-1",
+      "date": "2026-05-27",
+      "stage": "regular",
+      "home": "NC",
+      "away": "한화",
+      "venue": "창원",
+      "attendance": 11013
+    },
+    {
+      "game_id": "20260527-SSG-삼성-1",
+      "date": "2026-05-27",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "삼성",
+      "venue": "문학",
+      "attendance": 18420
+    },
+    {
+      "game_id": "20260527-두산-KT-1",
+      "date": "2026-05-27",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 22016
+    },
+    {
+      "game_id": "20260527-롯데-LG-1",
+      "date": "2026-05-27",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 16827
+    },
+    {
+      "game_id": "20260527-키움-KIA-1",
+      "date": "2026-05-27",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260528-NC-한화-1",
+      "date": "2026-05-28",
+      "stage": "regular",
+      "home": "NC",
+      "away": "한화",
+      "venue": "창원",
+      "attendance": 13087
+    },
+    {
+      "game_id": "20260528-SSG-삼성-1",
+      "date": "2026-05-28",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "삼성",
+      "venue": "문학",
+      "attendance": 18084
+    },
+    {
+      "game_id": "20260528-두산-KT-1",
+      "date": "2026-05-28",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 22069
+    },
+    {
+      "game_id": "20260528-롯데-LG-1",
+      "date": "2026-05-28",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 20522
+    },
+    {
+      "game_id": "20260528-키움-KIA-1",
+      "date": "2026-05-28",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260529-LG-KIA-1",
+      "date": "2026-05-29",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260529-NC-롯데-1",
+      "date": "2026-05-29",
+      "stage": "regular",
+      "home": "NC",
+      "away": "롯데",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260529-삼성-두산-1",
+      "date": "2026-05-29",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260529-키움-KT-1",
+      "date": "2026-05-29",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KT",
+      "venue": "고척",
+      "attendance": 7067
+    },
+    {
+      "game_id": "20260529-한화-SSG-1",
+      "date": "2026-05-29",
+      "stage": "regular",
+      "home": "한화",
+      "away": "SSG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260530-LG-KIA-1",
+      "date": "2026-05-30",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260530-NC-롯데-1",
+      "date": "2026-05-30",
+      "stage": "regular",
+      "home": "NC",
+      "away": "롯데",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260530-삼성-두산-1",
+      "date": "2026-05-30",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260530-키움-KT-1",
+      "date": "2026-05-30",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KT",
+      "venue": "고척",
+      "attendance": 11068
+    },
+    {
+      "game_id": "20260530-한화-SSG-1",
+      "date": "2026-05-30",
+      "stage": "regular",
+      "home": "한화",
+      "away": "SSG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260531-LG-KIA-1",
+      "date": "2026-05-31",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260531-NC-롯데-1",
+      "date": "2026-05-31",
+      "stage": "regular",
+      "home": "NC",
+      "away": "롯데",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260531-삼성-두산-1",
+      "date": "2026-05-31",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260531-키움-KT-1",
+      "date": "2026-05-31",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KT",
+      "venue": "고척",
+      "attendance": 9994
+    },
+    {
+      "game_id": "20260531-한화-SSG-1",
+      "date": "2026-05-31",
+      "stage": "regular",
+      "home": "한화",
+      "away": "SSG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260602-KIA-롯데-1",
+      "date": "2026-06-02",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260602-KT-LG-1",
+      "date": "2026-06-02",
+      "stage": "regular",
+      "home": "KT",
+      "away": "LG",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260602-SSG-키움-1",
+      "date": "2026-06-02",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "키움",
+      "venue": "문학",
+      "attendance": 16117
+    },
+    {
+      "game_id": "20260602-두산-한화-1",
+      "date": "2026-06-02",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260602-삼성-NC-1",
+      "date": "2026-06-02",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "NC",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260603-KIA-롯데-1",
+      "date": "2026-06-03",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260603-KT-LG-1",
+      "date": "2026-06-03",
+      "stage": "regular",
+      "home": "KT",
+      "away": "LG",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260603-SSG-키움-1",
+      "date": "2026-06-03",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "키움",
+      "venue": "문학",
+      "attendance": 18491
+    },
+    {
+      "game_id": "20260603-두산-한화-1",
+      "date": "2026-06-03",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260603-삼성-NC-1",
+      "date": "2026-06-03",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "NC",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260604-KIA-롯데-1",
+      "date": "2026-06-04",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260604-KT-LG-1",
+      "date": "2026-06-04",
+      "stage": "regular",
+      "home": "KT",
+      "away": "LG",
+      "venue": "수원",
+      "attendance": 12257
+    },
+    {
+      "game_id": "20260604-SSG-키움-1",
+      "date": "2026-06-04",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "키움",
+      "venue": "문학",
+      "attendance": 12688
+    },
+    {
+      "game_id": "20260604-두산-한화-1",
+      "date": "2026-06-04",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 22961
+    },
+    {
+      "game_id": "20260604-삼성-NC-1",
+      "date": "2026-06-04",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "NC",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260605-KIA-삼성-1",
+      "date": "2026-06-05",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260605-NC-LG-1",
+      "date": "2026-06-05",
+      "stage": "regular",
+      "home": "NC",
+      "away": "LG",
+      "venue": "창원",
+      "attendance": 15066
+    },
+    {
+      "game_id": "20260605-SSG-KT-1",
+      "date": "2026-06-05",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 16047
+    },
+    {
+      "game_id": "20260605-두산-키움-1",
+      "date": "2026-06-05",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 15849
+    },
+    {
+      "game_id": "20260605-롯데-한화-1",
+      "date": "2026-06-05",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260606-KIA-삼성-1",
+      "date": "2026-06-06",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260606-NC-LG-1",
+      "date": "2026-06-06",
+      "stage": "regular",
+      "home": "NC",
+      "away": "LG",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260606-SSG-KT-1",
+      "date": "2026-06-06",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 18425
+    },
+    {
+      "game_id": "20260606-두산-키움-1",
+      "date": "2026-06-06",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 22287
+    },
+    {
+      "game_id": "20260606-롯데-한화-1",
+      "date": "2026-06-06",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260607-KIA-삼성-1",
+      "date": "2026-06-07",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260607-NC-LG-1",
+      "date": "2026-06-07",
+      "stage": "regular",
+      "home": "NC",
+      "away": "LG",
+      "venue": "창원",
+      "attendance": 10888
+    },
+    {
+      "game_id": "20260607-SSG-KT-1",
+      "date": "2026-06-07",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 15598
+    },
+    {
+      "game_id": "20260607-두산-키움-1",
+      "date": "2026-06-07",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 21393
+    },
+    {
+      "game_id": "20260607-롯데-한화-1",
+      "date": "2026-06-07",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260609-KT-삼성-1",
+      "date": "2026-06-09",
+      "stage": "regular",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 13359
+    },
+    {
+      "game_id": "20260609-LG-SSG-1",
+      "date": "2026-06-09",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 20469
+    },
+    {
+      "game_id": "20260609-롯데-두산-1",
+      "date": "2026-06-09",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "두산",
+      "venue": "사직",
+      "attendance": 13351
+    },
+    {
+      "game_id": "20260609-키움-NC-1",
+      "date": "2026-06-09",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 4284
+    },
+    {
+      "game_id": "20260609-한화-KIA-1",
+      "date": "2026-06-09",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260610-KT-삼성-1",
+      "date": "2026-06-10",
+      "stage": "regular",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 13606
+    },
+    {
+      "game_id": "20260610-LG-SSG-1",
+      "date": "2026-06-10",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 20204
+    },
+    {
+      "game_id": "20260610-롯데-두산-1",
+      "date": "2026-06-10",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "두산",
+      "venue": "사직",
+      "attendance": 14200
+    },
+    {
+      "game_id": "20260610-키움-NC-1",
+      "date": "2026-06-10",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 5329
+    },
+    {
+      "game_id": "20260610-한화-KIA-1",
+      "date": "2026-06-10",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260611-KT-삼성-1",
+      "date": "2026-06-11",
+      "stage": "regular",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 14126
+    },
+    {
+      "game_id": "20260611-LG-SSG-1",
+      "date": "2026-06-11",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 20071
+    },
+    {
+      "game_id": "20260611-롯데-두산-1",
+      "date": "2026-06-11",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "두산",
+      "venue": "사직",
+      "attendance": 15542
+    },
+    {
+      "game_id": "20260611-키움-NC-1",
+      "date": "2026-06-11",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 5553
+    },
+    {
+      "game_id": "20260611-한화-KIA-1",
+      "date": "2026-06-11",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260612-KIA-두산-1",
+      "date": "2026-06-12",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260612-KT-NC-1",
+      "date": "2026-06-12",
+      "stage": "regular",
+      "home": "KT",
+      "away": "NC",
+      "venue": "수원",
+      "attendance": 8371
+    },
+    {
+      "game_id": "20260612-LG-롯데-1",
+      "date": "2026-06-12",
+      "stage": "regular",
+      "home": "LG",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260612-삼성-SSG-1",
+      "date": "2026-06-12",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260612-키움-한화-1",
+      "date": "2026-06-12",
+      "stage": "regular",
+      "home": "키움",
+      "away": "한화",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260613-KIA-두산-1",
+      "date": "2026-06-13",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260613-KT-NC-1",
+      "date": "2026-06-13",
+      "stage": "regular",
+      "home": "KT",
+      "away": "NC",
+      "venue": "수원",
+      "attendance": 13833
+    },
+    {
+      "game_id": "20260613-LG-롯데-1",
+      "date": "2026-06-13",
+      "stage": "regular",
+      "home": "LG",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260613-삼성-SSG-1",
+      "date": "2026-06-13",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260613-키움-한화-1",
+      "date": "2026-06-13",
+      "stage": "regular",
+      "home": "키움",
+      "away": "한화",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260614-KIA-두산-1",
+      "date": "2026-06-14",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260614-LG-롯데-1",
+      "date": "2026-06-14",
+      "stage": "regular",
+      "home": "LG",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260614-삼성-SSG-1",
+      "date": "2026-06-14",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260614-키움-한화-1",
+      "date": "2026-06-14",
+      "stage": "regular",
+      "home": "키움",
+      "away": "한화",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260616-KIA-LG-1",
+      "date": "2026-06-16",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260616-NC-한화-1",
+      "date": "2026-06-16",
+      "stage": "regular",
+      "home": "NC",
+      "away": "한화",
+      "venue": "창원",
+      "attendance": 8398
+    },
+    {
+      "game_id": "20260616-SSG-롯데-1",
+      "date": "2026-06-16",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 16851
+    },
+    {
+      "game_id": "20260616-두산-KT-1",
+      "date": "2026-06-16",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 13530
+    },
+    {
+      "game_id": "20260616-삼성-키움-1",
+      "date": "2026-06-16",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "키움",
+      "venue": "대구",
+      "attendance": 22995
+    },
+    {
+      "game_id": "20260617-KIA-LG-1",
+      "date": "2026-06-17",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 15628
+    },
+    {
+      "game_id": "20260617-NC-한화-1",
+      "date": "2026-06-17",
+      "stage": "regular",
+      "home": "NC",
+      "away": "한화",
+      "venue": "창원",
+      "attendance": 9773
+    },
+    {
+      "game_id": "20260617-SSG-롯데-1",
+      "date": "2026-06-17",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 17099
+    },
+    {
+      "game_id": "20260617-두산-KT-1",
+      "date": "2026-06-17",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 13960
+    },
+    {
+      "game_id": "20260617-삼성-키움-1",
+      "date": "2026-06-17",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "키움",
+      "venue": "대구",
+      "attendance": 22915
+    },
+    {
+      "game_id": "20260618-KIA-LG-1",
+      "date": "2026-06-18",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 17477
+    },
+    {
+      "game_id": "20260618-NC-한화-1",
+      "date": "2026-06-18",
+      "stage": "regular",
+      "home": "NC",
+      "away": "한화",
+      "venue": "창원",
+      "attendance": 8325
+    },
+    {
+      "game_id": "20260618-SSG-롯데-1",
+      "date": "2026-06-18",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 17097
+    },
+    {
+      "game_id": "20260618-두산-KT-1",
+      "date": "2026-06-18",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 14712
+    },
+    {
+      "game_id": "20260618-삼성-키움-1",
+      "date": "2026-06-18",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "키움",
+      "venue": "대구",
+      "attendance": 23412
+    },
+    {
+      "game_id": "20260619-KT-KIA-1",
+      "date": "2026-06-19",
+      "stage": "regular",
+      "home": "KT",
+      "away": "KIA",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260619-LG-두산-1",
+      "date": "2026-06-19",
+      "stage": "regular",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 23061
+    },
+    {
+      "game_id": "20260619-NC-SSG-1",
+      "date": "2026-06-19",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 7400
+    },
+    {
+      "game_id": "20260619-키움-롯데-1",
+      "date": "2026-06-19",
+      "stage": "regular",
+      "home": "키움",
+      "away": "롯데",
+      "venue": "고척",
+      "attendance": 14578
+    },
+    {
+      "game_id": "20260619-한화-삼성-1",
+      "date": "2026-06-19",
+      "stage": "regular",
+      "home": "한화",
+      "away": "삼성",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260620-KT-KIA-1",
+      "date": "2026-06-20",
+      "stage": "regular",
+      "home": "KT",
+      "away": "KIA",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260620-LG-두산-1",
+      "date": "2026-06-20",
+      "stage": "regular",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 23453
+    },
+    {
+      "game_id": "20260620-NC-SSG-1",
+      "date": "2026-06-20",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 13204
+    },
+    {
+      "game_id": "20260620-키움-롯데-1",
+      "date": "2026-06-20",
+      "stage": "regular",
+      "home": "키움",
+      "away": "롯데",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260620-한화-삼성-1",
+      "date": "2026-06-20",
+      "stage": "regular",
+      "home": "한화",
+      "away": "삼성",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260621-KT-KIA-1",
+      "date": "2026-06-21",
+      "stage": "regular",
+      "home": "KT",
+      "away": "KIA",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260621-LG-두산-1",
+      "date": "2026-06-21",
+      "stage": "regular",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260621-NC-SSG-1",
+      "date": "2026-06-21",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 10028
+    },
+    {
+      "game_id": "20260621-키움-롯데-1",
+      "date": "2026-06-21",
+      "stage": "regular",
+      "home": "키움",
+      "away": "롯데",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260621-한화-삼성-1",
+      "date": "2026-06-21",
+      "stage": "regular",
+      "home": "한화",
+      "away": "삼성",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260623-KT-SSG-1",
+      "date": "2026-06-23",
+      "stage": "regular",
+      "home": "KT",
+      "away": "SSG",
+      "venue": "수원",
+      "attendance": 7641
+    },
+    {
+      "game_id": "20260623-LG-삼성-1",
+      "date": "2026-06-23",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260623-롯데-NC-1",
+      "date": "2026-06-23",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 14929
+    },
+    {
+      "game_id": "20260623-키움-KIA-1",
+      "date": "2026-06-23",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260623-한화-두산-1",
+      "date": "2026-06-23",
+      "stage": "regular",
+      "home": "한화",
+      "away": "두산",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260624-KT-SSG-1",
+      "date": "2026-06-24",
+      "stage": "regular",
+      "home": "KT",
+      "away": "SSG",
+      "venue": "수원",
+      "attendance": 8080
+    },
+    {
+      "game_id": "20260624-LG-삼성-1",
+      "date": "2026-06-24",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260624-롯데-NC-1",
+      "date": "2026-06-24",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 13803
+    },
+    {
+      "game_id": "20260624-키움-KIA-1",
+      "date": "2026-06-24",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260624-한화-두산-1",
+      "date": "2026-06-24",
+      "stage": "regular",
+      "home": "한화",
+      "away": "두산",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260625-KT-SSG-1",
+      "date": "2026-06-25",
+      "stage": "regular",
+      "home": "KT",
+      "away": "SSG",
+      "venue": "수원",
+      "attendance": 7760
+    },
+    {
+      "game_id": "20260625-LG-삼성-1",
+      "date": "2026-06-25",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260625-롯데-NC-1",
+      "date": "2026-06-25",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 17987
+    },
+    {
+      "game_id": "20260625-키움-KIA-1",
+      "date": "2026-06-25",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260625-한화-두산-1",
+      "date": "2026-06-25",
+      "stage": "regular",
+      "home": "한화",
+      "away": "두산",
+      "venue": "대전",
+      "attendance": 16063
+    },
+    {
+      "game_id": "20260626-NC-키움-1",
+      "date": "2026-06-26",
+      "stage": "regular",
+      "home": "NC",
+      "away": "키움",
+      "venue": "창원",
+      "attendance": 8935
+    },
+    {
+      "game_id": "20260626-SSG-한화-1",
+      "date": "2026-06-26",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 21109
+    },
+    {
+      "game_id": "20260626-두산-KIA-1",
+      "date": "2026-06-26",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260626-롯데-LG-1",
+      "date": "2026-06-26",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260626-삼성-KT-1",
+      "date": "2026-06-26",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260627-NC-키움-1",
+      "date": "2026-06-27",
+      "stage": "regular",
+      "home": "NC",
+      "away": "키움",
+      "venue": "창원",
+      "attendance": 14042
+    },
+    {
+      "game_id": "20260627-SSG-한화-1",
+      "date": "2026-06-27",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260627-두산-KIA-1",
+      "date": "2026-06-27",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260627-롯데-LG-1",
+      "date": "2026-06-27",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260627-삼성-KT-1",
+      "date": "2026-06-27",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260628-NC-키움-1",
+      "date": "2026-06-28",
+      "stage": "regular",
+      "home": "NC",
+      "away": "키움",
+      "venue": "창원",
+      "attendance": 8743
+    },
+    {
+      "game_id": "20260628-SSG-한화-1",
+      "date": "2026-06-28",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260628-두산-KIA-1",
+      "date": "2026-06-28",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260628-롯데-LG-1",
+      "date": "2026-06-28",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260628-삼성-KT-1",
+      "date": "2026-06-28",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260630-KIA-SSG-1",
+      "date": "2026-06-30",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 14394
+    },
+    {
+      "game_id": "20260630-NC-삼성-1",
+      "date": "2026-06-30",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 11590
+    },
+    {
+      "game_id": "20260630-두산-롯데-1",
+      "date": "2026-06-30",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 21411
+    },
+    {
+      "game_id": "20260630-키움-LG-1",
+      "date": "2026-06-30",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 12885
+    },
+    {
+      "game_id": "20260701-KIA-SSG-1",
+      "date": "2026-07-01",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 13136
+    },
+    {
+      "game_id": "20260701-NC-삼성-1",
+      "date": "2026-07-01",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 11602
+    },
+    {
+      "game_id": "20260701-두산-롯데-1",
+      "date": "2026-07-01",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 21248
+    },
+    {
+      "game_id": "20260701-키움-LG-1",
+      "date": "2026-07-01",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 12940
+    },
+    {
+      "game_id": "20260701-한화-KT-1",
+      "date": "2026-07-01",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KT",
+      "venue": "대전",
+      "attendance": 15243
+    },
+    {
+      "game_id": "20260702-KIA-SSG-1",
+      "date": "2026-07-02",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 14485
+    },
+    {
+      "game_id": "20260702-NC-삼성-1",
+      "date": "2026-07-02",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 14155
+    },
+    {
+      "game_id": "20260702-두산-롯데-1",
+      "date": "2026-07-02",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 21951
+    },
+    {
+      "game_id": "20260702-키움-LG-1",
+      "date": "2026-07-02",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 14268
+    },
+    {
+      "game_id": "20260702-한화-KT-1",
+      "date": "2026-07-02",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KT",
+      "venue": "대전",
+      "attendance": 15111
+    },
+    {
+      "game_id": "20260703-KIA-NC-1",
+      "date": "2026-07-03",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "NC",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260703-KT-롯데-1",
+      "date": "2026-07-03",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260703-LG-한화-1",
+      "date": "2026-07-03",
+      "stage": "regular",
+      "home": "LG",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260703-SSG-삼성-1",
+      "date": "2026-07-03",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "삼성",
+      "venue": "문학",
+      "attendance": 19054
+    },
+    {
+      "game_id": "20260703-키움-두산-1",
+      "date": "2026-07-03",
+      "stage": "regular",
+      "home": "키움",
+      "away": "두산",
+      "venue": "고척",
+      "attendance": 13796
+    },
+    {
+      "game_id": "20260704-KIA-NC-1",
+      "date": "2026-07-04",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "NC",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260704-KT-롯데-1",
+      "date": "2026-07-04",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260704-LG-한화-1",
+      "date": "2026-07-04",
+      "stage": "regular",
+      "home": "LG",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260704-SSG-삼성-1",
+      "date": "2026-07-04",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "삼성",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260704-키움-두산-1",
+      "date": "2026-07-04",
+      "stage": "regular",
+      "home": "키움",
+      "away": "두산",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260705-KT-롯데-1",
+      "date": "2026-07-05",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260705-SSG-삼성-1",
+      "date": "2026-07-05",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "삼성",
+      "venue": "문학",
+      "attendance": 19602
+    },
+    {
+      "game_id": "20260705-키움-두산-1",
+      "date": "2026-07-05",
+      "stage": "regular",
+      "home": "키움",
+      "away": "두산",
+      "venue": "고척",
+      "attendance": 15502
+    },
+    {
+      "game_id": "20260707-KT-키움-1",
+      "date": "2026-07-07",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 5847
+    },
+    {
+      "game_id": "20260707-두산-SSG-1",
+      "date": "2026-07-07",
+      "stage": "regular",
+      "home": "두산",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 13375
+    },
+    {
+      "game_id": "20260707-롯데-KIA-1",
+      "date": "2026-07-07",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KIA",
+      "venue": "사직",
+      "attendance": 19758
+    },
+    {
+      "game_id": "20260707-삼성-LG-1",
+      "date": "2026-07-07",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "LG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260707-한화-NC-1",
+      "date": "2026-07-07",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 14052
+    },
+    {
+      "game_id": "20260708-KT-키움-1",
+      "date": "2026-07-08",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 4659
+    },
+    {
+      "game_id": "20260708-두산-SSG-1",
+      "date": "2026-07-08",
+      "stage": "regular",
+      "home": "두산",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 12789
+    },
+    {
+      "game_id": "20260708-롯데-KIA-1",
+      "date": "2026-07-08",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KIA",
+      "venue": "사직",
+      "attendance": 21792
+    },
+    {
+      "game_id": "20260708-삼성-LG-1",
+      "date": "2026-07-08",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "LG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260709-두산-SSG-1",
+      "date": "2026-07-09",
+      "stage": "regular",
+      "home": "두산",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 12961
+    },
+    {
+      "game_id": "20260709-롯데-KIA-1",
+      "date": "2026-07-09",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KIA",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260709-삼성-LG-1",
+      "date": "2026-07-09",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "LG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260709-한화-NC-1",
+      "date": "2026-07-09",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 13805
+    },
+    {
+      "game_id": "20260711WEEA0",
+      "date": "2026-07-11",
+      "stage": "allstar",
+      "series_id": "9",
+      "home": "드림",
+      "away": "나눔",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260716-LG-KT-1",
+      "date": "2026-07-16",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 22506
+    },
+    {
+      "game_id": "20260716-NC-두산-1",
+      "date": "2026-07-16",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 14492
+    },
+    {
+      "game_id": "20260716-SSG-KIA-1",
+      "date": "2026-07-16",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KIA",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260716-삼성-롯데-1",
+      "date": "2026-07-16",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260716-한화-키움-1",
+      "date": "2026-07-16",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260717-LG-KT-1",
+      "date": "2026-07-17",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260717-NC-두산-1",
+      "date": "2026-07-17",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 15235
+    },
+    {
+      "game_id": "20260717-SSG-KIA-1",
+      "date": "2026-07-17",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KIA",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260717-한화-키움-1",
+      "date": "2026-07-17",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260718-LG-KT-1",
+      "date": "2026-07-18",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 21042
+    },
+    {
+      "game_id": "20260718-NC-두산-1",
+      "date": "2026-07-18",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 15093
+    },
+    {
+      "game_id": "20260718-SSG-KIA-1",
+      "date": "2026-07-18",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KIA",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260718-삼성-롯데-1",
+      "date": "2026-07-18",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260718-한화-키움-1",
+      "date": "2026-07-18",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 15587
+    },
+    {
+      "game_id": "20260719-LG-KT-1",
+      "date": "2026-07-19",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 21515
+    },
+    {
+      "game_id": "20260719-NC-두산-1",
+      "date": "2026-07-19",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 10406
+    },
+    {
+      "game_id": "20260719-SSG-KIA-1",
+      "date": "2026-07-19",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KIA",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260719-삼성-롯데-1",
+      "date": "2026-07-19",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260719-한화-키움-1",
+      "date": "2026-07-19",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 16566
+    },
+    {
+      "game_id": "20260721-KIA-한화-1",
+      "date": "2026-07-21",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "한화",
+      "venue": "광주",
+      "attendance": 16201
+    },
+    {
+      "game_id": "20260721-KT-두산-1",
+      "date": "2026-07-21",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 10183
+    },
+    {
+      "game_id": "20260721-LG-NC-1",
+      "date": "2026-07-21",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 13905
+    },
+    {
+      "game_id": "20260721-롯데-SSG-1",
+      "date": "2026-07-21",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "SSG",
+      "venue": "사직",
+      "attendance": 15577
+    },
+    {
+      "game_id": "20260721-키움-삼성-1",
+      "date": "2026-07-21",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 15437
+    },
+    {
+      "game_id": "20260722-KIA-한화-1",
+      "date": "2026-07-22",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "한화",
+      "venue": "광주",
+      "attendance": 15365
+    },
+    {
+      "game_id": "20260722-롯데-SSG-1",
+      "date": "2026-07-22",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "SSG",
+      "venue": "사직",
+      "attendance": 15965
+    },
+    {
+      "game_id": "20260722-키움-삼성-1",
+      "date": "2026-07-22",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 15536
+    },
+    {
+      "game_id": "20260723-KIA-한화-1",
+      "date": "2026-07-23",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "한화",
+      "venue": "광주",
+      "attendance": 16394
+    },
+    {
+      "game_id": "20260723-LG-NC-1",
+      "date": "2026-07-23",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 14215
+    },
+    {
+      "game_id": "20260723-롯데-SSG-1",
+      "date": "2026-07-23",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "SSG",
+      "venue": "사직",
+      "attendance": 16072
+    },
+    {
+      "game_id": "20260723-키움-삼성-1",
+      "date": "2026-07-23",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 15642
+    },
+    {
+      "game_id": "20260724-KIA-키움-1",
+      "date": "2026-07-24",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "키움",
+      "venue": "광주",
+      "attendance": 16065
+    },
+    {
+      "game_id": "20260724-SSG-NC-1",
+      "date": "2026-07-24",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "NC",
+      "venue": "문학",
+      "attendance": 11579
+    },
+    {
+      "game_id": "20260724-두산-삼성-1",
+      "date": "2026-07-24",
+      "stage": "regular",
+      "home": "두산",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260724-롯데-KT-1",
+      "date": "2026-07-24",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KT",
+      "venue": "사직",
+      "attendance": 15154
+    },
+    {
+      "game_id": "20260724-한화-LG-1",
+      "date": "2026-07-24",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 16082
+    },
+    {
+      "game_id": "20260725-KIA-키움-1",
+      "date": "2026-07-25",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "키움",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260725-SSG-NC-1",
+      "date": "2026-07-25",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "NC",
+      "venue": "문학",
+      "attendance": 13283
+    },
+    {
+      "game_id": "20260725-두산-삼성-1",
+      "date": "2026-07-25",
+      "stage": "regular",
+      "home": "두산",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260725-롯데-KT-1",
+      "date": "2026-07-25",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KT",
+      "venue": "사직",
+      "attendance": 22477
+    },
+    {
+      "game_id": "20260725-한화-LG-1",
+      "date": "2026-07-25",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260726-KIA-키움-1",
+      "date": "2026-07-26",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "키움",
+      "venue": "광주",
+      "attendance": 18112
+    },
+    {
+      "game_id": "20260726-SSG-NC-1",
+      "date": "2026-07-26",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "NC",
+      "venue": "문학",
+      "attendance": 10971
+    },
+    {
+      "game_id": "20260726-두산-삼성-1",
+      "date": "2026-07-26",
+      "stage": "regular",
+      "home": "두산",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260726-롯데-KT-1",
+      "date": "2026-07-26",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KT",
+      "venue": "사직",
+      "attendance": 22336
+    },
+    {
+      "game_id": "20260726-한화-LG-1",
+      "date": "2026-07-26",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260728-LG-키움-1",
+      "date": "2026-07-28",
+      "stage": "regular",
+      "home": "LG",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 18329
+    },
+    {
+      "game_id": "20260728-NC-KT-1",
+      "date": "2026-07-28",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 7613
+    },
+    {
+      "game_id": "20260728-SSG-두산-1",
+      "date": "2026-07-28",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 12705
+    },
+    {
+      "game_id": "20260728-삼성-KIA-1",
+      "date": "2026-07-28",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260728-한화-롯데-1",
+      "date": "2026-07-28",
+      "stage": "regular",
+      "home": "한화",
+      "away": "롯데",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260729-LG-키움-1",
+      "date": "2026-07-29",
+      "stage": "regular",
+      "home": "LG",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 20067
+    },
+    {
+      "game_id": "20260729-NC-KT-1",
+      "date": "2026-07-29",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 8411
+    },
+    {
+      "game_id": "20260729-SSG-두산-1",
+      "date": "2026-07-29",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 12712
+    },
+    {
+      "game_id": "20260729-삼성-KIA-1",
+      "date": "2026-07-29",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260729-한화-롯데-1",
+      "date": "2026-07-29",
+      "stage": "regular",
+      "home": "한화",
+      "away": "롯데",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260730-LG-키움-1",
+      "date": "2026-07-30",
+      "stage": "regular",
+      "home": "LG",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 20159
+    },
+    {
+      "game_id": "20260730-NC-KT-1",
+      "date": "2026-07-30",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 7854
+    },
+    {
+      "game_id": "20260730-SSG-두산-1",
+      "date": "2026-07-30",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 13213
+    },
+    {
+      "game_id": "20260730-삼성-KIA-1",
+      "date": "2026-07-30",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260730-한화-롯데-1",
+      "date": "2026-07-30",
+      "stage": "regular",
+      "home": "한화",
+      "away": "롯데",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260731-KT-한화-1",
+      "date": "2026-07-31",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260731-NC-KIA-1",
+      "date": "2026-07-31",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 16024
+    },
+    {
+      "game_id": "20260731-두산-LG-1",
+      "date": "2026-07-31",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 23220
+    },
+    {
+      "game_id": "20260731-롯데-삼성-1",
+      "date": "2026-07-31",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "삼성",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260731-키움-SSG-1",
+      "date": "2026-07-31",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 10866
+    },
+    {
+      "game_id": "20260801-KT-한화-1",
+      "date": "2026-08-01",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260801-두산-LG-1",
+      "date": "2026-08-01",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260801-키움-SSG-1",
+      "date": "2026-08-01",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 13390
+    },
+    {
+      "game_id": "20260802-KT-한화-1",
+      "date": "2026-08-02",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260802-두산-LG-1",
+      "date": "2026-08-02",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 23183
+    },
+    {
+      "game_id": "20260802-롯데-삼성-1",
+      "date": "2026-08-02",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "삼성",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260802-키움-SSG-1",
+      "date": "2026-08-02",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 12518
+    },
+    {
+      "game_id": "20260804-SSG-LG-1",
+      "date": "2026-08-04",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "LG",
+      "venue": "문학",
+      "attendance": 11552
+    },
+    {
+      "game_id": "20260804-롯데-키움-1",
+      "date": "2026-08-04",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 16305
+    },
+    {
+      "game_id": "20260804-삼성-한화-1",
+      "date": "2026-08-04",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260811-KIA-삼성-1",
+      "date": "2026-08-11",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 14496
+    },
+    {
+      "game_id": "20260811-NC-KT-1",
+      "date": "2026-08-11",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 6148
+    },
+    {
+      "game_id": "20260811-SSG-롯데-1",
+      "date": "2026-08-11",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 11253
+    },
+    {
+      "game_id": "20260811-두산-한화-1",
+      "date": "2026-08-11",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 22152
+    },
+    {
+      "game_id": "20260811-키움-LG-1",
+      "date": "2026-08-11",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 13085
+    },
+    {
+      "game_id": "20260812-KIA-삼성-1",
+      "date": "2026-08-12",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 14612
+    },
+    {
+      "game_id": "20260812-NC-KT-1",
+      "date": "2026-08-12",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 12216
+    },
+    {
+      "game_id": "20260812-SSG-롯데-1",
+      "date": "2026-08-12",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 12694
+    },
+    {
+      "game_id": "20260812-두산-한화-1",
+      "date": "2026-08-12",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 22751
+    },
+    {
+      "game_id": "20260812-키움-LG-1",
+      "date": "2026-08-12",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 12924
+    },
+    {
+      "game_id": "20260813-KIA-삼성-1",
+      "date": "2026-08-13",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 15558
+    },
+    {
+      "game_id": "20260813-NC-KT-1",
+      "date": "2026-08-13",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KT",
+      "venue": "창원",
+      "attendance": 5822
+    },
+    {
+      "game_id": "20260813-SSG-롯데-1",
+      "date": "2026-08-13",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "롯데",
+      "venue": "문학",
+      "attendance": 12912
+    },
+    {
+      "game_id": "20260813-두산-한화-1",
+      "date": "2026-08-13",
+      "stage": "regular",
+      "home": "두산",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260813-키움-LG-1",
+      "date": "2026-08-13",
+      "stage": "regular",
+      "home": "키움",
+      "away": "LG",
+      "venue": "고척",
+      "attendance": 15028
+    },
+    {
+      "game_id": "20260814-KIA-두산-1",
+      "date": "2026-08-14",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 18308
+    },
+    {
+      "game_id": "20260814-KT-키움-1",
+      "date": "2026-08-14",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 11021
+    },
+    {
+      "game_id": "20260814-LG-SSG-1",
+      "date": "2026-08-14",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 19463
+    },
+    {
+      "game_id": "20260814-롯데-NC-1",
+      "date": "2026-08-14",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 18351
+    },
+    {
+      "game_id": "20260814-삼성-한화-1",
+      "date": "2026-08-14",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260815-KIA-두산-1",
+      "date": "2026-08-15",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260815-KT-키움-1",
+      "date": "2026-08-15",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 13203
+    },
+    {
+      "game_id": "20260815-LG-SSG-1",
+      "date": "2026-08-15",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23189
+    },
+    {
+      "game_id": "20260815-롯데-NC-1",
+      "date": "2026-08-15",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260815-삼성-한화-1",
+      "date": "2026-08-15",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260816-KIA-두산-1",
+      "date": "2026-08-16",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "두산",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260816-KT-키움-1",
+      "date": "2026-08-16",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 13158
+    },
+    {
+      "game_id": "20260816-LG-SSG-1",
+      "date": "2026-08-16",
+      "stage": "regular",
+      "home": "LG",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 23287
+    },
+    {
+      "game_id": "20260818-LG-KT-1",
+      "date": "2026-08-18",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 15098
+    },
+    {
+      "game_id": "20260818-NC-두산-1",
+      "date": "2026-08-18",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 5350
+    },
+    {
+      "game_id": "20260818-롯데-키움-1",
+      "date": "2026-08-18",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 11371
+    },
+    {
+      "game_id": "20260818-삼성-SSG-1",
+      "date": "2026-08-18",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 23184
+    },
+    {
+      "game_id": "20260818-한화-KIA-1",
+      "date": "2026-08-18",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260819-LG-KT-1",
+      "date": "2026-08-19",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 15052
+    },
+    {
+      "game_id": "20260819-NC-두산-1",
+      "date": "2026-08-19",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 6196
+    },
+    {
+      "game_id": "20260819-롯데-키움-1",
+      "date": "2026-08-19",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 12596
+    },
+    {
+      "game_id": "20260819-삼성-SSG-1",
+      "date": "2026-08-19",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 22784
+    },
+    {
+      "game_id": "20260819-한화-KIA-1",
+      "date": "2026-08-19",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260820-LG-KT-1",
+      "date": "2026-08-20",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 15492
+    },
+    {
+      "game_id": "20260820-NC-두산-1",
+      "date": "2026-08-20",
+      "stage": "regular",
+      "home": "NC",
+      "away": "두산",
+      "venue": "창원",
+      "attendance": 6313
+    },
+    {
+      "game_id": "20260820-롯데-키움-1",
+      "date": "2026-08-20",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 15793
+    },
+    {
+      "game_id": "20260820-삼성-SSG-1",
+      "date": "2026-08-20",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "SSG",
+      "venue": "대구",
+      "attendance": 23238
+    },
+    {
+      "game_id": "20260820-한화-KIA-1",
+      "date": "2026-08-20",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KIA",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260821-NC-삼성-1",
+      "date": "2026-08-21",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 14909
+    },
+    {
+      "game_id": "20260821-SSG-KT-1",
+      "date": "2026-08-21",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 12856
+    },
+    {
+      "game_id": "20260821-두산-롯데-1",
+      "date": "2026-08-21",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260821-키움-KIA-1",
+      "date": "2026-08-21",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260821-한화-LG-1",
+      "date": "2026-08-21",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 15009
+    },
+    {
+      "game_id": "20260822-NC-삼성-1",
+      "date": "2026-08-22",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260822-키움-KIA-1",
+      "date": "2026-08-22",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260823-NC-삼성-1",
+      "date": "2026-08-23",
+      "stage": "regular",
+      "home": "NC",
+      "away": "삼성",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260823-SSG-KT-1",
+      "date": "2026-08-23",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260823-두산-롯데-1",
+      "date": "2026-08-23",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260823-키움-KIA-1",
+      "date": "2026-08-23",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KIA",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20260823-한화-LG-1",
+      "date": "2026-08-23",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260825-KIA-롯데-1",
+      "date": "2026-08-25",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 14887
+    },
+    {
+      "game_id": "20260825-KT-두산-1",
+      "date": "2026-08-25",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 10173
+    },
+    {
+      "game_id": "20260825-LG-NC-1",
+      "date": "2026-08-25",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 14554
+    },
+    {
+      "game_id": "20260825-SSG-한화-1",
+      "date": "2026-08-25",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 15094
+    },
+    {
+      "game_id": "20260825-키움-삼성-1",
+      "date": "2026-08-25",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 14399
+    },
+    {
+      "game_id": "20260826-KIA-롯데-1",
+      "date": "2026-08-26",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 14662
+    },
+    {
+      "game_id": "20260826-KT-두산-1",
+      "date": "2026-08-26",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 10307
+    },
+    {
+      "game_id": "20260826-LG-NC-1",
+      "date": "2026-08-26",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 16376
+    },
+    {
+      "game_id": "20260826-SSG-한화-1",
+      "date": "2026-08-26",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 17211
+    },
+    {
+      "game_id": "20260826-키움-삼성-1",
+      "date": "2026-08-26",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 15260
+    },
+    {
+      "game_id": "20260827-KT-두산-1",
+      "date": "2026-08-27",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 10751
+    },
+    {
+      "game_id": "20260827-LG-NC-1",
+      "date": "2026-08-27",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 16644
+    },
+    {
+      "game_id": "20260827-SSG-한화-1",
+      "date": "2026-08-27",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 17536
+    },
+    {
+      "game_id": "20260827-키움-삼성-1",
+      "date": "2026-08-27",
+      "stage": "regular",
+      "home": "키움",
+      "away": "삼성",
+      "venue": "고척",
+      "attendance": 14788
+    },
+    {
+      "game_id": "20260829-KIA-SSG-1",
+      "date": "2026-08-29",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260829-두산-키움-1",
+      "date": "2026-08-29",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 22958
+    },
+    {
+      "game_id": "20260829-롯데-LG-1",
+      "date": "2026-08-29",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 22212
+    },
+    {
+      "game_id": "20260829-삼성-KT-1",
+      "date": "2026-08-29",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260829-한화-NC-1",
+      "date": "2026-08-29",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260830-두산-키움-1",
+      "date": "2026-08-30",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 19268
+    },
+    {
+      "game_id": "20260830-한화-NC-1",
+      "date": "2026-08-30",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260901-KT-한화-1",
+      "date": "2026-09-01",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 8583
+    },
+    {
+      "game_id": "20260901-NC-KIA-1",
+      "date": "2026-09-01",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 8456
+    },
+    {
+      "game_id": "20260901-두산-LG-1",
+      "date": "2026-09-01",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 18278
+    },
+    {
+      "game_id": "20260901-삼성-롯데-1",
+      "date": "2026-09-01",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260901-키움-SSG-1",
+      "date": "2026-09-01",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 5474
+    },
+    {
+      "game_id": "20260902-KT-한화-1",
+      "date": "2026-09-02",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 10935
+    },
+    {
+      "game_id": "20260902-NC-KIA-1",
+      "date": "2026-09-02",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 10172
+    },
+    {
+      "game_id": "20260902-두산-LG-1",
+      "date": "2026-09-02",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 20274
+    },
+    {
+      "game_id": "20260902-삼성-롯데-1",
+      "date": "2026-09-02",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260902-키움-SSG-1",
+      "date": "2026-09-02",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 5846
+    },
+    {
+      "game_id": "20260903-KT-한화-1",
+      "date": "2026-09-03",
+      "stage": "regular",
+      "home": "KT",
+      "away": "한화",
+      "venue": "수원",
+      "attendance": 11789
+    },
+    {
+      "game_id": "20260903-두산-LG-1",
+      "date": "2026-09-03",
+      "stage": "regular",
+      "home": "두산",
+      "away": "LG",
+      "venue": "잠실",
+      "attendance": 22434
+    },
+    {
+      "game_id": "20260903-삼성-롯데-1",
+      "date": "2026-09-03",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260903-키움-SSG-1",
+      "date": "2026-09-03",
+      "stage": "regular",
+      "home": "키움",
+      "away": "SSG",
+      "venue": "고척",
+      "attendance": 6839
+    },
+    {
+      "game_id": "20260904-KIA-KT-1",
+      "date": "2026-09-04",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260904-LG-삼성-1",
+      "date": "2026-09-04",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260904-SSG-두산-1",
+      "date": "2026-09-04",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 14260
+    },
+    {
+      "game_id": "20260904-롯데-한화-1",
+      "date": "2026-09-04",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 16201
+    },
+    {
+      "game_id": "20260904-키움-NC-1",
+      "date": "2026-09-04",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 5930
+    },
+    {
+      "game_id": "20260905-KIA-KT-1",
+      "date": "2026-09-05",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260905-LG-삼성-1",
+      "date": "2026-09-05",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260905-SSG-두산-1",
+      "date": "2026-09-05",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260905-롯데-한화-1",
+      "date": "2026-09-05",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260905-키움-NC-1",
+      "date": "2026-09-05",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 9383
+    },
+    {
+      "game_id": "20260906-KIA-KT-1",
+      "date": "2026-09-06",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260906-LG-삼성-1",
+      "date": "2026-09-06",
+      "stage": "regular",
+      "home": "LG",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260906-SSG-두산-1",
+      "date": "2026-09-06",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "두산",
+      "venue": "문학",
+      "attendance": 17771
+    },
+    {
+      "game_id": "20260906-롯데-한화-1",
+      "date": "2026-09-06",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260906-키움-NC-1",
+      "date": "2026-09-06",
+      "stage": "regular",
+      "home": "키움",
+      "away": "NC",
+      "venue": "고척",
+      "attendance": 9499
+    },
+    {
+      "game_id": "20260908-KT-SSG-1",
+      "date": "2026-09-08",
+      "stage": "regular",
+      "home": "KT",
+      "away": "SSG",
+      "venue": "수원",
+      "attendance": 8705
+    },
+    {
+      "game_id": "20260908-LG-키움-1",
+      "date": "2026-09-08",
+      "stage": "regular",
+      "home": "LG",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 18277
+    },
+    {
+      "game_id": "20260908-NC-롯데-1",
+      "date": "2026-09-08",
+      "stage": "regular",
+      "home": "NC",
+      "away": "롯데",
+      "venue": "창원",
+      "attendance": 14114
+    },
+    {
+      "game_id": "20260908-삼성-KIA-1",
+      "date": "2026-09-08",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260908-한화-두산-1",
+      "date": "2026-09-08",
+      "stage": "regular",
+      "home": "한화",
+      "away": "두산",
+      "venue": "대전",
+      "attendance": 12011
+    },
+    {
+      "game_id": "20260909-KIA-NC-1",
+      "date": "2026-09-09",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "NC",
+      "venue": "광주",
+      "attendance": 12230
+    },
+    {
+      "game_id": "20260909-두산-SSG-1",
+      "date": "2026-09-09",
+      "stage": "regular",
+      "home": "두산",
+      "away": "SSG",
+      "venue": "잠실",
+      "attendance": 18722
+    },
+    {
+      "game_id": "20260909-삼성-KT-1",
+      "date": "2026-09-09",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260909-한화-LG-1",
+      "date": "2026-09-09",
+      "stage": "regular",
+      "home": "한화",
+      "away": "LG",
+      "venue": "대전",
+      "attendance": 12024
+    },
+    {
+      "game_id": "20260910-KIA-NC-1",
+      "date": "2026-09-10",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "NC",
+      "venue": "광주",
+      "attendance": 12754
+    },
+    {
+      "game_id": "20260910-SSG-한화-1",
+      "date": "2026-09-10",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "한화",
+      "venue": "문학",
+      "attendance": 17328
+    },
+    {
+      "game_id": "20260910-두산-키움-1",
+      "date": "2026-09-10",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 13713
+    },
+    {
+      "game_id": "20260910-롯데-KT-1",
+      "date": "2026-09-10",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KT",
+      "venue": "사직",
+      "attendance": 11146
+    },
+    {
+      "game_id": "20260911-KIA-SSG-1",
+      "date": "2026-09-11",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 16620
+    },
+    {
+      "game_id": "20260911-롯데-KT-1",
+      "date": "2026-09-11",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KT",
+      "venue": "사직",
+      "attendance": 11569
+    },
+    {
+      "game_id": "20260911-삼성-키움-1",
+      "date": "2026-09-11",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "키움",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260911-한화-NC-1",
+      "date": "2026-09-11",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 14278
+    },
+    {
+      "game_id": "20260912-KT-KIA-1",
+      "date": "2026-09-12",
+      "stage": "regular",
+      "home": "KT",
+      "away": "KIA",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260912-두산-NC-1",
+      "date": "2026-09-12",
+      "stage": "regular",
+      "home": "두산",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 23096
+    },
+    {
+      "game_id": "20260912-삼성-LG-1",
+      "date": "2026-09-12",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "LG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260912-키움-롯데-1",
+      "date": "2026-09-12",
+      "stage": "regular",
+      "home": "키움",
+      "away": "롯데",
+      "venue": "고척",
+      "attendance": 15146
+    },
+    {
+      "game_id": "20260913-KIA-한화-1",
+      "date": "2026-09-13",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "한화",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260913-KT-롯데-1",
+      "date": "2026-09-13",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260913-두산-NC-1",
+      "date": "2026-09-13",
+      "stage": "regular",
+      "home": "두산",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 17597
+    },
+    {
+      "game_id": "20260913-삼성-LG-1",
+      "date": "2026-09-13",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "LG",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260915-NC-LG-1",
+      "date": "2026-09-15",
+      "stage": "regular",
+      "home": "NC",
+      "away": "LG",
+      "venue": "창원",
+      "attendance": 10547
+    },
+    {
+      "game_id": "20260915-SSG-KIA-1",
+      "date": "2026-09-15",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KIA",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260915-삼성-롯데-1",
+      "date": "2026-09-15",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "롯데",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260915-한화-KT-1",
+      "date": "2026-09-15",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KT",
+      "venue": "대전",
+      "attendance": 10287
+    },
+    {
+      "game_id": "20260916-NC-LG-1",
+      "date": "2026-09-16",
+      "stage": "regular",
+      "home": "NC",
+      "away": "LG",
+      "venue": "창원",
+      "attendance": 14180
+    },
+    {
+      "game_id": "20260916-두산-삼성-1",
+      "date": "2026-09-16",
+      "stage": "regular",
+      "home": "두산",
+      "away": "삼성",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260916-롯데-SSG-1",
+      "date": "2026-09-16",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "SSG",
+      "venue": "사직",
+      "attendance": 10851
+    },
+    {
+      "game_id": "20260916-한화-KT-1",
+      "date": "2026-09-16",
+      "stage": "regular",
+      "home": "한화",
+      "away": "KT",
+      "venue": "대전",
+      "attendance": 10194
+    },
+    {
+      "game_id": "20260917-KIA-키움-1",
+      "date": "2026-09-17",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "키움",
+      "venue": "광주",
+      "attendance": 15470
+    },
+    {
+      "game_id": "20260917-NC-SSG-1",
+      "date": "2026-09-17",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 10869
+    },
+    {
+      "game_id": "20260918-KT-LG-1",
+      "date": "2026-09-18",
+      "stage": "regular",
+      "home": "KT",
+      "away": "LG",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260918-두산-키움-1",
+      "date": "2026-09-18",
+      "stage": "regular",
+      "home": "두산",
+      "away": "키움",
+      "venue": "잠실",
+      "attendance": 18704
+    },
+    {
+      "game_id": "20260918-롯데-NC-1",
+      "date": "2026-09-18",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "NC",
+      "venue": "사직",
+      "attendance": 12724
+    },
+    {
+      "game_id": "20260918-한화-삼성-1",
+      "date": "2026-09-18",
+      "stage": "regular",
+      "home": "한화",
+      "away": "삼성",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20260919-KT-두산-1",
+      "date": "2026-09-19",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260919-LG-한화-1",
+      "date": "2026-09-19",
+      "stage": "regular",
+      "home": "LG",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260919-NC-KIA-1",
+      "date": "2026-09-19",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20260919-롯데-삼성-1",
+      "date": "2026-09-19",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "삼성",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260920-KT-두산-1",
+      "date": "2026-09-20",
+      "stage": "regular",
+      "home": "KT",
+      "away": "두산",
+      "venue": "수원",
+      "attendance": 16606
+    },
+    {
+      "game_id": "20260920-LG-한화-1",
+      "date": "2026-09-20",
+      "stage": "regular",
+      "home": "LG",
+      "away": "한화",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260920-NC-KIA-1",
+      "date": "2026-09-20",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 16120
+    },
+    {
+      "game_id": "20260920-SSG-키움-1",
+      "date": "2026-09-20",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "키움",
+      "venue": "문학",
+      "attendance": 18915
+    },
+    {
+      "game_id": "20260920-롯데-삼성-1",
+      "date": "2026-09-20",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "삼성",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20260922-SSG-KT-1",
+      "date": "2026-09-22",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "KT",
+      "venue": "문학",
+      "attendance": 13548
+    },
+    {
+      "game_id": "20260922-삼성-NC-1",
+      "date": "2026-09-22",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "NC",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20260922-키움-두산-1",
+      "date": "2026-09-22",
+      "stage": "regular",
+      "home": "키움",
+      "away": "두산",
+      "venue": "고척",
+      "attendance": 9426
+    },
+    {
+      "game_id": "20260922-한화-롯데-1",
+      "date": "2026-09-22",
+      "stage": "regular",
+      "home": "한화",
+      "away": "롯데",
+      "venue": "대전",
+      "attendance": 12538
+    },
+    {
+      "game_id": "20260923-KT-NC-1",
+      "date": "2026-09-23",
+      "stage": "regular",
+      "home": "KT",
+      "away": "NC",
+      "venue": "수원",
+      "attendance": 12067
+    },
+    {
+      "game_id": "20260923-두산-KIA-1",
+      "date": "2026-09-23",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260923-한화-롯데-1",
+      "date": "2026-09-23",
+      "stage": "regular",
+      "home": "한화",
+      "away": "롯데",
+      "venue": "대전",
+      "attendance": 14001
+    },
+    {
+      "game_id": "20260924-KT-NC-1",
+      "date": "2026-09-24",
+      "stage": "regular",
+      "home": "KT",
+      "away": "NC",
+      "venue": "수원",
+      "attendance": 14726
+    },
+    {
+      "game_id": "20260924-LG-롯데-1",
+      "date": "2026-09-24",
+      "stage": "regular",
+      "home": "LG",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260924-SSG-삼성-1",
+      "date": "2026-09-24",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "삼성",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20260925-NC-한화-1",
+      "date": "2026-09-25",
+      "stage": "regular",
+      "home": "NC",
+      "away": "한화",
+      "venue": "창원",
+      "attendance": 13972
+    },
+    {
+      "game_id": "20260926-KIA-LG-1",
+      "date": "2026-09-26",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20260926-KT-키움-1",
+      "date": "2026-09-26",
+      "stage": "regular",
+      "home": "KT",
+      "away": "키움",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20260926-NC-한화-1",
+      "date": "2026-09-26",
+      "stage": "regular",
+      "home": "NC",
+      "away": "한화",
+      "venue": "창원",
+      "attendance": 14302
+    },
+    {
+      "game_id": "20260927-NC-키움-1",
+      "date": "2026-09-27",
+      "stage": "regular",
+      "home": "NC",
+      "away": "키움",
+      "venue": "창원",
+      "attendance": 12336
+    },
+    {
+      "game_id": "20260927-두산-KT-1",
+      "date": "2026-09-27",
+      "stage": "regular",
+      "home": "두산",
+      "away": "KT",
+      "venue": "잠실",
+      "attendance": 22978
+    },
+    {
+      "game_id": "20260927-롯데-한화-1",
+      "date": "2026-09-27",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "한화",
+      "venue": "사직",
+      "attendance": 20600
+    },
+    {
+      "game_id": "20260929-KIA-KT-1",
+      "date": "2026-09-29",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 14065
+    },
+    {
+      "game_id": "20260929-SSG-LG-1",
+      "date": "2026-09-29",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "LG",
+      "venue": "문학",
+      "attendance": 15960
+    },
+    {
+      "game_id": "20260929-두산-NC-1",
+      "date": "2026-09-29",
+      "stage": "regular",
+      "home": "두산",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 16734
+    },
+    {
+      "game_id": "20260929-롯데-키움-1",
+      "date": "2026-09-29",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 12313
+    },
+    {
+      "game_id": "20260929-삼성-한화-1",
+      "date": "2026-09-29",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20260930-KIA-KT-1",
+      "date": "2026-09-30",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 14163
+    },
+    {
+      "game_id": "20260930-SSG-LG-1",
+      "date": "2026-09-30",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "LG",
+      "venue": "문학",
+      "attendance": 13957
+    },
+    {
+      "game_id": "20260930-두산-NC-1",
+      "date": "2026-09-30",
+      "stage": "regular",
+      "home": "두산",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 16994
+    },
+    {
+      "game_id": "20260930-롯데-키움-1",
+      "date": "2026-09-30",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "키움",
+      "venue": "사직",
+      "attendance": 12075
+    },
+    {
+      "game_id": "20260930-삼성-한화-1",
+      "date": "2026-09-30",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 23823
+    },
+    {
+      "game_id": "20261001-KIA-KT-1",
+      "date": "2026-10-01",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "KT",
+      "venue": "광주",
+      "attendance": 15602
+    },
+    {
+      "game_id": "20261001-SSG-LG-1",
+      "date": "2026-10-01",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "LG",
+      "venue": "문학",
+      "attendance": 15772
+    },
+    {
+      "game_id": "20261001-두산-NC-1",
+      "date": "2026-10-01",
+      "stage": "regular",
+      "home": "두산",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 23248
+    },
+    {
+      "game_id": "20261001-삼성-한화-1",
+      "date": "2026-10-01",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "한화",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20261003-KT-롯데-1",
+      "date": "2026-10-03",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20261003-LG-KIA-1",
+      "date": "2026-10-03",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20261003-NC-SSG-1",
+      "date": "2026-10-03",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 14025
+    },
+    {
+      "game_id": "20261003-삼성-두산-1",
+      "date": "2026-10-03",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20261003-한화-키움-1",
+      "date": "2026-10-03",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20261004-KT-롯데-1",
+      "date": "2026-10-04",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20261004-LG-KIA-1",
+      "date": "2026-10-04",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20261004-NC-SSG-1",
+      "date": "2026-10-04",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 15557
+    },
+    {
+      "game_id": "20261004-삼성-두산-1",
+      "date": "2026-10-04",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20261004-한화-키움-1",
+      "date": "2026-10-04",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20261005-KT-롯데-1",
+      "date": "2026-10-05",
+      "stage": "regular",
+      "home": "KT",
+      "away": "롯데",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20261005-LG-KIA-1",
+      "date": "2026-10-05",
+      "stage": "regular",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20261005-NC-SSG-1",
+      "date": "2026-10-05",
+      "stage": "regular",
+      "home": "NC",
+      "away": "SSG",
+      "venue": "창원",
+      "attendance": 14575
+    },
+    {
+      "game_id": "20261005-삼성-두산-1",
+      "date": "2026-10-05",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "두산",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20261005-한화-키움-1",
+      "date": "2026-10-05",
+      "stage": "regular",
+      "home": "한화",
+      "away": "키움",
+      "venue": "대전",
+      "attendance": 14897
+    },
+    {
+      "game_id": "20261006-KIA-삼성-1",
+      "date": "2026-10-06",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20261006-LG-NC-1",
+      "date": "2026-10-06",
+      "stage": "regular",
+      "home": "LG",
+      "away": "NC",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20261006-롯데-두산-1",
+      "date": "2026-10-06",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "두산",
+      "venue": "사직",
+      "attendance": 13292
+    },
+    {
+      "game_id": "20261006-키움-KT-1",
+      "date": "2026-10-06",
+      "stage": "regular",
+      "home": "키움",
+      "away": "KT",
+      "venue": "고척",
+      "attendance": 9625
+    },
+    {
+      "game_id": "20261006-한화-SSG-1",
+      "date": "2026-10-06",
+      "stage": "regular",
+      "home": "한화",
+      "away": "SSG",
+      "venue": "대전",
+      "attendance": 12744
+    },
+    {
+      "game_id": "20261007-KT-삼성-1",
+      "date": "2026-10-07",
+      "stage": "regular",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 18700
+    },
+    {
+      "game_id": "20261007-LG-두산-1",
+      "date": "2026-10-07",
+      "stage": "regular",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20261007-SSG-NC-1",
+      "date": "2026-10-07",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "NC",
+      "venue": "문학",
+      "attendance": 14632
+    },
+    {
+      "game_id": "20261007-롯데-KIA-1",
+      "date": "2026-10-07",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "KIA",
+      "venue": "사직",
+      "attendance": 19434
+    },
+    {
+      "game_id": "20261007-키움-한화-1",
+      "date": "2026-10-07",
+      "stage": "regular",
+      "home": "키움",
+      "away": "한화",
+      "venue": "고척",
+      "attendance": 16000
+    },
+    {
+      "game_id": "20261009-NC-KIA-1",
+      "date": "2026-10-09",
+      "stage": "regular",
+      "home": "NC",
+      "away": "KIA",
+      "venue": "창원",
+      "attendance": 18128
+    },
+    {
+      "game_id": "20261009-SSG-삼성-1",
+      "date": "2026-10-09",
+      "stage": "regular",
+      "home": "SSG",
+      "away": "삼성",
+      "venue": "문학",
+      "attendance": 23000
+    },
+    {
+      "game_id": "20261009-롯데-LG-1",
+      "date": "2026-10-09",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 21546
+    },
+    {
+      "game_id": "20261010-KIA-SSG-1",
+      "date": "2026-10-10",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "SSG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20261010-롯데-LG-1",
+      "date": "2026-10-10",
+      "stage": "regular",
+      "home": "롯데",
+      "away": "LG",
+      "venue": "사직",
+      "attendance": 23200
+    },
+    {
+      "game_id": "20261010-한화-NC-1",
+      "date": "2026-10-10",
+      "stage": "regular",
+      "home": "한화",
+      "away": "NC",
+      "venue": "대전",
+      "attendance": 17000
+    },
+    {
+      "game_id": "20261011-KIA-롯데-1",
+      "date": "2026-10-11",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "롯데",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20261011-삼성-KT-1",
+      "date": "2026-10-11",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20261012-KIA-LG-1",
+      "date": "2026-10-12",
+      "stage": "regular",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 20500
+    },
+    {
+      "game_id": "20261012-두산-롯데-1",
+      "date": "2026-10-12",
+      "stage": "regular",
+      "home": "두산",
+      "away": "롯데",
+      "venue": "잠실",
+      "attendance": 23750
+    },
+    {
+      "game_id": "20261012-삼성-KT-1",
+      "date": "2026-10-12",
+      "stage": "regular",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 24000
+    },
+    {
+      "game_id": "20261014OBLG0",
+      "date": "2026-10-14",
+      "stage": "postseason",
+      "series_id": "4",
+      "home": "LG",
+      "away": "두산",
+      "venue": "잠실",
+      "attendance": 23650
+    },
+    {
+      "game_id": "20261017LGHT0",
+      "date": "2026-10-17",
+      "stage": "postseason",
+      "series_id": "3",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 18900
+    },
+    {
+      "game_id": "20261018LGHT0",
+      "date": "2026-10-18",
+      "stage": "postseason",
+      "series_id": "3",
+      "home": "KIA",
+      "away": "LG",
+      "venue": "광주",
+      "attendance": 18900
+    },
+    {
+      "game_id": "20261020HTLG0",
+      "date": "2026-10-20",
+      "stage": "postseason",
+      "series_id": "3",
+      "home": "LG",
+      "away": "KIA",
+      "venue": "잠실",
+      "attendance": 23650
+    },
+    {
+      "game_id": "20261026HTSS0",
+      "date": "2026-10-26",
+      "stage": "postseason",
+      "series_id": "5",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 23550
+    },
+    {
+      "game_id": "20261027HTSS0",
+      "date": "2026-10-27",
+      "stage": "postseason",
+      "series_id": "5",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 23550
+    },
+    {
+      "game_id": "20261029SSHT0",
+      "date": "2026-10-29",
+      "stage": "postseason",
+      "series_id": "5",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 18900
+    },
+    {
+      "game_id": "20261030SSHT0",
+      "date": "2026-10-30",
+      "stage": "postseason",
+      "series_id": "5",
+      "home": "KIA",
+      "away": "삼성",
+      "venue": "광주",
+      "attendance": 18900
+    },
+    {
+      "game_id": "20261101HTSS0",
+      "date": "2026-11-01",
+      "stage": "postseason",
+      "series_id": "5",
+      "home": "삼성",
+      "away": "KIA",
+      "venue": "대구",
+      "attendance": 23550
+    },
+    {
+      "game_id": "20261103SSKT0",
+      "date": "2026-11-03",
+      "stage": "postseason",
+      "series_id": "7",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 17700
+    },
+    {
+      "game_id": "20261104SSKT0",
+      "date": "2026-11-04",
+      "stage": "postseason",
+      "series_id": "7",
+      "home": "KT",
+      "away": "삼성",
+      "venue": "수원",
+      "attendance": 17700
+    },
+    {
+      "game_id": "20261106KTSS0",
+      "date": "2026-11-06",
+      "stage": "postseason",
+      "series_id": "7",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 23550
+    },
+    {
+      "game_id": "20261107KTSS0",
+      "date": "2026-11-07",
+      "stage": "postseason",
+      "series_id": "7",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 23550
+    },
+    {
+      "game_id": "20261108KTSS0",
+      "date": "2026-11-08",
+      "stage": "postseason",
+      "series_id": "7",
+      "home": "삼성",
+      "away": "KT",
+      "venue": "대구",
+      "attendance": 23550
+    }
+  ]
+}

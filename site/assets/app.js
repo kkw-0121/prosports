@@ -283,6 +283,94 @@
     renderChips(); renderKpis(); renderSportCards(); renderTrend(); renderDetail(); renderSummary();
   }
 
+  // ---------------------------------------------------------------- 2차: 이번 시즌 진행 현황
+  let progLeague, recentLeague = "ALL";
+  const WEEK = ["일", "월", "화", "수", "목", "금", "토"];
+  const dateLabel = (d) => { const t = new Date(`${d}T00:00:00`); return `${d.slice(5).replace("-", ".")} (${WEEK[t.getDay()]})`; };
+
+  function renderProgress() {
+    const P = D.progress;
+    $("#progressTabs").innerHTML = codes.map((c) =>
+      `<button class="tab" role="tab" aria-selected="${c === progLeague}" data-code="${c}" style="--c:${color(c)}"><i></i>${esc(label(c))}</button>`).join("");
+    $("#progressTabs").querySelectorAll(".tab").forEach((b) =>
+      b.addEventListener("click", () => { progLeague = b.dataset.code; renderProgress(); }));
+
+    const p = P[progLeague], c = color(progLeague);
+    const opt = baseOptions();
+    opt.interaction = { mode: "nearest", intersect: false, axis: "x" };
+    opt.scales.x = { type: "linear", min: 1, grid: { display: false }, border: { display: false },
+                     title: { display: true, text: "개막 후 일수", color: css.getPropertyValue("--text-3").trim() },
+                     ticks: { callback: (v) => `${v}일` } };
+    opt.plugins.tooltip.callbacks = {
+      title: (items) => `개막 후 ${items[0].raw.x}일째`,
+      label: (ctx) => ` ${ctx.dataset.label}: ${num(ctx.raw.y)}명 (${ctx.raw.games}경기, ${ctx.raw.date})`,
+    };
+    opt.plugins.legend = { display: true, position: "top", align: "end", labels: { boxWidth: 12, boxHeight: 2 } };
+    const toXY = (pts) => pts.map((q) => ({ x: q.day, y: q.attendance, games: q.games, date: q.date }));
+    const datasets = [];
+    if (p.prev.length) {
+      datasets.push({ label: `지난 시즌 ${shortSeason(p.prev_season)}`, data: toXY(p.prev), borderColor: "#b9bec7",
+                      borderDash: [5, 4], borderWidth: 2, pointRadius: 0, tension: 0.15 });
+    }
+    if (p.cur.length) {
+      datasets.push({ label: `이번 시즌 ${shortSeason(p.season)}`, data: toXY(p.cur), borderColor: c, backgroundColor: c,
+                      borderWidth: 2.5, pointRadius: p.cur.length < 3 ? 4 : 0, tension: 0.15 });
+    }
+    if (p.compare) opt.scales.x.max = Math.max(p.compare.day + 7, 14);   // 이번 시즌 진행 구간 위주로 보기
+    draw("progress", "#progressChart", { type: "line", data: { datasets }, options: opt });
+
+    // 오른쪽 숫자
+    let html;
+    if (p.state === "pre") {
+      html = `<div class="ps-head">${esc(label(progLeague))} ${p.season ? shortSeason(p.season) + " 시즌" : ""} ${BADGE.pre}</div>`;
+    } else {
+      const k = p.compare, last = p.cur[p.cur.length - 1];
+      html = `<div class="ps-head">${esc(label(progLeague))} ${shortSeason(p.season)} 시즌 ${BADGE.live}</div>`;
+      if (k) {
+        html += `<div class="ps-when">개막 후 <b>${k.day}일째</b> · ${k.date.replaceAll("-", ".")} 경기까지
+                 <span>지난 시즌 같은 시점: ${k.prev_date.replaceAll("-", ".")}</span></div>
+          <div class="ps-row"><span class="ps-k">누적 관중</span><span class="ps-v">${num(k.cur.attendance)}명</span>
+            <span class="ps-p">지난 시즌 ${num(k.prev.attendance)}명</span>${deltaTag(k.rate_attendance, "누적 관중 지난 시즌 같은 시점 대비")}</div>
+          <div class="ps-row"><span class="ps-k">경기 수</span><span class="ps-v">${num(k.cur.games)}경기</span>
+            <span class="ps-p">지난 시즌 ${num(k.prev.games)}경기</span><span></span></div>
+          <div class="ps-row"><span class="ps-k">평균 관중</span><span class="ps-v">${num(k.cur.average)}명</span>
+            <span class="ps-p">지난 시즌 ${num(k.prev.average)}명</span>${deltaTag(k.rate_average, "평균 관중 지난 시즌 같은 시점 대비")}</div>`;
+      } else if (last) {
+        html += `<div class="ps-when">${last.date.replaceAll("-", ".")} 경기까지</div>
+          <div class="ps-row"><span class="ps-k">누적 관중</span><span class="ps-v">${num(last.attendance)}명</span><span class="ps-p"></span><span></span></div>
+          <div class="ps-row"><span class="ps-k">경기 수</span><span class="ps-v">${num(last.games)}경기</span><span class="ps-p"></span><span></span></div>`;
+      }
+    }
+    html += p.notes.map((n) => `<div class="note">${esc(n)}</div>`).join("");
+    $("#progressStats").innerHTML = html;
+  }
+
+  // ---------------------------------------------------------------- 2차: 최근 경기
+  function renderRecent() {
+    const rows = D.recent;
+    const count = (c) => rows.filter((r) => c === "ALL" || r.league === c).length;
+    $("#recentSub").textContent = `최근 ${D.recent_days}일 경기별 관중 수 (${D.as_of.replaceAll("-", ".")} 기준, 최신 순)`;
+    $("#recentTabs").innerHTML = [["ALL", "전체", ""], ...codes.map((c) => [c, leagues[c].name, color(c)])].map(([c, n, col]) =>
+      `<button class="tab" role="tab" aria-selected="${c === recentLeague}" data-code="${c}" style="--c:${col || "transparent"}">${col ? "<i></i>" : ""}${esc(n)} <small>${count(c)}</small></button>`).join("");
+    $("#recentTabs").querySelectorAll(".tab").forEach((b) =>
+      b.addEventListener("click", () => { recentLeague = b.dataset.code; renderRecent(); }));
+    const list = rows.filter((r) => recentLeague === "ALL" || r.league === recentLeague);
+    if (!list.length) {
+      $("#recentTable").innerHTML = `<div class="note">최근 ${D.recent_days}일 동안 열린 경기가 없습니다.</div>`;
+      return;
+    }
+    const body = list.map((r) => {
+      const att = r.pending ? '<span class="muted-txt">반영 대기</span>'
+        : r.attendance == null ? '<span class="muted-txt">미공개</span>' : `<b>${num(r.attendance)}</b>명`;
+      const match = r.away ? `${esc(r.home)} <span class="vs">vs</span> ${esc(r.away)}` : `${esc(r.home)} <span class="muted-txt">홈 경기</span>`;
+      return `<tr><td data-label="날짜">${dateLabel(r.date)}</td>
+        <td data-label="리그"><span class="lg" style="--c:${color(r.league)}"><i></i>${esc(leagues[r.league].name)}</span></td>
+        <td data-label="구분">${esc(r.label)}</td><td data-label="경기">${match}</td>
+        <td data-label="경기장">${esc(r.venue || "-")}</td><td data-label="관중" class="num">${att}</td></tr>`;
+    }).join("");
+    $("#recentTable").innerHTML = `<table class="recent stack"><thead><tr><th>날짜</th><th>리그</th><th>구분</th><th>경기</th><th>경기장</th><th class="num">관중</th></tr></thead><tbody>${body}</tbody></table>`;
+  }
+
   // ---------------------------------------------------------------- 엑셀 다운로드 (assets/excel.js)
   $("#btnExcel").addEventListener("click", async () => {
     const btn = $("#btnExcel");
@@ -309,7 +397,12 @@
       D = data; leagues = D.leagues; codes = Object.keys(leagues);
       rowIdx = D.rows.reduce((last, r, i) => (r.games > 0 ? i : last), 0);
       sport = codes.find((c) => seasonOf(c, rowIdx).has_data) || codes[0];
+      // 진행 현황 기본 선택: 가장 최근에 경기가 있었던 종목
+      const lastDate = (c) => { const cur = D.progress?.[c]?.cur || []; return cur.length ? cur[cur.length - 1].date : ""; };
+      progLeague = [...codes].sort((a, b) => lastDate(b).localeCompare(lastDate(a)))[0];
       renderHeader(); renderFoot(); renderAll();
+      if (D.progress) renderProgress();
+      if (D.recent) renderRecent();
     })
     .catch((e) => {
       document.querySelector(".page").insertAdjacentHTML("afterbegin",

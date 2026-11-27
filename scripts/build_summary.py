@@ -83,6 +83,118 @@ def league_status(s: dict | None, now: datetime) -> dict:
             "last_success": ok}
 
 
+# ---------------------------------------------------------------- 2차 화면: 시즌 진행 현황 · 최근 경기
+RECENT_DAYS = 7
+
+
+def _day(d: str, first: str) -> int:
+    return (datetime.fromisoformat(d) - datetime.fromisoformat(first)).days + 1
+
+
+def cumulative(games: list[dict]) -> list[dict]:
+    """경기별 관중 → 날짜별 누적 [{date, day(개막 후 N일째), attendance, games}]. 관중 모르는 경기는 제외."""
+    known = sorted((g for g in games if g.get("attendance") is not None and not g.get("pending")),
+                   key=lambda g: g["date"])
+    if not known:
+        return []
+    first, out, a, n = known[0]["date"], [], 0, 0
+    for g in known:
+        a += g["attendance"]
+        n += 1
+        if out and out[-1]["date"] == g["date"]:
+            out[-1].update(attendance=a, games=n)
+        else:
+            out.append({"date": g["date"], "day": _day(g["date"], first), "attendance": a, "games": n})
+    return out
+
+
+def wkbl_cumulative(data: dict) -> list[dict]:
+    """WKBL: 경기별 관중이 없어 매 수집 때 저장한 시즌 합계 기록으로 누적 곡선을 만든다."""
+    dates = sorted(g["date"] for g in data["games"])
+    if not dates:
+        return []
+    return [{"date": h["last_game"], "day": _day(h["last_game"], dates[0]), "attendance": h["total"], "games": h["games"]}
+            for h in data.get("total_history", []) if h.get("last_game")]
+
+
+def at_day(points: list[dict], day: int) -> dict | None:
+    """그 날짜(개막 후 N일)까지의 누적값 (그날 경기가 없으면 직전 값)."""
+    best = None
+    for p in points:
+        if p["day"] <= day:
+            best = p
+    return best
+
+
+def rate(cur, prev):
+    return None if cur is None or not prev else (cur - prev) / prev * 100
+
+
+def build_progress(cfg: dict, leagues_out: dict) -> dict:
+    out = {}
+    for code, lg in cfg["leagues"].items():
+        ids = [season_id(s, lg) for s in cfg["seasons"]]
+        live = [sid for sid in lg["collect"] if leagues_out[code]["seasons"][sid]["has_data"]]
+        entry = {"season": None, "state": "pre", "cur": [], "prev": [], "compare": None, "notes": []}
+        if not live:
+            upcoming = lg["collect"][-1] if lg["collect"] else None
+            entry.update(season=upcoming, notes=["시즌 시작 전 (개막 후 자동으로 표시)"])
+            out[code] = entry
+            continue
+        sid = live[-1]
+        prev_sid = ids[ids.index(sid) - 1] if ids.index(sid) > 0 else None
+        data = load_json(DATA_DIR / "games" / f"{code}_{sid}.json")
+        cur = wkbl_cumulative(data) if data.get("attendance_method") == "season_total_snapshot" else cumulative(data["games"])
+        prev = []
+        for folder in ("games", "reference"):
+            p = DATA_DIR / folder / f"{code}_{prev_sid}.json"
+            if prev_sid and p.exists():
+                prev = cumulative(load_json(p)["games"])
+                break
+        entry.update(season=sid, prev_season=prev_sid, state="live", cur=cur, prev=prev)
+        if data.get("attendance_method") == "season_total_snapshot":
+            started = (data.get("total_history") or [{}])[0].get("recorded_at", "")[:10]
+            entry["notes"].append("WKBL은 경기별 관중을 공개하지 않아, 매일 수집한 시즌 합계로 그린 곡선입니다"
+                                  + (f" (기록 시작 {started})." if started else "."))
+        if not prev:
+            entry["notes"].append(f"지난 시즌({prev_sid}) 경기별 관중 자료가 없어 같은 시점 비교 불가")
+        if cur and prev:
+            last = cur[-1]
+            p = at_day(prev, last["day"])
+            if p:
+                ca, pa = last["attendance"] / last["games"], p["attendance"] / p["games"]
+                entry["compare"] = {
+                    "day": last["day"], "date": last["date"], "prev_date": p["date"],
+                    "cur": {"attendance": last["attendance"], "games": last["games"], "average": ca},
+                    "prev": {"attendance": p["attendance"], "games": p["games"], "average": pa},
+                    "rate_attendance": rate(last["attendance"], p["attendance"]),
+                    "rate_average": rate(ca, pa),
+                }
+        out[code] = entry
+    return out
+
+
+def build_recent(cfg: dict, as_of: str) -> list[dict]:
+    """최근 7일 경기 목록 (자동 수집 시즌 기준)."""
+    start = (datetime.fromisoformat(as_of) - timedelta(days=RECENT_DAYS - 1)).strftime("%Y-%m-%d")
+    rows = []
+    for code, lg in cfg["leagues"].items():
+        for sid in lg["collect"]:
+            p = DATA_DIR / "games" / f"{code}_{sid}.json"
+            if not p.exists():
+                continue
+            for g in load_json(p)["games"]:
+                if not (start <= g["date"] <= as_of):
+                    continue
+                item = next((it for it in lg["items"] if g["stage"] in it["stages"]
+                             and ("division" not in it or it["division"] == g.get("division"))), None)
+                rows.append({"league": code, "date": g["date"], "label": item["label"] if item else g["stage"],
+                             "home": g.get("home"), "away": g.get("away"), "venue": g.get("venue"),
+                             "attendance": g.get("attendance"), "pending": bool(g.get("pending"))})
+    rows.sort(key=lambda r: (r["date"], r["league"]), reverse=True)
+    return rows
+
+
 def main() -> None:
     cfg = load_config()
     base = load_json(BASELINE_PATH)
@@ -156,6 +268,9 @@ def main() -> None:
         "excel_as_of": base["excel_as_of"],
         "rows": rows,
         "leagues": leagues_out,
+        "progress": build_progress(cfg, leagues_out),
+        "recent": build_recent(cfg, as_of.strftime("%Y-%m-%d")),
+        "recent_days": RECENT_DAYS,
         "excel": {   # 엑셀 다운로드 시 채울 칸 (config 그대로 전달)
             "template": "template/양식.xlsx",
             "summary_sheet": cfg["workbook"]["summary_sheet"],

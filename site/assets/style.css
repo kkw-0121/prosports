@@ -147,6 +147,37 @@ td.muted { color: var(--text-3); }
 td.strong { font-weight: 650; }
 .col-sep { border-left: 1px solid var(--line-soft); }
 
+/* 2차: 이번 시즌 진행 현황 */
+.progress-grid { display: grid; grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); gap: 24px; align-items: start; }
+.progress-grid > * { min-width: 0; }
+.progress-stats { display: grid; gap: 10px; }
+.ps-head { font-weight: 700; font-size: 15px; display: flex; align-items: center; gap: 6px; }
+.ps-when { color: var(--text-2); font-size: 13px; }
+.ps-when span { display: block; color: var(--text-3); font-size: 12px; }
+.ps-row { display: grid; grid-template-columns: 64px auto 1fr auto; align-items: baseline; gap: 10px; padding: 12px 0; border-top: 1px solid var(--line-soft); }
+.ps-k { color: var(--text-2); font-size: 13px; }
+.ps-v { font-size: 20px; font-weight: 750; letter-spacing: -0.01em; }
+.ps-p { color: var(--text-3); font-size: 12.5px; }
+.tab small { color: var(--text-3); margin-left: 2px; }
+
+/* 2차: 최근 경기 */
+table.recent td, table.recent th { text-align: left; }
+table.recent .num { text-align: right; }
+table.recent td b { font-weight: 650; }
+table.recent .vs { color: var(--text-3); font-size: 12px; margin: 0 2px; }
+.muted-txt { color: var(--text-3); font-size: 12.5px; }
+.lg { display: inline-flex; align-items: center; gap: 6px; }
+.lg i { width: 8px; height: 8px; border-radius: 2px; background: var(--c); }
+.ps-v, .ps-p { white-space: nowrap; }
+@media (max-width: 1080px) { .progress-grid { grid-template-columns: 1fr; } }
+@media (max-width: 720px) {
+  /* 휴대폰: [항목 값 증감] 한 줄 + 아래 줄에 지난 시즌 값 */
+  .ps-row { grid-template-columns: 64px 1fr auto; row-gap: 2px; }
+  .ps-row > :nth-child(3) { grid-column: 2; grid-row: 2; }
+  .ps-row > :nth-child(4) { grid-column: 3; grid-row: 1; }
+  .ps-v { font-size: 18px; }
+}
+
 /* 통계 표: 칸 안에 관중(굵게) + 경기·평균(작게) */
 table.stat { table-layout: auto; }
 table.stat th { text-align: right; }
