@@ -127,7 +127,7 @@
     rows.push(`<row r="${r}">${cols.map((h, i) => cell("ABCDEFG"[i], r, h, st.head)).join("")}</row>`); r += 1;
     for (const [code, lg] of Object.entries(D.leagues)) {
       for (const [sid, s] of Object.entries(lg.seasons)) {
-        if (s.source !== "collected") continue;
+        if (s.source === "baseline") continue;          // 수집 시즌(진행 중·확정)만
         const name = `${lg.name} (${lg.abbr})`;
         if (s.official.length) {
           for (const o of s.official) {
@@ -186,7 +186,7 @@
       const sh = await sheet(xl.sheet), lg = D.leagues[code], keys = Object.keys(lg.seasons);
       keys.forEach((sid, i) => {
         const s = lg.seasons[sid];
-        if (s.source !== "collected") return;
+        if (s.source === "baseline") return;            // 엑셀 확정값 시즌은 양식 그대로
         for (const it of xl.items) {
           const v = s.items[it.key], row = it.first_row + i;
           if (!v || (!v.games && !v.attendance)) continue;           // 경기 없음 → 양식 그대로(빈칸)

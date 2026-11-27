@@ -17,7 +17,7 @@ from pathlib import Path
 import openpyxl
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import load_config, season_id  # noqa: E402
+from common import ROOT, load_config, season_id  # noqa: E402
 
 EXPECTED_CHANGED_PARTS = {"xl/workbook.xml", "xl/_rels/workbook.xml.rels", "[Content_Types].xml",
                           "docProps/app.xml", "xl/styles.xml"}
@@ -41,7 +41,9 @@ def allowed_cells(cfg) -> set[tuple[str, str]]:
         for lg in cfg["leagues"].values():
             for col in lg["summary_cols"].values():
                 ok.add((wb["summary_sheet"], f"{col}{r}"))
-            if season_id(srow, lg) in lg["collect"]:
+            code = next(k for k, v in cfg["leagues"].items() if v is lg)
+            sid = season_id(srow, lg)
+            if sid in lg["collect"] or (ROOT / "data" / "games" / f"{code}_{sid}.json").exists():
                 for it in lg["items"]:
                     ok.add((lg["sheet"], f"{it['attendance_col']}{it['first_row'] + i}"))
                     ok.add((lg["sheet"], f"{it['games_col']}{it['first_row'] + i}"))

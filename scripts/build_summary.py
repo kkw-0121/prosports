@@ -98,11 +98,14 @@ def main() -> None:
             src = "baseline"
             notes, official, collected_at = [], None, None
             gpath = DATA_DIR / "games" / f"{code}_{sid}.json"
-            if sid in lg["collect"] and gpath.exists():
+            if gpath.exists():
+                # 수집 파일이 있으면 그 값을 씀. collect 목록에 있으면 '진행 중'(collected),
+                # 시즌이 끝나 목록에서 뺐으면 마지막 수집값으로 고정된 확정값(final)
                 data = load_json(gpath)
                 items, notes = collected_items(lg, data)
-                src, collected_at = "collected", data["collected_at"]
-                latest_collect = max(latest_collect or collected_at, collected_at)
+                src, collected_at = ("collected" if sid in lg["collect"] else "final"), data["collected_at"]
+                if src == "collected":
+                    latest_collect = max(latest_collect or collected_at, collected_at)
                 opath = DATA_DIR / "official" / f"{code}_{sid}.json"
                 official = load_json(opath) if opath.exists() else None
                 last_game = max((g["date"] for g in data["games"]), default=None)
@@ -125,7 +128,7 @@ def main() -> None:
                 "has_data": games > 0, "collected_at": collected_at, "last_game": last_game,
                 "official": official_compare(lg, items, total, official) if official else [],
                 "official_status": ("provided" if official else
-                                    ("not_provided" if src == "collected" else "baseline")),
+                                    ("not_provided" if src in ("collected", "final") else "baseline")),
                 "notes": notes,
             }
         leagues_out[code] = {

@@ -231,7 +231,7 @@
       box = `<div class="off-row none"><div class="t">확정값</div><div class="d">지난 시즌은 엑셀에 입력된 확정값(엑셀 기준일 ${esc(D.excel_as_of)})을 사용</div></div>`;
     }
     box += s.notes.map((n) => `<div class="note">${esc(n)}</div>`).join("");
-    if (s.source === "collected" && s.last_game) box += `<div class="note">마지막 반영 경기 ${s.last_game.replaceAll("-", ".")} · 수집 ${s.collected_at.slice(0, 16).replace("T", " ")}</div>`;
+    if (s.source !== "baseline" && s.last_game) box += `<div class="note">마지막 반영 경기 ${s.last_game.replaceAll("-", ".")} · 수집 ${s.collected_at.slice(0, 16).replace("T", " ")}</div>`;
     $("#officialBox").innerHTML = `<h3 class="card-sub" style="margin:0">${shortSeason(sid)} 시즌 · 연맹 공식 집계 대조</h3>` + box;
 
     // 표: 칸마다 관중(크게) + 경기·평균(작게) → 열 수를 줄여 가로 스크롤 없이
