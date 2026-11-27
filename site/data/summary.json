@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:17:50+09:00",
+  "generated_at": "2026-11-27T14:32:31+09:00",
   "as_of": "2026-11-27",
   "excel_as_of": "2026.11.24",
   "rows": [
@@ -352,7 +352,7 @@
             "average": null
           },
           "has_data": false,
-          "collected_at": "2026-11-27T13:21:30+09:00",
+          "collected_at": "2026-11-27T14:30:09+09:00",
           "last_game": null,
           "official": [],
           "official_status": "not_provided",
@@ -362,8 +362,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 13:21",
-        "last_success": "2026-11-27T13:21:30+09:00"
+        "message": "마지막 성공 2026-11-27 14:30",
+        "last_success": "2026-11-27T14:30:09+09:00"
       }
     },
     "KLEAGUE": {
@@ -609,7 +609,7 @@
             "average": 6287.204166666666
           },
           "has_data": true,
-          "collected_at": "2026-11-27T13:21:51+09:00",
+          "collected_at": "2026-11-27T14:31:09+09:00",
           "last_game": "2026-11-22",
           "official": [
             {
@@ -650,7 +650,7 @@
             "average": null
           },
           "has_data": false,
-          "collected_at": "2026-11-27T13:21:57+09:00",
+          "collected_at": "2026-11-27T14:31:24+09:00",
           "last_game": null,
           "official": [],
           "official_status": "not_provided",
@@ -660,8 +660,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 13:21",
-        "last_success": "2026-11-27T13:21:57+09:00"
+        "message": "마지막 성공 2026-11-27 14:31",
+        "last_success": "2026-11-27T14:31:24+09:00"
       }
     },
     "KBL": {
@@ -894,7 +894,7 @@
             "average": 3217.194805194805
           },
           "has_data": true,
-          "collected_at": "2026-11-27T13:24:03+09:00",
+          "collected_at": "2026-11-27T14:31:54+09:00",
           "last_game": "2026-11-19",
           "official": [
             {
@@ -913,8 +913,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 13:24",
-        "last_success": "2026-11-27T13:24:03+09:00"
+        "message": "마지막 성공 2026-11-27 14:31",
+        "last_success": "2026-11-27T14:31:54+09:00"
       }
     },
     "WKBL": {
@@ -1147,7 +1147,7 @@
             "average": 1399.25
           },
           "has_data": true,
-          "collected_at": "2026-11-27T13:23:42+09:00",
+          "collected_at": "2026-11-27T14:32:04+09:00",
           "last_game": "2026-11-25",
           "official": [
             {
@@ -1168,8 +1168,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 13:23",
-        "last_success": "2026-11-27T13:23:42+09:00"
+        "message": "마지막 성공 2026-11-27 14:32",
+        "last_success": "2026-11-27T14:32:04+09:00"
       }
     },
     "KOVO": {
@@ -1537,7 +1537,7 @@
             "average": 2148.1739130434785
           },
           "has_data": true,
-          "collected_at": "2026-11-27T13:22:48+09:00",
+          "collected_at": "2026-11-27T14:32:31+09:00",
           "last_game": "2026-11-26",
           "official": [],
           "official_status": "not_provided",
@@ -1547,8 +1547,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 13:22",
-        "last_success": "2026-11-27T13:22:48+09:00"
+        "message": "마지막 성공 2026-11-27 14:32",
+        "last_success": "2026-11-27T14:32:31+09:00"
       }
     }
   },
