@@ -37,11 +37,11 @@
 
   // ---------------------------------------------------------------- 공통 계산
   const label = (code) => `${leagues[code].name} (${leagues[code].abbr})`;
-  /** 시즌 상태 배지: 진행 중(주황) · 확정(파랑) · 시즌 전(회색 글자) */
+  /** 종목 카드의 시즌 상태 배지: 진행 중(주황) · 확정(파랑) · 시즌 전(회색 글자) */
   const BADGE = {
     live: '<span class="badge live">진행 중</span>',
     final: '<span class="badge final">확정</span>',
-    pre: '<span class="badge pre">시즌 전</span>',
+    pre: '<span class="badge pre">· 시즌 전</span>',
   };
   const seasonKey = (code, i) => Object.keys(leagues[code].seasons)[i];
   const seasonOf = (code, i) => leagues[code].seasons[seasonKey(code, i)];
@@ -59,7 +59,7 @@
 
   function renderChips() {
     $("#seasonChips").innerHTML = D.rows.map((r, i) =>
-      `<button class="chip" role="tab" aria-selected="${i === rowIdx}" data-i="${i}">${r.year}${rowLive(i) ? ' <span class="badge live sm">진행 중</span>' : ""}</button>`
+      `<button class="chip" role="tab" aria-selected="${i === rowIdx}" data-i="${i}">${r.year}<small>${rowLive(i) ? " · 진행 중" : ""}</small></button>`
     ).join("");
     $("#seasonChips").querySelectorAll(".chip").forEach((b) =>
       b.addEventListener("click", () => { rowIdx = +b.dataset.i; renderAll(); }));
@@ -82,7 +82,7 @@
     const basis = p?.partial ? `전 시즌 같은 종목(${p.names.join("·")})` : "전 시즌";
     $("#kpis").innerHTML = `
       <div class="card kpi">
-        <div class="label">전체 총 관중 ${live ? BADGE.live : ""}</div>
+        <div class="label">전체 총 관중 ${live ? '<span class="tag live">진행 중</span>' : ""}</div>
         <div class="value">${num(r.attendance)}<span class="unit">명</span></div>
         <div class="meta"><span>약 ${koUnit(r.attendance)}</span><span>${esc(r.row)}</span></div>
       </div>
@@ -245,7 +245,7 @@
     const head = `<tr><th>시즌</th>${items.map((it) => `<th>${esc(it.label)}</th>`).join("")}<th>합계</th></tr>`;
     const body = newestFirst(keys).map(([k, i]) => {
       const se = lg.seasons[k];
-      const live = se.source === "collected" && se.has_data ? BADGE.live : "";
+      const live = se.source === "collected" && se.has_data ? '<span class="tag live">진행 중</span>' : "";
       return `<tr class="${i === rowIdx ? "sel" : ""}"><td class="row-head">${shortSeason(k)}${live}</td>
         ${items.map((it) => statCell(se.items[it.key], it.label)).join("")}${statCell(se.total, "합계", "total")}</tr>`;
     }).join("");

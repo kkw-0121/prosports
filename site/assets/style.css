@@ -82,15 +82,12 @@ h2 { font-size: 17px; font-weight: 700; letter-spacing: -0.01em; }
 .tag.down { background: #fdeeee; color: var(--fail); }
 .tag.live { background: var(--accent-soft); color: var(--accent); }
 
-/* 시즌 상태 배지 */
-.badge { display: inline-flex; align-items: center; gap: 4px; padding: 2px 8px; border-radius: 6px; font-size: 11.5px; font-weight: 700; letter-spacing: -0.01em; line-height: 1.5; white-space: nowrap; vertical-align: 1px; }
+/* 종목 카드의 시즌 상태 배지 (옆 글자 크기에 맞춤) */
+.sport .season { display: flex; align-items: center; gap: 5px; }
+.badge { display: inline-block; padding: 0 5px; border-radius: 4px; font-size: 11px; font-weight: 600; line-height: 16px; white-space: nowrap; }
 .badge.live { background: var(--accent); color: #fff; }
-.badge.live::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: #fff; }
 .badge.final { background: #3451b2; color: #fff; }
-.badge.pre { padding: 0; color: var(--text-3); font-weight: 500; font-size: 12px; }
-.badge.sm { font-size: 10.5px; padding: 1px 6px; margin-left: 4px; }
-.sport .season { display: flex; align-items: center; gap: 6px; margin-top: 4px; }
-table.stat td.row-head .badge { margin-left: 6px; }
+.badge.pre { padding: 0; color: var(--text-3); font-weight: 400; font-size: 12px; line-height: inherit; }
 
 /* 종목 카드 */
 .sport-cards { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
