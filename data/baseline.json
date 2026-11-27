@@ -1,0 +1,616 @@
+{
+  "description": "엑셀에서 가져온 시즌별·항목별 합계 (확정값). 빈칸은 null.",
+  "source_file": "프로스포츠 관중 수 양식.xlsx",
+  "excel_as_of": "2026.11.24",
+  "generated_at": "2026-11-27T13:58:54+09:00",
+  "leagues": {
+    "KBO": {
+      "2020": {
+        "regular": {
+          "attendance": 328317,
+          "games": 720
+        },
+        "postseason": {
+          "attendance": 96082,
+          "games": 13
+        },
+        "allstar": {
+          "attendance": 0,
+          "games": 0
+        }
+      },
+      "2021": {
+        "regular": {
+          "attendance": 1240733,
+          "games": 720
+        },
+        "postseason": {
+          "attendance": 187572,
+          "games": 11
+        },
+        "allstar": {
+          "attendance": 0,
+          "games": 0
+        }
+      },
+      "2022": {
+        "regular": {
+          "attendance": 6076074,
+          "games": 720
+        },
+        "postseason": {
+          "attendance": 275883,
+          "games": 16
+        },
+        "allstar": {
+          "attendance": 23750,
+          "games": 1
+        }
+      },
+      "2023": {
+        "regular": {
+          "attendance": 8100326,
+          "games": 720
+        },
+        "postseason": {
+          "attendance": 261498,
+          "games": 14
+        },
+        "allstar": {
+          "attendance": 22990,
+          "games": 1
+        }
+      },
+      "2024": {
+        "regular": {
+          "attendance": 10887705,
+          "games": 720
+        },
+        "postseason": {
+          "attendance": 353550,
+          "games": 16
+        },
+        "allstar": {
+          "attendance": 22500,
+          "games": 1
+        }
+      },
+      "2025": {
+        "regular": {
+          "attendance": 12312519,
+          "games": 720
+        },
+        "postseason": {
+          "attendance": 335080,
+          "games": 16
+        },
+        "allstar": {
+          "attendance": 16850,
+          "games": 1
+        }
+      },
+      "2026": {
+        "regular": {
+          "attendance": 12770551,
+          "games": 720
+        },
+        "postseason": {
+          "attendance": 299600,
+          "games": 14
+        },
+        "allstar": {
+          "attendance": 23750,
+          "games": 1
+        }
+      },
+      "2027": {
+        "regular": {
+          "attendance": null,
+          "games": null
+        },
+        "postseason": {
+          "attendance": null,
+          "games": null
+        },
+        "allstar": {
+          "attendance": null,
+          "games": null
+        }
+      }
+    },
+    "KLEAGUE": {
+      "2020": {
+        "k1": {
+          "attendance": 86640,
+          "games": 162
+        },
+        "k2": {
+          "attendance": 26732,
+          "games": 135
+        },
+        "k_po": {
+          "attendance": 985,
+          "games": 2
+        }
+      },
+      "2021": {
+        "k1": {
+          "attendance": 444473,
+          "games": 228
+        },
+        "k2": {
+          "attendance": 114204,
+          "games": 180
+        },
+        "k_po": {
+          "attendance": 15096,
+          "games": 4
+        }
+      },
+      "2022": {
+        "k1": {
+          "attendance": 1099061,
+          "games": 228
+        },
+        "k2": {
+          "attendance": 295387,
+          "games": 220
+        },
+        "k_po": {
+          "attendance": 34928,
+          "games": 6
+        }
+      },
+      "2023": {
+        "k1": {
+          "attendance": 2447147,
+          "games": 228
+        },
+        "k2": {
+          "attendance": 553891,
+          "games": 234
+        },
+        "k_po": {
+          "attendance": 29441,
+          "games": 6
+        }
+      },
+      "2024": {
+        "k1": {
+          "attendance": 2508585,
+          "games": 228
+        },
+        "k2": {
+          "attendance": 889125,
+          "games": 234
+        },
+        "k_po": {
+          "attendance": 65674,
+          "games": 6
+        }
+      },
+      "2025": {
+        "k1": {
+          "attendance": 2298557,
+          "games": 228
+        },
+        "k2": {
+          "attendance": 1177470,
+          "games": 273
+        },
+        "k_po": {
+          "attendance": 56478,
+          "games": 6
+        }
+      },
+      "2026": {
+        "k1": {
+          "attendance": 1837245,
+          "games": 216
+        },
+        "k2": {
+          "attendance": 1180613,
+          "games": 264
+        },
+        "k_po": {
+          "attendance": null,
+          "games": null
+        }
+      },
+      "2027": {
+        "k1": {
+          "attendance": null,
+          "games": null
+        },
+        "k2": {
+          "attendance": null,
+          "games": null
+        },
+        "k_po": {
+          "attendance": null,
+          "games": null
+        }
+      }
+    },
+    "KBL": {
+      "2019-2020": {
+        "regular": {
+          "attendance": 643651,
+          "games": 213
+        },
+        "postseason": {
+          "attendance": 0,
+          "games": 0
+        }
+      },
+      "2020-2021": {
+        "regular": {
+          "attendance": 97595,
+          "games": 270
+        },
+        "postseason": {
+          "attendance": 12585,
+          "games": 19
+        }
+      },
+      "2021-2022": {
+        "regular": {
+          "attendance": 280609,
+          "games": 270
+        },
+        "postseason": {
+          "attendance": 56615,
+          "games": 18
+        }
+      },
+      "2022-2023": {
+        "regular": {
+          "attendance": 599572,
+          "games": 270
+        },
+        "postseason": {
+          "attendance": 87731,
+          "games": 22
+        }
+      },
+      "2023-2024": {
+        "regular": {
+          "attendance": 738420,
+          "games": 270
+        },
+        "postseason": {
+          "attendance": 98497,
+          "games": 21
+        }
+      },
+      "2024-2025": {
+        "regular": {
+          "attendance": 761971,
+          "games": 270
+        },
+        "postseason": {
+          "attendance": 86583,
+          "games": 22
+        }
+      },
+      "2025-2026": {
+        "regular": {
+          "attendance": 811185,
+          "games": 270
+        },
+        "postseason": {
+          "attendance": 102798,
+          "games": 18
+        }
+      },
+      "2026-2027": {
+        "regular": {
+          "attendance": 247724,
+          "games": 77
+        },
+        "postseason": {
+          "attendance": null,
+          "games": null
+        }
+      }
+    },
+    "WKBL": {
+      "2019-2020": {
+        "regular": {
+          "attendance": 88632,
+          "games": 82
+        },
+        "postseason": {
+          "attendance": 0,
+          "games": 0
+        }
+      },
+      "2020-2021": {
+        "regular": {
+          "attendance": 1757,
+          "games": 90
+        },
+        "postseason": {
+          "attendance": 2280,
+          "games": 5
+        }
+      },
+      "2021-2022": {
+        "regular": {
+          "attendance": 34218,
+          "games": 90
+        },
+        "postseason": {
+          "attendance": 9414,
+          "games": 7
+        }
+      },
+      "2022-2023": {
+        "regular": {
+          "attendance": 85198,
+          "games": 90
+        },
+        "postseason": {
+          "attendance": 10117,
+          "games": 7
+        }
+      },
+      "2023-2024": {
+        "regular": {
+          "attendance": 91363,
+          "games": 90
+        },
+        "postseason": {
+          "attendance": 19199,
+          "games": 11
+        }
+      },
+      "2024-2025": {
+        "regular": {
+          "attendance": 99402,
+          "games": 90
+        },
+        "postseason": {
+          "attendance": 21333,
+          "games": 13
+        }
+      },
+      "2025-2026": {
+        "regular": {
+          "attendance": 112521,
+          "games": 90
+        },
+        "postseason": {
+          "attendance": 15379,
+          "games": 10
+        }
+      },
+      "2026-2027": {
+        "regular": {
+          "attendance": 27985,
+          "games": 20
+        },
+        "postseason": {
+          "attendance": null,
+          "games": null
+        }
+      }
+    },
+    "KOVO": {
+      "2019-2020": {
+        "men_regular": {
+          "attendance": 219460,
+          "games": 112
+        },
+        "men_postseason": {
+          "attendance": 0,
+          "games": 0
+        },
+        "women_regular": {
+          "attendance": 173599,
+          "games": 80
+        },
+        "women_postseason": {
+          "attendance": 0,
+          "games": 0
+        },
+        "allstar": {
+          "attendance": 0,
+          "games": 0
+        }
+      },
+      "2020-2021": {
+        "men_regular": {
+          "attendance": 10032,
+          "games": 126
+        },
+        "men_postseason": {
+          "attendance": 2277,
+          "games": 8
+        },
+        "women_regular": {
+          "attendance": 14197,
+          "games": 90
+        },
+        "women_postseason": {
+          "attendance": 1636,
+          "games": 6
+        },
+        "allstar": {
+          "attendance": 0,
+          "games": 0
+        }
+      },
+      "2021-2022": {
+        "men_regular": {
+          "attendance": 83545,
+          "games": 126
+        },
+        "men_postseason": {
+          "attendance": 7906,
+          "games": 5
+        },
+        "women_regular": {
+          "attendance": 148524,
+          "games": 111
+        },
+        "women_postseason": {
+          "attendance": 0,
+          "games": 0
+        },
+        "allstar": {
+          "attendance": 2850,
+          "games": 1
+        }
+      },
+      "2022-2023": {
+        "men_regular": {
+          "attendance": 194681,
+          "games": 126
+        },
+        "men_postseason": {
+          "attendance": 18897,
+          "games": 7
+        },
+        "women_regular": {
+          "attendance": 314939,
+          "games": 126
+        },
+        "women_postseason": {
+          "attendance": 32328,
+          "games": 7
+        },
+        "allstar": {
+          "attendance": 6446,
+          "games": 1
+        }
+      },
+      "2023-2024": {
+        "men_regular": {
+          "attendance": 236891,
+          "games": 126
+        },
+        "men_postseason": {
+          "attendance": 14607,
+          "games": 6
+        },
+        "women_regular": {
+          "attendance": 310141,
+          "games": 126
+        },
+        "women_postseason": {
+          "attendance": 24875,
+          "games": 6
+        },
+        "allstar": {
+          "attendance": 6120,
+          "games": 1
+        }
+      },
+      "2024-2025": {
+        "men_regular": {
+          "attendance": 242886,
+          "games": 126
+        },
+        "men_postseason": {
+          "attendance": 14273,
+          "games": 6
+        },
+        "women_regular": {
+          "attendance": 310167,
+          "games": 126
+        },
+        "women_postseason": {
+          "attendance": 30890,
+          "games": 8
+        },
+        "allstar": {
+          "attendance": 0,
+          "games": 0
+        }
+      },
+      "2025-2026": {
+        "men_regular": {
+          "attendance": 285835,
+          "games": 126
+        },
+        "men_postseason": {
+          "attendance": 21614,
+          "games": 8
+        },
+        "women_regular": {
+          "attendance": 310535,
+          "games": 126
+        },
+        "women_postseason": {
+          "attendance": 17477,
+          "games": 6
+        },
+        "allstar": {
+          "attendance": 2871,
+          "games": 1
+        }
+      },
+      "2026-2027": {
+        "men_regular": {
+          "attendance": 46431,
+          "games": 21
+        },
+        "men_postseason": {
+          "attendance": null,
+          "games": null
+        },
+        "women_regular": {
+          "attendance": 45384,
+          "games": 21
+        },
+        "women_postseason": {
+          "attendance": null,
+          "games": null
+        },
+        "allstar": {
+          "attendance": null,
+          "games": null
+        }
+      }
+    }
+  },
+  "formula_cells": [
+    {
+      "where": "프로야구(KBO)/2020/postseason",
+      "cell": "F3",
+      "formula": "=1+2+4+6",
+      "value": 13
+    },
+    {
+      "where": "프로야구(KBO)/2021/postseason",
+      "cell": "F4",
+      "formula": "=2+3+2+4",
+      "value": 11
+    },
+    {
+      "where": "프로야구(KBO)/2022/postseason",
+      "cell": "F5",
+      "formula": "=1+5+4+6",
+      "value": 16
+    },
+    {
+      "where": "프로야구(KBO)/2023/postseason",
+      "cell": "F6",
+      "formula": "=1+3+5+5",
+      "value": 14
+    },
+    {
+      "where": "프로야구(KBO)/2024/postseason",
+      "cell": "F7",
+      "formula": "=2+5+4+5",
+      "value": 16
+    },
+    {
+      "where": "프로야구(KBO)/2025/postseason",
+      "cell": "F8",
+      "formula": "=2+4+5+5",
+      "value": 16
+    }
+  ]
+}

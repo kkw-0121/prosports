@@ -1,0 +1,13 @@
+{
+  "league": "KLEAGUE",
+  "season": "2026",
+  "collected_at": "2026-11-27T13:21:51+09:00",
+  "source_url": "https://portal.kleague.com/mainFrame.do (관중정보)",
+  "items": {
+    "k1": {
+      "attendance": 1837245,
+      "games": null,
+      "note": "포털 메인 화면 'K리그1 총 누적관중수'"
+    }
+  }
+}

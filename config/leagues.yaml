@@ -1,0 +1,126 @@
+# 프로스포츠 관중 수 집계 규칙
+# ------------------------------------------------------------
+# 이 파일만 고치면 집계 방식이 바뀝니다. 코드는 건드리지 않아도 됩니다.
+#
+# - seasons      : 종합 시트의 행(연도) 목록. 위에서부터 순서대로 엑셀 행에 대응합니다.
+# - leagues      : 종목별 설정
+#     items      : 리그별 시트의 세부 항목(정규리그, 포스트시즌 등)
+#                  stages   : 이 항목에 넣을 경기 단계 (data/games 의 stage 값)
+#                  division : (배구만) men / women / common
+#                  first_row: 2020년 행이 있는 엑셀 행 번호 (다음 해는 +1)
+#                  attendance_col / games_col : 관중 수 / 경기 수가 있는 엑셀 열
+#     total      : 종합 시트의 "종목 합계"에 더할 항목 목록
+#     collect    : 자동 수집하는 시즌. 여기 없는 시즌은 엑셀 확정값(baseline)을 그대로 씁니다.
+#                  시즌이 끝나 확정되면 여기서 지우면 됩니다.
+# ------------------------------------------------------------
+
+workbook:
+  summary_sheet: 종합
+  as_of_cell: R4          # 기준일 칸 (텍스트 '2026.11.24' 형식, 왼쪽 Q4에 '기준일')
+  summary_first_row: 8    # 종합 시트에서 2020 행
+  overall_total_col: R    # 전체 총 관중 수
+  overall_avg_col: S      # 전체 평균 관중 수
+
+seasons:   # 종합 시트 행 순서 (year = 단년제 시즌, split = 2년제 시즌)
+  - { row_label: "2020 (2019-2020)", year: "2020", split: "2019-2020" }
+  - { row_label: "2021 (2020-2021)", year: "2021", split: "2020-2021" }
+  - { row_label: "2022 (2021-2022)", year: "2022", split: "2021-2022" }
+  - { row_label: "2023 (2022-2023)", year: "2023", split: "2022-2023" }
+  - { row_label: "2024 (2023-2024)", year: "2024", split: "2023-2024" }
+  - { row_label: "2025 (2024-2025)", year: "2025", split: "2024-2025" }
+  - { row_label: "2026 (2025-2026)", year: "2026", split: "2025-2026" }
+  - { row_label: "2027 (2026-2027)", year: "2027", split: "2026-2027" }
+
+leagues:
+  KBO:
+    name: 야구
+    abbr: KBO          # 화면 표시: '야구 (KBO)'
+    sheet: 프로야구(KBO)
+    season_format: year
+    summary_cols: { attendance: C, games: D, average: E }
+    items:
+      - { key: regular,    label: 정규리그,   stages: [regular],    first_row: 3, attendance_col: C, games_col: D }
+      - { key: postseason, label: 포스트시즌, stages: [postseason], first_row: 3, attendance_col: E, games_col: F }
+      - { key: allstar,    label: 올스타전,   stages: [allstar],    first_row: 3, attendance_col: G, games_col: H }
+    total: [regular, postseason, allstar]
+    collect: ["2027"]
+
+  KLEAGUE:
+    name: 축구
+    abbr: K LEAGUE          # 화면 표시: '축구 (K LEAGUE)'
+    sheet: 프로축구(K리그)
+    season_format: year
+    summary_cols: { attendance: F, games: G, average: H }
+    items:
+      - { key: k1,   label: K리그1, stages: [k1],   first_row: 3, attendance_col: C, games_col: D }
+      - { key: k2,   label: K리그2, stages: [k2],   first_row: 3, attendance_col: E, games_col: F }
+      - { key: k_po, label: PO,     stages: [k_po], first_row: 3, attendance_col: G, games_col: H }
+    total: [k1, k2, k_po]
+    collect: ["2026", "2027"]   # 2026은 PO가 아직 남아 있음
+
+  KBL:
+    name: 남자농구
+    abbr: KBL          # 화면 표시: '남자농구 (KBL)'
+    sheet: 남자프로농구(KBL)
+    season_format: split
+    summary_cols: { attendance: I, games: J, average: K }
+    items:
+      - { key: regular,    label: 정규리그, stages: [regular],    first_row: 3, attendance_col: C, games_col: D }
+      - { key: postseason, label: PO,       stages: [postseason], first_row: 3, attendance_col: E, games_col: F }
+    total: [regular, postseason]
+    collect: ["2026-2027"]
+
+  WKBL:
+    name: 여자농구
+    abbr: WKBL          # 화면 표시: '여자농구 (WKBL)'
+    sheet: 여자프로농구(WKBL)
+    season_format: split
+    summary_cols: { attendance: L, games: M, average: N }
+    items:
+      - { key: regular,    label: 정규리그, stages: [regular],    first_row: 3, attendance_col: C, games_col: D }
+      - { key: postseason, label: PO,       stages: [postseason], first_row: 3, attendance_col: E, games_col: F }
+    total: [regular, postseason]
+    collect: ["2026-2027"]
+
+  KOVO:
+    name: 남녀배구
+    abbr: KOVO          # 화면 표시: '남녀배구 (KOVO)'
+    sheet: 남녀프로배구(KOVO)
+    season_format: split
+    summary_cols: { attendance: O, games: P, average: Q }
+    items:
+      # 화면 표시 순서 = 이 목록 순서 (엑셀 칸 위치는 first_row/열로 따로 지정)
+      - { key: men_regular,      label: 남자부 정규리그,     division: men,    stages: [regular],    first_row: 13, attendance_col: C, games_col: D }
+      - { key: men_postseason,   label: 남자부 포스트시즌,   division: men,    stages: [postseason], first_row: 13, attendance_col: E, games_col: F }
+      - { key: women_regular,    label: 여자부 정규리그,     division: women,  stages: [regular],    first_row: 23, attendance_col: C, games_col: D }
+      - { key: women_postseason, label: 여자부 포스트시즌,   division: women,  stages: [postseason], first_row: 23, attendance_col: E, games_col: F }
+      - { key: allstar,          label: 올스타전(공통),      division: common, stages: [allstar],    first_row: 3,  attendance_col: C, games_col: D }
+    total: [men_regular, men_postseason, women_regular, women_postseason, allstar]
+    collect: ["2026-2027"]
+
+# 수집 검증용: 가장 큰 홈 경기장 수용 인원. 관중 수가 이 값의 1.2배를 넘으면 경고.
+max_capacity:
+  KBO: 25000
+  KLEAGUE: 66704
+  KBL: 14000
+  WKBL: 7000
+  KOVO: 8000
+
+# WKBL 첫 수집 기준점: 시즌 합계에 몇 경기까지 반영됐는지 (엑셀 확정값)
+# WKBL은 경기 후 시즌 합계를 늦게 갱신해서, 첫 수집 때 '반영된 경기 수'를 이 값으로 정함.
+# 사이트 합계가 이 값과 같을 때만 사용. 이후에는 수집기가 스스로 추적함.
+wkbl_anchor:
+  "2026-2027": { games_reflected: 20, total: 27985, source: "엑셀 2026.11.24 기준" }
+
+# 무관중 시즌 (관중 0명을 경고하지 않음)
+no_crowd_seasons: ["2020", "2019-2020", "2020-2021"]
+
+# 집계에서 빼는 대회 (수집기가 참고)
+excluded_competitions:
+  - 시범경기
+  - 컵대회 (KOVO컵, KBL컵 등)
+  - 코리아컵(FA컵)
+  - K리그 리그컵
+  - KBL D리그
+  - KOVO 기타매치(탑매치 등)
+  - 엑셀에 항목이 없는 모든 대회

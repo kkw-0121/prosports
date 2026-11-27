@@ -1,0 +1,13 @@
+{
+  "league": "WKBL",
+  "season": "2026-2027",
+  "collected_at": "2026-11-27T13:23:42+09:00",
+  "source_url": "https://www.wkbl.or.kr/game/sch/schedule1.asp + https://www.wkbl.or.kr/history/crowd.asp",
+  "items": {
+    "total": {
+      "attendance": 27985,
+      "games": null,
+      "note": "WKBL 역대관중현황 시즌 합계 (정규+PO+챔프전)"
+    }
+  }
+}

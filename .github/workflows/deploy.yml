@@ -1,0 +1,38 @@
+# site/ 폴더를 GitHub Pages 로 배포
+# - 화면 코드(site/)를 고쳐서 올리면 자동 배포
+# - 수집 작업(collect.yml)이 끝날 때도 호출됨
+# 나중에 Cloudflare Pages 로 옮기면 이 파일은 지워도 됨 (사이트 코드는 수정 불필요)
+name: 사이트 배포
+
+on:
+  push:
+    branches: [main]
+    paths: ["site/**", ".github/workflows/deploy.yml"]
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main            # 수집 작업이 방금 커밋한 최신 데이터까지 포함
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

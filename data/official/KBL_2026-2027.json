@@ -1,0 +1,13 @@
+{
+  "league": "KBL",
+  "season": "2026-2027",
+  "collected_at": "2026-11-27T13:24:03+09:00",
+  "source_url": "https://www.kbl.or.kr/record/crowd",
+  "items": {
+    "total": {
+      "attendance": 247724,
+      "games": null,
+      "note": "KBL 관중현황 '전체 관중현황' 시즌 합계 (정규+PO)"
+    }
+  }
+}

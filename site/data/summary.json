@@ -1,0 +1,1761 @@
+{
+  "generated_at": "2026-11-27T14:17:50+09:00",
+  "as_of": "2026-11-27",
+  "excel_as_of": "2026.11.24",
+  "rows": [
+    {
+      "row": "2020 (2019-2020)",
+      "year": "2020",
+      "split": "2019-2020",
+      "attendance": 1664098,
+      "games": 1519,
+      "average": 1095.5220539828836,
+      "complete": true
+    },
+    {
+      "row": "2021 (2020-2021)",
+      "year": "2021",
+      "split": "2020-2021",
+      "attendance": 2144437,
+      "games": 1757,
+      "average": 1220.510529311326,
+      "complete": true
+    },
+    {
+      "row": "2022 (2021-2022)",
+      "year": "2022",
+      "split": "2021-2022",
+      "attendance": 8428764,
+      "games": 1819,
+      "average": 4633.735019241341,
+      "complete": true
+    },
+    {
+      "row": "2023 (2022-2023)",
+      "year": "2023",
+      "split": "2022-2023",
+      "attendance": 12765202,
+      "games": 1859,
+      "average": 6866.703604088219,
+      "complete": true
+    },
+    {
+      "row": "2024 (2023-2024)",
+      "year": "2024",
+      "split": "2023-2024",
+      "attendance": 16267252,
+      "games": 1862,
+      "average": 8736.440386680988,
+      "complete": true
+    },
+    {
+      "row": "2025 (2024-2025)",
+      "year": "2025",
+      "split": "2024-2025",
+      "attendance": 17764459,
+      "games": 1905,
+      "average": 9325.17532808399,
+      "complete": true
+    },
+    {
+      "row": "2026 (2025-2026)",
+      "year": "2026",
+      "split": "2025-2026",
+      "attendance": 17791974,
+      "games": 1870,
+      "average": 9514.424598930482,
+      "complete": true
+    },
+    {
+      "row": "2027 (2026-2027)",
+      "year": "2027",
+      "split": "2026-2027",
+      "attendance": 374525,
+      "games": 143,
+      "average": 2619.055944055944,
+      "complete": true
+    }
+  ],
+  "leagues": {
+    "KBO": {
+      "code": "KBO",
+      "name": "야구",
+      "abbr": "KBO",
+      "sheet": "프로야구(KBO)",
+      "items": [
+        {
+          "key": "regular",
+          "label": "정규리그"
+        },
+        {
+          "key": "postseason",
+          "label": "포스트시즌"
+        },
+        {
+          "key": "allstar",
+          "label": "올스타전"
+        }
+      ],
+      "total_items": [
+        "regular",
+        "postseason",
+        "allstar"
+      ],
+      "seasons": {
+        "2020": {
+          "row": "2020 (2019-2020)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 328317,
+              "games": 720,
+              "average": 455.99583333333334
+            },
+            "postseason": {
+              "attendance": 96082,
+              "games": 13,
+              "average": 7390.923076923077
+            },
+            "allstar": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 424399,
+            "games": 733,
+            "average": 578.9890859481583
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2021": {
+          "row": "2021 (2020-2021)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 1240733,
+              "games": 720,
+              "average": 1723.2402777777777
+            },
+            "postseason": {
+              "attendance": 187572,
+              "games": 11,
+              "average": 17052.0
+            },
+            "allstar": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 1428305,
+            "games": 731,
+            "average": 1953.90560875513
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2022": {
+          "row": "2022 (2021-2022)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 6076074,
+              "games": 720,
+              "average": 8438.991666666667
+            },
+            "postseason": {
+              "attendance": 275883,
+              "games": 16,
+              "average": 17242.6875
+            },
+            "allstar": {
+              "attendance": 23750,
+              "games": 1,
+              "average": 23750.0
+            }
+          },
+          "total": {
+            "attendance": 6375707,
+            "games": 737,
+            "average": 8650.89145183175
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2023": {
+          "row": "2023 (2022-2023)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 8100326,
+              "games": 720,
+              "average": 11250.452777777778
+            },
+            "postseason": {
+              "attendance": 261498,
+              "games": 14,
+              "average": 18678.428571428572
+            },
+            "allstar": {
+              "attendance": 22990,
+              "games": 1,
+              "average": 22990.0
+            }
+          },
+          "total": {
+            "attendance": 8384814,
+            "games": 735,
+            "average": 11407.910204081632
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2024": {
+          "row": "2024 (2023-2024)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 10887705,
+              "games": 720,
+              "average": 15121.8125
+            },
+            "postseason": {
+              "attendance": 353550,
+              "games": 16,
+              "average": 22096.875
+            },
+            "allstar": {
+              "attendance": 22500,
+              "games": 1,
+              "average": 22500.0
+            }
+          },
+          "total": {
+            "attendance": 11263755,
+            "games": 737,
+            "average": 15283.249660786974
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2025": {
+          "row": "2025 (2024-2025)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 12312519,
+              "games": 720,
+              "average": 17100.720833333333
+            },
+            "postseason": {
+              "attendance": 335080,
+              "games": 16,
+              "average": 20942.5
+            },
+            "allstar": {
+              "attendance": 16850,
+              "games": 1,
+              "average": 16850.0
+            }
+          },
+          "total": {
+            "attendance": 12664449,
+            "games": 737,
+            "average": 17183.784260515604
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2026": {
+          "row": "2026 (2025-2026)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 12770551,
+              "games": 720,
+              "average": 17736.87638888889
+            },
+            "postseason": {
+              "attendance": 299600,
+              "games": 14,
+              "average": 21400.0
+            },
+            "allstar": {
+              "attendance": 23750,
+              "games": 1,
+              "average": 23750.0
+            }
+          },
+          "total": {
+            "attendance": 13093901,
+            "games": 735,
+            "average": 17814.831292517007
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2027": {
+          "row": "2027 (2026-2027)",
+          "source": "collected",
+          "items": {
+            "regular": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "allstar": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 0,
+            "games": 0,
+            "average": null
+          },
+          "has_data": false,
+          "collected_at": "2026-11-27T13:21:30+09:00",
+          "last_game": null,
+          "official": [],
+          "official_status": "not_provided",
+          "notes": []
+        }
+      },
+      "status": {
+        "state": "ok",
+        "label": "정상",
+        "message": "마지막 성공 2026-11-27 13:21",
+        "last_success": "2026-11-27T13:21:30+09:00"
+      }
+    },
+    "KLEAGUE": {
+      "code": "KLEAGUE",
+      "name": "축구",
+      "abbr": "K LEAGUE",
+      "sheet": "프로축구(K리그)",
+      "items": [
+        {
+          "key": "k1",
+          "label": "K리그1"
+        },
+        {
+          "key": "k2",
+          "label": "K리그2"
+        },
+        {
+          "key": "k_po",
+          "label": "PO"
+        }
+      ],
+      "total_items": [
+        "k1",
+        "k2",
+        "k_po"
+      ],
+      "seasons": {
+        "2020": {
+          "row": "2020 (2019-2020)",
+          "source": "baseline",
+          "items": {
+            "k1": {
+              "attendance": 86640,
+              "games": 162,
+              "average": 534.8148148148148
+            },
+            "k2": {
+              "attendance": 26732,
+              "games": 135,
+              "average": 198.01481481481483
+            },
+            "k_po": {
+              "attendance": 985,
+              "games": 2,
+              "average": 492.5
+            }
+          },
+          "total": {
+            "attendance": 114357,
+            "games": 299,
+            "average": 382.46488294314383
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2021": {
+          "row": "2021 (2020-2021)",
+          "source": "baseline",
+          "items": {
+            "k1": {
+              "attendance": 444473,
+              "games": 228,
+              "average": 1949.4429824561403
+            },
+            "k2": {
+              "attendance": 114204,
+              "games": 180,
+              "average": 634.4666666666667
+            },
+            "k_po": {
+              "attendance": 15096,
+              "games": 4,
+              "average": 3774.0
+            }
+          },
+          "total": {
+            "attendance": 573773,
+            "games": 412,
+            "average": 1392.6529126213593
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2022": {
+          "row": "2022 (2021-2022)",
+          "source": "baseline",
+          "items": {
+            "k1": {
+              "attendance": 1099061,
+              "games": 228,
+              "average": 4820.44298245614
+            },
+            "k2": {
+              "attendance": 295387,
+              "games": 220,
+              "average": 1342.668181818182
+            },
+            "k_po": {
+              "attendance": 34928,
+              "games": 6,
+              "average": 5821.333333333333
+            }
+          },
+          "total": {
+            "attendance": 1429376,
+            "games": 454,
+            "average": 3148.4052863436123
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2023": {
+          "row": "2023 (2022-2023)",
+          "source": "baseline",
+          "items": {
+            "k1": {
+              "attendance": 2447147,
+              "games": 228,
+              "average": 10733.100877192983
+            },
+            "k2": {
+              "attendance": 553891,
+              "games": 234,
+              "average": 2367.0555555555557
+            },
+            "k_po": {
+              "attendance": 29441,
+              "games": 6,
+              "average": 4906.833333333333
+            }
+          },
+          "total": {
+            "attendance": 3030479,
+            "games": 468,
+            "average": 6475.3824786324785
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2024": {
+          "row": "2024 (2023-2024)",
+          "source": "baseline",
+          "items": {
+            "k1": {
+              "attendance": 2508585,
+              "games": 228,
+              "average": 11002.565789473685
+            },
+            "k2": {
+              "attendance": 889125,
+              "games": 234,
+              "average": 3799.6794871794873
+            },
+            "k_po": {
+              "attendance": 65674,
+              "games": 6,
+              "average": 10945.666666666666
+            }
+          },
+          "total": {
+            "attendance": 3463384,
+            "games": 468,
+            "average": 7400.393162393162
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2025": {
+          "row": "2025 (2024-2025)",
+          "source": "baseline",
+          "items": {
+            "k1": {
+              "attendance": 2298557,
+              "games": 228,
+              "average": 10081.390350877193
+            },
+            "k2": {
+              "attendance": 1177470,
+              "games": 273,
+              "average": 4313.076923076923
+            },
+            "k_po": {
+              "attendance": 56478,
+              "games": 6,
+              "average": 9413.0
+            }
+          },
+          "total": {
+            "attendance": 3532505,
+            "games": 507,
+            "average": 6967.465483234714
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2026": {
+          "row": "2026 (2025-2026)",
+          "source": "collected",
+          "items": {
+            "k1": {
+              "attendance": 1837245,
+              "games": 216,
+              "average": 8505.763888888889
+            },
+            "k2": {
+              "attendance": 1180613,
+              "games": 264,
+              "average": 4472.018939393939
+            },
+            "k_po": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 3017858,
+            "games": 480,
+            "average": 6287.204166666666
+          },
+          "has_data": true,
+          "collected_at": "2026-11-27T13:21:51+09:00",
+          "last_game": "2026-11-22",
+          "official": [
+            {
+              "key": "k1",
+              "label": "K리그1",
+              "official": 1837245,
+              "ours": 1837245,
+              "diff": 0,
+              "note": "포털 메인 화면 'K리그1 총 누적관중수'"
+            }
+          ],
+          "official_status": "provided",
+          "notes": []
+        },
+        "2027": {
+          "row": "2027 (2026-2027)",
+          "source": "collected",
+          "items": {
+            "k1": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "k2": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "k_po": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 0,
+            "games": 0,
+            "average": null
+          },
+          "has_data": false,
+          "collected_at": "2026-11-27T13:21:57+09:00",
+          "last_game": null,
+          "official": [],
+          "official_status": "not_provided",
+          "notes": []
+        }
+      },
+      "status": {
+        "state": "ok",
+        "label": "정상",
+        "message": "마지막 성공 2026-11-27 13:21",
+        "last_success": "2026-11-27T13:21:57+09:00"
+      }
+    },
+    "KBL": {
+      "code": "KBL",
+      "name": "남자농구",
+      "abbr": "KBL",
+      "sheet": "남자프로농구(KBL)",
+      "items": [
+        {
+          "key": "regular",
+          "label": "정규리그"
+        },
+        {
+          "key": "postseason",
+          "label": "PO"
+        }
+      ],
+      "total_items": [
+        "regular",
+        "postseason"
+      ],
+      "seasons": {
+        "2019-2020": {
+          "row": "2020 (2019-2020)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 643651,
+              "games": 213,
+              "average": 3021.8356807511736
+            },
+            "postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 643651,
+            "games": 213,
+            "average": 3021.8356807511736
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2020-2021": {
+          "row": "2021 (2020-2021)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 97595,
+              "games": 270,
+              "average": 361.462962962963
+            },
+            "postseason": {
+              "attendance": 12585,
+              "games": 19,
+              "average": 662.3684210526316
+            }
+          },
+          "total": {
+            "attendance": 110180,
+            "games": 289,
+            "average": 381.24567474048445
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2021-2022": {
+          "row": "2022 (2021-2022)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 280609,
+              "games": 270,
+              "average": 1039.2925925925927
+            },
+            "postseason": {
+              "attendance": 56615,
+              "games": 18,
+              "average": 3145.277777777778
+            }
+          },
+          "total": {
+            "attendance": 337224,
+            "games": 288,
+            "average": 1170.9166666666667
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2022-2023": {
+          "row": "2023 (2022-2023)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 599572,
+              "games": 270,
+              "average": 2220.637037037037
+            },
+            "postseason": {
+              "attendance": 87731,
+              "games": 22,
+              "average": 3987.7727272727275
+            }
+          },
+          "total": {
+            "attendance": 687303,
+            "games": 292,
+            "average": 2353.777397260274
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2023-2024": {
+          "row": "2024 (2023-2024)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 738420,
+              "games": 270,
+              "average": 2734.8888888888887
+            },
+            "postseason": {
+              "attendance": 98497,
+              "games": 21,
+              "average": 4690.333333333333
+            }
+          },
+          "total": {
+            "attendance": 836917,
+            "games": 291,
+            "average": 2876.003436426117
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2024-2025": {
+          "row": "2025 (2024-2025)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 761971,
+              "games": 270,
+              "average": 2822.114814814815
+            },
+            "postseason": {
+              "attendance": 86583,
+              "games": 22,
+              "average": 3935.590909090909
+            }
+          },
+          "total": {
+            "attendance": 848554,
+            "games": 292,
+            "average": 2906.0068493150684
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2025-2026": {
+          "row": "2026 (2025-2026)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 811185,
+              "games": 270,
+              "average": 3004.3888888888887
+            },
+            "postseason": {
+              "attendance": 102798,
+              "games": 18,
+              "average": 5711.0
+            }
+          },
+          "total": {
+            "attendance": 913983,
+            "games": 288,
+            "average": 3173.5520833333335
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2026-2027": {
+          "row": "2027 (2026-2027)",
+          "source": "collected",
+          "items": {
+            "regular": {
+              "attendance": 247724,
+              "games": 77,
+              "average": 3217.194805194805
+            },
+            "postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 247724,
+            "games": 77,
+            "average": 3217.194805194805
+          },
+          "has_data": true,
+          "collected_at": "2026-11-27T13:24:03+09:00",
+          "last_game": "2026-11-19",
+          "official": [
+            {
+              "key": "total",
+              "label": "시즌 전체",
+              "official": 247724,
+              "ours": 247724,
+              "diff": 0,
+              "note": "KBL 관중현황 '전체 관중현황' 시즌 합계 (정규+PO)"
+            }
+          ],
+          "official_status": "provided",
+          "notes": []
+        }
+      },
+      "status": {
+        "state": "ok",
+        "label": "정상",
+        "message": "마지막 성공 2026-11-27 13:24",
+        "last_success": "2026-11-27T13:24:03+09:00"
+      }
+    },
+    "WKBL": {
+      "code": "WKBL",
+      "name": "여자농구",
+      "abbr": "WKBL",
+      "sheet": "여자프로농구(WKBL)",
+      "items": [
+        {
+          "key": "regular",
+          "label": "정규리그"
+        },
+        {
+          "key": "postseason",
+          "label": "PO"
+        }
+      ],
+      "total_items": [
+        "regular",
+        "postseason"
+      ],
+      "seasons": {
+        "2019-2020": {
+          "row": "2020 (2019-2020)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 88632,
+              "games": 82,
+              "average": 1080.878048780488
+            },
+            "postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 88632,
+            "games": 82,
+            "average": 1080.878048780488
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2020-2021": {
+          "row": "2021 (2020-2021)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 1757,
+              "games": 90,
+              "average": 19.522222222222222
+            },
+            "postseason": {
+              "attendance": 2280,
+              "games": 5,
+              "average": 456.0
+            }
+          },
+          "total": {
+            "attendance": 4037,
+            "games": 95,
+            "average": 42.49473684210526
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2021-2022": {
+          "row": "2022 (2021-2022)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 34218,
+              "games": 90,
+              "average": 380.2
+            },
+            "postseason": {
+              "attendance": 9414,
+              "games": 7,
+              "average": 1344.857142857143
+            }
+          },
+          "total": {
+            "attendance": 43632,
+            "games": 97,
+            "average": 449.8144329896907
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2022-2023": {
+          "row": "2023 (2022-2023)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 85198,
+              "games": 90,
+              "average": 946.6444444444444
+            },
+            "postseason": {
+              "attendance": 10117,
+              "games": 7,
+              "average": 1445.2857142857142
+            }
+          },
+          "total": {
+            "attendance": 95315,
+            "games": 97,
+            "average": 982.6288659793814
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2023-2024": {
+          "row": "2024 (2023-2024)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 91363,
+              "games": 90,
+              "average": 1015.1444444444444
+            },
+            "postseason": {
+              "attendance": 19199,
+              "games": 11,
+              "average": 1745.3636363636363
+            }
+          },
+          "total": {
+            "attendance": 110562,
+            "games": 101,
+            "average": 1094.6732673267327
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2024-2025": {
+          "row": "2025 (2024-2025)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 99402,
+              "games": 90,
+              "average": 1104.4666666666667
+            },
+            "postseason": {
+              "attendance": 21333,
+              "games": 13,
+              "average": 1641.0
+            }
+          },
+          "total": {
+            "attendance": 120735,
+            "games": 103,
+            "average": 1172.1844660194174
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2025-2026": {
+          "row": "2026 (2025-2026)",
+          "source": "baseline",
+          "items": {
+            "regular": {
+              "attendance": 112521,
+              "games": 90,
+              "average": 1250.2333333333333
+            },
+            "postseason": {
+              "attendance": 15379,
+              "games": 10,
+              "average": 1537.9
+            }
+          },
+          "total": {
+            "attendance": 127900,
+            "games": 100,
+            "average": 1279.0
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2026-2027": {
+          "row": "2027 (2026-2027)",
+          "source": "collected",
+          "items": {
+            "regular": {
+              "attendance": 27985,
+              "games": 20,
+              "average": 1399.25
+            },
+            "postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 27985,
+            "games": 20,
+            "average": 1399.25
+          },
+          "has_data": true,
+          "collected_at": "2026-11-27T13:23:42+09:00",
+          "last_game": "2026-11-25",
+          "official": [
+            {
+              "key": "total",
+              "label": "시즌 전체",
+              "official": 27985,
+              "ours": 27985,
+              "diff": 0,
+              "note": "WKBL 역대관중현황 시즌 합계 (정규+PO+챔프전)"
+            }
+          ],
+          "official_status": "provided",
+          "notes": [
+            "관중 반영 대기 1경기 (연맹 집계 반영 후 포함): 2026-11-25 우리은행-KB스타즈"
+          ]
+        }
+      },
+      "status": {
+        "state": "ok",
+        "label": "정상",
+        "message": "마지막 성공 2026-11-27 13:23",
+        "last_success": "2026-11-27T13:23:42+09:00"
+      }
+    },
+    "KOVO": {
+      "code": "KOVO",
+      "name": "남녀배구",
+      "abbr": "KOVO",
+      "sheet": "남녀프로배구(KOVO)",
+      "items": [
+        {
+          "key": "men_regular",
+          "label": "남자부 정규리그"
+        },
+        {
+          "key": "men_postseason",
+          "label": "남자부 포스트시즌"
+        },
+        {
+          "key": "women_regular",
+          "label": "여자부 정규리그"
+        },
+        {
+          "key": "women_postseason",
+          "label": "여자부 포스트시즌"
+        },
+        {
+          "key": "allstar",
+          "label": "올스타전(공통)"
+        }
+      ],
+      "total_items": [
+        "men_regular",
+        "men_postseason",
+        "women_regular",
+        "women_postseason",
+        "allstar"
+      ],
+      "seasons": {
+        "2019-2020": {
+          "row": "2020 (2019-2020)",
+          "source": "baseline",
+          "items": {
+            "men_regular": {
+              "attendance": 219460,
+              "games": 112,
+              "average": 1959.4642857142858
+            },
+            "men_postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "women_regular": {
+              "attendance": 173599,
+              "games": 80,
+              "average": 2169.9875
+            },
+            "women_postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "allstar": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 393059,
+            "games": 192,
+            "average": 2047.1822916666667
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2020-2021": {
+          "row": "2021 (2020-2021)",
+          "source": "baseline",
+          "items": {
+            "men_regular": {
+              "attendance": 10032,
+              "games": 126,
+              "average": 79.61904761904762
+            },
+            "men_postseason": {
+              "attendance": 2277,
+              "games": 8,
+              "average": 284.625
+            },
+            "women_regular": {
+              "attendance": 14197,
+              "games": 90,
+              "average": 157.74444444444444
+            },
+            "women_postseason": {
+              "attendance": 1636,
+              "games": 6,
+              "average": 272.6666666666667
+            },
+            "allstar": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 28142,
+            "games": 230,
+            "average": 122.35652173913043
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2021-2022": {
+          "row": "2022 (2021-2022)",
+          "source": "baseline",
+          "items": {
+            "men_regular": {
+              "attendance": 83545,
+              "games": 126,
+              "average": 663.0555555555555
+            },
+            "men_postseason": {
+              "attendance": 7906,
+              "games": 5,
+              "average": 1581.2
+            },
+            "women_regular": {
+              "attendance": 148524,
+              "games": 111,
+              "average": 1338.054054054054
+            },
+            "women_postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "allstar": {
+              "attendance": 2850,
+              "games": 1,
+              "average": 2850.0
+            }
+          },
+          "total": {
+            "attendance": 242825,
+            "games": 243,
+            "average": 999.2798353909465
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2022-2023": {
+          "row": "2023 (2022-2023)",
+          "source": "baseline",
+          "items": {
+            "men_regular": {
+              "attendance": 194681,
+              "games": 126,
+              "average": 1545.0873015873017
+            },
+            "men_postseason": {
+              "attendance": 18897,
+              "games": 7,
+              "average": 2699.5714285714284
+            },
+            "women_regular": {
+              "attendance": 314939,
+              "games": 126,
+              "average": 2499.5158730158732
+            },
+            "women_postseason": {
+              "attendance": 32328,
+              "games": 7,
+              "average": 4618.285714285715
+            },
+            "allstar": {
+              "attendance": 6446,
+              "games": 1,
+              "average": 6446.0
+            }
+          },
+          "total": {
+            "attendance": 567291,
+            "games": 267,
+            "average": 2124.6853932584268
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2023-2024": {
+          "row": "2024 (2023-2024)",
+          "source": "baseline",
+          "items": {
+            "men_regular": {
+              "attendance": 236891,
+              "games": 126,
+              "average": 1880.0873015873017
+            },
+            "men_postseason": {
+              "attendance": 14607,
+              "games": 6,
+              "average": 2434.5
+            },
+            "women_regular": {
+              "attendance": 310141,
+              "games": 126,
+              "average": 2461.436507936508
+            },
+            "women_postseason": {
+              "attendance": 24875,
+              "games": 6,
+              "average": 4145.833333333333
+            },
+            "allstar": {
+              "attendance": 6120,
+              "games": 1,
+              "average": 6120.0
+            }
+          },
+          "total": {
+            "attendance": 592634,
+            "games": 265,
+            "average": 2236.3547169811322
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2024-2025": {
+          "row": "2025 (2024-2025)",
+          "source": "baseline",
+          "items": {
+            "men_regular": {
+              "attendance": 242886,
+              "games": 126,
+              "average": 1927.6666666666667
+            },
+            "men_postseason": {
+              "attendance": 14273,
+              "games": 6,
+              "average": 2378.8333333333335
+            },
+            "women_regular": {
+              "attendance": 310167,
+              "games": 126,
+              "average": 2461.6428571428573
+            },
+            "women_postseason": {
+              "attendance": 30890,
+              "games": 8,
+              "average": 3861.25
+            },
+            "allstar": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 598216,
+            "games": 266,
+            "average": 2248.9323308270677
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2025-2026": {
+          "row": "2026 (2025-2026)",
+          "source": "baseline",
+          "items": {
+            "men_regular": {
+              "attendance": 285835,
+              "games": 126,
+              "average": 2268.531746031746
+            },
+            "men_postseason": {
+              "attendance": 21614,
+              "games": 8,
+              "average": 2701.75
+            },
+            "women_regular": {
+              "attendance": 310535,
+              "games": 126,
+              "average": 2464.563492063492
+            },
+            "women_postseason": {
+              "attendance": 17477,
+              "games": 6,
+              "average": 2912.8333333333335
+            },
+            "allstar": {
+              "attendance": 2871,
+              "games": 1,
+              "average": 2871.0
+            }
+          },
+          "total": {
+            "attendance": 638332,
+            "games": 267,
+            "average": 2390.756554307116
+          },
+          "has_data": true,
+          "collected_at": null,
+          "last_game": null,
+          "official": [],
+          "official_status": "baseline",
+          "notes": []
+        },
+        "2026-2027": {
+          "row": "2027 (2026-2027)",
+          "source": "collected",
+          "items": {
+            "men_regular": {
+              "attendance": 50613,
+              "games": 23,
+              "average": 2200.5652173913045
+            },
+            "men_postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "women_regular": {
+              "attendance": 48203,
+              "games": 23,
+              "average": 2095.782608695652
+            },
+            "women_postseason": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            },
+            "allstar": {
+              "attendance": 0,
+              "games": 0,
+              "average": null
+            }
+          },
+          "total": {
+            "attendance": 98816,
+            "games": 46,
+            "average": 2148.1739130434785
+          },
+          "has_data": true,
+          "collected_at": "2026-11-27T13:22:48+09:00",
+          "last_game": "2026-11-26",
+          "official": [],
+          "official_status": "not_provided",
+          "notes": []
+        }
+      },
+      "status": {
+        "state": "ok",
+        "label": "정상",
+        "message": "마지막 성공 2026-11-27 13:22",
+        "last_success": "2026-11-27T13:22:48+09:00"
+      }
+    }
+  },
+  "excel": {
+    "template": "template/양식.xlsx",
+    "summary_sheet": "종합",
+    "as_of_cell": "R4",
+    "summary_first_row": 8,
+    "overall_total_col": "R",
+    "overall_avg_col": "S",
+    "official_sheet": "공식 집계 대조",
+    "seasons": [
+      "2020 (2019-2020)",
+      "2021 (2020-2021)",
+      "2022 (2021-2022)",
+      "2023 (2022-2023)",
+      "2024 (2023-2024)",
+      "2025 (2024-2025)",
+      "2026 (2025-2026)",
+      "2027 (2026-2027)"
+    ],
+    "leagues": {
+      "KBO": {
+        "sheet": "프로야구(KBO)",
+        "season_format": "year",
+        "summary_cols": {
+          "attendance": "C",
+          "games": "D",
+          "average": "E"
+        },
+        "total": [
+          "regular",
+          "postseason",
+          "allstar"
+        ],
+        "items": [
+          {
+            "key": "regular",
+            "label": "정규리그",
+            "first_row": 3,
+            "attendance_col": "C",
+            "games_col": "D"
+          },
+          {
+            "key": "postseason",
+            "label": "포스트시즌",
+            "first_row": 3,
+            "attendance_col": "E",
+            "games_col": "F"
+          },
+          {
+            "key": "allstar",
+            "label": "올스타전",
+            "first_row": 3,
+            "attendance_col": "G",
+            "games_col": "H"
+          }
+        ]
+      },
+      "KLEAGUE": {
+        "sheet": "프로축구(K리그)",
+        "season_format": "year",
+        "summary_cols": {
+          "attendance": "F",
+          "games": "G",
+          "average": "H"
+        },
+        "total": [
+          "k1",
+          "k2",
+          "k_po"
+        ],
+        "items": [
+          {
+            "key": "k1",
+            "label": "K리그1",
+            "first_row": 3,
+            "attendance_col": "C",
+            "games_col": "D"
+          },
+          {
+            "key": "k2",
+            "label": "K리그2",
+            "first_row": 3,
+            "attendance_col": "E",
+            "games_col": "F"
+          },
+          {
+            "key": "k_po",
+            "label": "PO",
+            "first_row": 3,
+            "attendance_col": "G",
+            "games_col": "H"
+          }
+        ]
+      },
+      "KBL": {
+        "sheet": "남자프로농구(KBL)",
+        "season_format": "split",
+        "summary_cols": {
+          "attendance": "I",
+          "games": "J",
+          "average": "K"
+        },
+        "total": [
+          "regular",
+          "postseason"
+        ],
+        "items": [
+          {
+            "key": "regular",
+            "label": "정규리그",
+            "first_row": 3,
+            "attendance_col": "C",
+            "games_col": "D"
+          },
+          {
+            "key": "postseason",
+            "label": "PO",
+            "first_row": 3,
+            "attendance_col": "E",
+            "games_col": "F"
+          }
+        ]
+      },
+      "WKBL": {
+        "sheet": "여자프로농구(WKBL)",
+        "season_format": "split",
+        "summary_cols": {
+          "attendance": "L",
+          "games": "M",
+          "average": "N"
+        },
+        "total": [
+          "regular",
+          "postseason"
+        ],
+        "items": [
+          {
+            "key": "regular",
+            "label": "정규리그",
+            "first_row": 3,
+            "attendance_col": "C",
+            "games_col": "D"
+          },
+          {
+            "key": "postseason",
+            "label": "PO",
+            "first_row": 3,
+            "attendance_col": "E",
+            "games_col": "F"
+          }
+        ]
+      },
+      "KOVO": {
+        "sheet": "남녀프로배구(KOVO)",
+        "season_format": "split",
+        "summary_cols": {
+          "attendance": "O",
+          "games": "P",
+          "average": "Q"
+        },
+        "total": [
+          "men_regular",
+          "men_postseason",
+          "women_regular",
+          "women_postseason",
+          "allstar"
+        ],
+        "items": [
+          {
+            "key": "men_regular",
+            "label": "남자부 정규리그",
+            "first_row": 13,
+            "attendance_col": "C",
+            "games_col": "D"
+          },
+          {
+            "key": "men_postseason",
+            "label": "남자부 포스트시즌",
+            "first_row": 13,
+            "attendance_col": "E",
+            "games_col": "F"
+          },
+          {
+            "key": "women_regular",
+            "label": "여자부 정규리그",
+            "first_row": 23,
+            "attendance_col": "C",
+            "games_col": "D"
+          },
+          {
+            "key": "women_postseason",
+            "label": "여자부 포스트시즌",
+            "first_row": 23,
+            "attendance_col": "E",
+            "games_col": "F"
+          },
+          {
+            "key": "allstar",
+            "label": "올스타전(공통)",
+            "first_row": 3,
+            "attendance_col": "C",
+            "games_col": "D"
+          }
+        ]
+      }
+    }
+  }
+}

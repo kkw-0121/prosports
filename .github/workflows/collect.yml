@@ -1,0 +1,78 @@
+# 매일 관중 수 자동 수집 → data/ 저장·커밋 → 사이트 배포
+# 수집이 하나라도 실패하면 이 작업이 '실패'로 끝나 GitHub이 저장소 주인에게 이메일을 보낸다.
+name: 관중 수 수집
+
+on:
+  schedule:
+    - cron: "30 15 * * *"   # 매일 KST 00:30 (UTC 15:30) — 전날 밤 경기 반영
+    - cron: "0 0 * * *"     # 매일 KST 09:00 (UTC 00:00) — 연맹의 늦은 정정 반영
+  workflow_dispatch:         # Actions 화면의 'Run workflow' 버튼으로 수동 실행
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 프로그램 설치
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: 수집 (리그별 독립 실행)
+        id: collect
+        continue-on-error: true
+        env:
+          TZ: Asia/Seoul
+        run: python -m scrapers.run_all
+
+      - name: 화면 데이터 만들기
+        run: python scripts/build_summary.py
+
+      - name: 변경된 데이터 저장(커밋)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data site/data
+          if git diff --cached --quiet; then
+            echo "바뀐 데이터 없음"
+          else
+            git commit -m "data: 자동 수집 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M') KST"
+            git push
+          fi
+
+      - name: 수집 원본 보관 (7일)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ github.run_id }}
+          path: raw/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: 수집 실패 알림
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo "::error::일부 리그 수집에 실패했습니다. '수집 (리그별 독립 실행)' 단계의 기록과 data/status.json 을 확인하세요."
+          exit 1
+
+  deploy:
+    needs: collect
+    if: always()             # 수집이 실패해도 '실패' 상태가 화면에 보이도록 배포는 진행
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

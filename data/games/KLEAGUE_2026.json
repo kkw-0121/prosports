@@ -1,0 +1,4808 @@
+{
+  "league": "KLEAGUE",
+  "season": "2026",
+  "collected_at": "2026-11-27T13:21:51+09:00",
+  "source_url": "https://portal.kleague.com/mainFrame.do (관중정보)",
+  "games": [
+    {
+      "game_id": "하나은행 K리그1 2026-1",
+      "date": "2026-02-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "서울",
+      "venue": "인천 전용",
+      "attendance": 18108
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-2",
+      "date": "2026-02-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "강원",
+      "venue": "울산 문수",
+      "attendance": 11036
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-3",
+      "date": "2026-02-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "포항",
+      "venue": "김천 종합",
+      "attendance": 4377
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-1",
+      "date": "2026-02-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "안산",
+      "venue": "김해 종합",
+      "attendance": 7407
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-2",
+      "date": "2026-02-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "서울E",
+      "venue": "수원 월드컵",
+      "attendance": 24071
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-4",
+      "date": "2026-03-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "부천",
+      "venue": "전주 월드컵",
+      "attendance": 20681
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-5",
+      "date": "2026-03-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "광주",
+      "venue": "제주 월드컵",
+      "attendance": 8891
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-3",
+      "date": "2026-03-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "천안",
+      "venue": "용인 미르",
+      "attendance": 10220
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-4",
+      "date": "2026-03-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "화성",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12005
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-5",
+      "date": "2026-03-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "수원FC",
+      "venue": "청주 종합",
+      "attendance": 3792
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-6",
+      "date": "2026-03-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "전남",
+      "venue": "창원 축구센터",
+      "attendance": 10081
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-6",
+      "date": "2026-03-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "안양",
+      "venue": "대전 월드컵",
+      "attendance": 14787
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-7",
+      "date": "2026-03-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "파주",
+      "venue": "아산 이순신",
+      "attendance": 4546
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-8",
+      "date": "2026-03-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "성남",
+      "venue": "부산 구덕",
+      "attendance": 2643
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-10",
+      "date": "2026-03-07",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "대전",
+      "venue": "부천 종합",
+      "attendance": 10224
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-9",
+      "date": "2026-03-07",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "인천",
+      "venue": "광주 월드컵",
+      "attendance": 7574
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-10",
+      "date": "2026-03-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "수원",
+      "venue": "파주 스타디움",
+      "attendance": 12203
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-11",
+      "date": "2026-03-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "전남",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9733
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-12",
+      "date": "2026-03-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "용인",
+      "venue": "수원 종합",
+      "attendance": 5040
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-9",
+      "date": "2026-03-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "경남",
+      "venue": "목동 종합",
+      "attendance": 5170
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-11",
+      "date": "2026-03-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "전북",
+      "venue": "김천 종합",
+      "attendance": 3323
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-12",
+      "date": "2026-03-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "제주",
+      "venue": "안양 종합",
+      "attendance": 10021
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-13",
+      "date": "2026-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "부산",
+      "venue": "안산 와스타디움",
+      "attendance": 3375
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-14",
+      "date": "2026-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "충북청주",
+      "venue": "탄천 종합",
+      "attendance": 3100
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-15",
+      "date": "2026-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "김포",
+      "venue": "천안 종합",
+      "attendance": 5830
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-16",
+      "date": "2026-03-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "김해",
+      "venue": "화성 종합",
+      "attendance": 3304
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-13",
+      "date": "2026-03-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "전북",
+      "venue": "광주 월드컵",
+      "attendance": 7006
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-14",
+      "date": "2026-03-14",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "김천",
+      "venue": "대전 월드컵",
+      "attendance": 6494
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-17",
+      "date": "2026-03-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "수원FC",
+      "venue": "김해 종합",
+      "attendance": 3247
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-18",
+      "date": "2026-03-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "부산",
+      "venue": "목동 종합",
+      "attendance": 2702
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-19",
+      "date": "2026-03-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "전남",
+      "venue": "수원 월드컵",
+      "attendance": 17569
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-20",
+      "date": "2026-03-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "김포",
+      "venue": "용인 미르",
+      "attendance": 2674
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-21",
+      "date": "2026-03-14",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "충북청주",
+      "venue": "창원 축구센터",
+      "attendance": 2007
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-15",
+      "date": "2026-03-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "울산",
+      "venue": "부천 종합",
+      "attendance": 8558
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-16",
+      "date": "2026-03-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "서울",
+      "venue": "제주 월드컵",
+      "attendance": 7518
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-17",
+      "date": "2026-03-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "안양",
+      "venue": "강릉하이원아레나",
+      "attendance": 6087
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-18",
+      "date": "2026-03-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "인천",
+      "venue": "포항 스틸야드",
+      "attendance": 10510
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-22",
+      "date": "2026-03-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "대구",
+      "venue": "아산 이순신",
+      "attendance": 4864
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-23",
+      "date": "2026-03-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "파주",
+      "venue": "안산 와스타디움",
+      "attendance": 1908
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-24",
+      "date": "2026-03-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "천안",
+      "venue": "화성 종합",
+      "attendance": 1639
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-19",
+      "date": "2026-03-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "광주",
+      "venue": "김천 종합",
+      "attendance": 1044
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-20",
+      "date": "2026-03-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "강원",
+      "venue": "부천 종합",
+      "attendance": 3132
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-21",
+      "date": "2026-03-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "대전",
+      "venue": "인천 전용",
+      "attendance": 6360
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-22",
+      "date": "2026-03-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "울산",
+      "venue": "제주 월드컵",
+      "attendance": 2832
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-23",
+      "date": "2026-03-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "안양",
+      "venue": "전주 월드컵",
+      "attendance": 6650
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-24",
+      "date": "2026-03-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "서울",
+      "venue": "포항 스틸야드",
+      "attendance": 4177
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-25",
+      "date": "2026-03-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "전북",
+      "venue": "대전 월드컵",
+      "attendance": 12550
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-25",
+      "date": "2026-03-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "충남아산",
+      "venue": "탄천 종합",
+      "attendance": 2135
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-26",
+      "date": "2026-03-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "전남",
+      "venue": "파주 스타디움",
+      "attendance": 2925
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-27",
+      "date": "2026-03-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "수원",
+      "venue": "김해 종합",
+      "attendance": 9431
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-28",
+      "date": "2026-03-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "서울E",
+      "venue": "천안 종합",
+      "attendance": 2022
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-29",
+      "date": "2026-03-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "안산",
+      "venue": "청주 종합",
+      "attendance": 1792
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-26",
+      "date": "2026-03-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "광주",
+      "venue": "서울 월드컵",
+      "attendance": 24122
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-27",
+      "date": "2026-03-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "김천",
+      "venue": "울산 문수",
+      "attendance": 11655
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-28",
+      "date": "2026-03-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "인천",
+      "venue": "안양 종합",
+      "attendance": 9391
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-29",
+      "date": "2026-03-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "제주",
+      "venue": "강릉하이원아레나",
+      "attendance": 5377
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-30",
+      "date": "2026-03-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "부천",
+      "venue": "포항 스틸야드",
+      "attendance": 8012
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-30",
+      "date": "2026-03-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "용인",
+      "venue": "화성 종합",
+      "attendance": 2520
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-31",
+      "date": "2026-03-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "대구",
+      "venue": "부산 구덕",
+      "attendance": 5833
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-32",
+      "date": "2026-03-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "김포",
+      "venue": "창원 축구센터",
+      "attendance": 2008
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-7",
+      "date": "2026-03-28",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "강원",
+      "venue": "포항 스틸야드",
+      "attendance": 7385
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-33",
+      "date": "2026-03-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "수원",
+      "venue": "용인 미르",
+      "attendance": 10619
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-34",
+      "date": "2026-03-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "화성",
+      "venue": "아산 이순신",
+      "attendance": 2083
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-35",
+      "date": "2026-03-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "김포",
+      "venue": "탄천 종합",
+      "attendance": 2277
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-36",
+      "date": "2026-03-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "전남",
+      "venue": "천안 종합",
+      "attendance": 2013
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-37",
+      "date": "2026-03-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "경남",
+      "venue": "안산 와스타디움",
+      "attendance": 2040
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-38",
+      "date": "2026-03-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "부산",
+      "venue": "청주 종합",
+      "attendance": 1802
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-39",
+      "date": "2026-03-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "파주",
+      "venue": "수원 종합",
+      "attendance": 2621
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-40",
+      "date": "2026-03-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "서울E",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 10543
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-31",
+      "date": "2026-04-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "부천",
+      "venue": "제주 월드컵",
+      "attendance": 5035
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-32",
+      "date": "2026-04-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "울산",
+      "venue": "전주 월드컵",
+      "attendance": 20532
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-33",
+      "date": "2026-04-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "대전",
+      "venue": "포항 스틸야드",
+      "attendance": 7625
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-34",
+      "date": "2026-04-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "광주",
+      "venue": "강릉하이원아레나",
+      "attendance": 4448
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-41",
+      "date": "2026-04-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "전남",
+      "venue": "용인 미르",
+      "attendance": 2106
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-42",
+      "date": "2026-04-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "수원FC",
+      "venue": "목동 종합",
+      "attendance": 3113
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-43",
+      "date": "2026-04-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "성남",
+      "venue": "화성 종합",
+      "attendance": 2209
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-44",
+      "date": "2026-04-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "부산",
+      "venue": "창원 축구센터",
+      "attendance": 2573
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-35",
+      "date": "2026-04-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "서울",
+      "venue": "안양 종합",
+      "attendance": 11542
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-36",
+      "date": "2026-04-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "김천",
+      "venue": "인천 전용",
+      "attendance": 8239
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-45",
+      "date": "2026-04-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "김포",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9182
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-46",
+      "date": "2026-04-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "충북청주",
+      "venue": "수원 월드컵",
+      "attendance": 15918
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-47",
+      "date": "2026-04-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "김해",
+      "venue": "파주 스타디움",
+      "attendance": 2794
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-48",
+      "date": "2026-04-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "충남아산",
+      "venue": "안산 와스타디움",
+      "attendance": 1987
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-37",
+      "date": "2026-04-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "제주",
+      "venue": "포항 스틸야드",
+      "attendance": 7827
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-38",
+      "date": "2026-04-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "전북",
+      "venue": "서울 월드컵",
+      "attendance": 34068
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-39",
+      "date": "2026-04-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "부천",
+      "venue": "광주 월드컵",
+      "attendance": 2842
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-40",
+      "date": "2026-04-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "울산",
+      "venue": "인천 전용",
+      "attendance": 11358
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-49",
+      "date": "2026-04-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "용인",
+      "venue": "부산 구덕",
+      "attendance": 2819
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-50",
+      "date": "2026-04-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "대구",
+      "venue": "수원 종합",
+      "attendance": 3016
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-51",
+      "date": "2026-04-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "서울E",
+      "venue": "파주 스타디움",
+      "attendance": 3028
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-52",
+      "date": "2026-04-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "전남",
+      "venue": "화성 종합",
+      "attendance": 2042
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-41",
+      "date": "2026-04-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "강원",
+      "venue": "대전 월드컵",
+      "attendance": 7082
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-42",
+      "date": "2026-04-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "안양",
+      "venue": "김천 종합",
+      "attendance": 1832
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-53",
+      "date": "2026-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "김포",
+      "venue": "수원 월드컵",
+      "attendance": 14030
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-54",
+      "date": "2026-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "충북청주",
+      "venue": "천안 종합",
+      "attendance": 1962
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-55",
+      "date": "2026-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "안산",
+      "venue": "탄천 종합",
+      "attendance": 3176
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-56",
+      "date": "2026-04-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "김해",
+      "venue": "아산 이순신",
+      "attendance": 2096
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-8",
+      "date": "2026-04-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "서울",
+      "venue": "울산 문수",
+      "attendance": 6567
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-43",
+      "date": "2026-04-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "전북",
+      "venue": "강릉하이원아레나",
+      "attendance": 7725
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-44",
+      "date": "2026-04-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "대전",
+      "venue": "서울 월드컵",
+      "attendance": 22503
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-45",
+      "date": "2026-04-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "김천",
+      "venue": "제주 월드컵",
+      "attendance": 2937
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-46",
+      "date": "2026-04-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "인천",
+      "venue": "부천 종합",
+      "attendance": 9314
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-57",
+      "date": "2026-04-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "수원FC",
+      "venue": "부산 구덕",
+      "attendance": 3332
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-58",
+      "date": "2026-04-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "수원",
+      "venue": "창원 축구센터",
+      "attendance": 7023
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-59",
+      "date": "2026-04-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "천안",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 8451
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-60",
+      "date": "2026-04-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "김해",
+      "venue": "청주 종합",
+      "attendance": 1887
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-47",
+      "date": "2026-04-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "광주",
+      "venue": "울산 문수",
+      "attendance": 8962
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-48",
+      "date": "2026-04-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "안양",
+      "venue": "포항 스틸야드",
+      "attendance": 8403
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-61",
+      "date": "2026-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "서울E",
+      "venue": "안산 와스타디움",
+      "attendance": 2403
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-62",
+      "date": "2026-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "파주",
+      "venue": "탄천 종합",
+      "attendance": 2329
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-63",
+      "date": "2026-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "김포",
+      "venue": "화성 종합",
+      "attendance": 2275
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-64",
+      "date": "2026-04-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "전남",
+      "venue": "아산 이순신",
+      "attendance": 1605
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-49",
+      "date": "2026-04-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "강원",
+      "venue": "김천 종합",
+      "attendance": 1125
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-50",
+      "date": "2026-04-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "부천",
+      "venue": "서울 월드컵",
+      "attendance": 10257
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-51",
+      "date": "2026-04-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "인천",
+      "venue": "전주 월드컵",
+      "attendance": 8074
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-52",
+      "date": "2026-04-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "제주",
+      "venue": "대전 월드컵",
+      "attendance": 2908
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-53",
+      "date": "2026-04-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "울산",
+      "venue": "안양 종합",
+      "attendance": 5076
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-54",
+      "date": "2026-04-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "광주",
+      "venue": "포항 스틸야드",
+      "attendance": 4533
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-55",
+      "date": "2026-04-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "서울",
+      "venue": "강릉하이원아레나",
+      "attendance": 8259
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-56",
+      "date": "2026-04-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "제주",
+      "venue": "인천 전용",
+      "attendance": 8371
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-57",
+      "date": "2026-04-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "김천",
+      "venue": "부천 종합",
+      "attendance": 5119
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-65",
+      "date": "2026-04-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "부산",
+      "venue": "수원 월드컵",
+      "attendance": 16092
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-66",
+      "date": "2026-04-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "경남",
+      "venue": "파주 스타디움",
+      "attendance": 2307
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-67",
+      "date": "2026-04-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "성남",
+      "venue": "천안 종합",
+      "attendance": 2228
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-68",
+      "date": "2026-04-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "전남",
+      "venue": "안산 와스타디움",
+      "attendance": 1982
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-58",
+      "date": "2026-04-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "포항",
+      "venue": "전주 월드컵",
+      "attendance": 14501
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-59",
+      "date": "2026-04-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "안양",
+      "venue": "광주 월드컵",
+      "attendance": 2667
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-60",
+      "date": "2026-04-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "대전",
+      "venue": "울산 문수",
+      "attendance": 14618
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-69",
+      "date": "2026-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "김포",
+      "venue": "수원 종합",
+      "attendance": 2127
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-70",
+      "date": "2026-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "화성",
+      "venue": "목동 종합",
+      "attendance": 4206
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-71",
+      "date": "2026-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "충남아산",
+      "venue": "청주 종합",
+      "attendance": 2013
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-72",
+      "date": "2026-04-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "김해",
+      "venue": "용인 미르",
+      "attendance": 3006
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-61",
+      "date": "2026-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "김천",
+      "venue": "서울 월드컵",
+      "attendance": 22337
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-62",
+      "date": "2026-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "포항",
+      "venue": "울산 문수",
+      "attendance": 16413
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-63",
+      "date": "2026-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "강원",
+      "venue": "인천 전용",
+      "attendance": 11404
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-64",
+      "date": "2026-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "전북",
+      "venue": "제주 월드컵",
+      "attendance": 8568
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-65",
+      "date": "2026-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "부천",
+      "venue": "안양 종합",
+      "attendance": 7664
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-66",
+      "date": "2026-05-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "대전",
+      "venue": "광주 월드컵",
+      "attendance": 3186
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-73",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "경남",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 8706
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-74",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "안산",
+      "venue": "화성 종합",
+      "attendance": 2072
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-75",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "김포",
+      "venue": "목동 종합",
+      "attendance": 3083
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-76",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "충남아산",
+      "venue": "천안 종합",
+      "attendance": 1967
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-77",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "충북청주",
+      "venue": "파주 스타디움",
+      "attendance": 2218
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-78",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "부산",
+      "venue": "김해 종합",
+      "attendance": 1930
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-79",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "성남",
+      "venue": "용인 미르",
+      "attendance": 3200
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-80",
+      "date": "2026-05-03",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "수원",
+      "venue": "수원 종합",
+      "attendance": 9312
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-67",
+      "date": "2026-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "광주",
+      "venue": "전주 월드컵",
+      "attendance": 20364
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-68",
+      "date": "2026-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "제주",
+      "venue": "부천 종합",
+      "attendance": 8183
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-69",
+      "date": "2026-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "울산",
+      "venue": "김천 종합",
+      "attendance": 3603
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-70",
+      "date": "2026-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "인천",
+      "venue": "대전 월드컵",
+      "attendance": 11670
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-71",
+      "date": "2026-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "포항",
+      "venue": "강릉하이원아레나",
+      "attendance": 8422
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-72",
+      "date": "2026-05-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "안양",
+      "venue": "서울 월드컵",
+      "attendance": 35729
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-73",
+      "date": "2026-05-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "서울",
+      "venue": "제주 월드컵",
+      "attendance": 6051
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-74",
+      "date": "2026-05-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "인천",
+      "venue": "김천 종합",
+      "attendance": 2218
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-75",
+      "date": "2026-05-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "강원",
+      "venue": "광주 월드컵",
+      "attendance": 6013
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-76",
+      "date": "2026-05-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "포항",
+      "venue": "대전 월드컵",
+      "attendance": 7605
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-81",
+      "date": "2026-05-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "서울E",
+      "venue": "아산 이순신",
+      "attendance": 1839
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-82",
+      "date": "2026-05-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "수원FC",
+      "venue": "화성 종합",
+      "attendance": 3423
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-83",
+      "date": "2026-05-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "대구",
+      "venue": "수원 월드컵",
+      "attendance": 18693
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-84",
+      "date": "2026-05-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "김포",
+      "venue": "청주 종합",
+      "attendance": 4130
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-77",
+      "date": "2026-05-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "부천",
+      "venue": "울산 문수",
+      "attendance": 14931
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-78",
+      "date": "2026-05-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "전북",
+      "venue": "안양 종합",
+      "attendance": 10026
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-85",
+      "date": "2026-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "전남",
+      "venue": "탄천 종합",
+      "attendance": 2401
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-86",
+      "date": "2026-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "용인",
+      "venue": "안산 와스타디움",
+      "attendance": 2001
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-87",
+      "date": "2026-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "천안",
+      "venue": "부산 구덕",
+      "attendance": 3386
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-88",
+      "date": "2026-05-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "김해",
+      "venue": "창원 축구센터",
+      "attendance": 2695
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-79",
+      "date": "2026-05-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "대전",
+      "venue": "강릉하이원아레나",
+      "attendance": 4618
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-80",
+      "date": "2026-05-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "서울",
+      "venue": "광주 월드컵",
+      "attendance": 1942
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-81",
+      "date": "2026-05-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "포항",
+      "venue": "인천 전용",
+      "attendance": 6620
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-82",
+      "date": "2026-05-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "제주",
+      "venue": "울산 문수",
+      "attendance": 5087
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-83",
+      "date": "2026-05-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "김천",
+      "venue": "안양 종합",
+      "attendance": 4509
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-84",
+      "date": "2026-05-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "전북",
+      "venue": "부천 종합",
+      "attendance": 6066
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-85",
+      "date": "2026-05-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "서울",
+      "venue": "대전 월드컵",
+      "attendance": 11687
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-86",
+      "date": "2026-05-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "광주",
+      "venue": "인천 전용",
+      "attendance": 11128
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-89",
+      "date": "2026-05-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "용인",
+      "venue": "목동 종합",
+      "attendance": 2760
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-90",
+      "date": "2026-05-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "충북청주",
+      "venue": "광양 전용",
+      "attendance": 8493
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-91",
+      "date": "2026-05-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "파주",
+      "venue": "천안 종합",
+      "attendance": 2526
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-92",
+      "date": "2026-05-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "김포",
+      "venue": "안산 와스타디움",
+      "attendance": 2038
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-87",
+      "date": "2026-05-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "김천",
+      "venue": "전주 월드컵",
+      "attendance": 31447
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-88",
+      "date": "2026-05-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "안양",
+      "venue": "제주 월드컵",
+      "attendance": 6039
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-89",
+      "date": "2026-05-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "울산",
+      "venue": "강릉하이원아레나",
+      "attendance": 8327
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-90",
+      "date": "2026-05-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "포항",
+      "venue": "부천 종합",
+      "attendance": 6421
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-93",
+      "date": "2026-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "경남",
+      "venue": "탄천 종합",
+      "attendance": 2737
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-94",
+      "date": "2026-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "대구",
+      "venue": "김해 종합",
+      "attendance": 3525
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-95",
+      "date": "2026-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "부산",
+      "venue": "화성 종합",
+      "attendance": 2765
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-96",
+      "date": "2026-05-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "수원FC",
+      "venue": "아산 이순신",
+      "attendance": 2341
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-97",
+      "date": "2026-05-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "김해",
+      "venue": "광양 전용",
+      "attendance": 4736
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-98",
+      "date": "2026-05-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "수원FC",
+      "venue": "창원 축구센터",
+      "attendance": 2449
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-99",
+      "date": "2026-05-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "화성",
+      "venue": "청주 종합",
+      "attendance": 2504
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-100",
+      "date": "2026-05-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "충남아산",
+      "venue": "용인 미르",
+      "attendance": 3319
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-101",
+      "date": "2026-05-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "안산",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 11092
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-102",
+      "date": "2026-05-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "성남",
+      "venue": "목동 종합",
+      "attendance": 4163
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-103",
+      "date": "2026-05-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "천안",
+      "venue": "수원 월드컵",
+      "attendance": 16193
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-104",
+      "date": "2026-05-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "김포",
+      "venue": "파주 스타디움",
+      "attendance": 3743
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-105",
+      "date": "2026-05-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "파주",
+      "venue": "부산 구덕",
+      "attendance": 3806
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-106",
+      "date": "2026-05-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "수원",
+      "venue": "아산 이순신",
+      "attendance": 8546
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-107",
+      "date": "2026-05-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "대구",
+      "venue": "용인 미르",
+      "attendance": 3826
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-108",
+      "date": "2026-05-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "김포",
+      "venue": "김해 종합",
+      "attendance": 1392
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-109",
+      "date": "2026-05-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "성남",
+      "venue": "수원 종합",
+      "attendance": 3052
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-110",
+      "date": "2026-05-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "경남",
+      "venue": "화성 종합",
+      "attendance": 3045
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-111",
+      "date": "2026-05-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "서울E",
+      "venue": "광양 전용",
+      "attendance": 7623
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-112",
+      "date": "2026-05-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "천안",
+      "venue": "안산 와스타디움",
+      "attendance": 2132
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-113",
+      "date": "2026-06-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "파주",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9693
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-114",
+      "date": "2026-06-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "충남아산",
+      "venue": "부산 구덕",
+      "attendance": 3528
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-115",
+      "date": "2026-06-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "김해",
+      "venue": "탄천 종합",
+      "attendance": 2160
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-116",
+      "date": "2026-06-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "용인",
+      "venue": "창원 축구센터",
+      "attendance": 2539
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-117",
+      "date": "2026-06-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "수원",
+      "venue": "화성 종합",
+      "attendance": 15231
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-118",
+      "date": "2026-06-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "수원FC",
+      "venue": "천안 종합",
+      "attendance": 2345
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-119",
+      "date": "2026-06-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "충북청주",
+      "venue": "목동 종합",
+      "attendance": 3264
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-120",
+      "date": "2026-06-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "전남",
+      "venue": "김포솔터축구장",
+      "attendance": 5194
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-91",
+      "date": "2026-07-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "강원",
+      "venue": "전주 월드컵",
+      "attendance": 15551
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-92",
+      "date": "2026-07-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "부천",
+      "venue": "대전 월드컵",
+      "attendance": 7736
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-93",
+      "date": "2026-07-04",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "포항",
+      "venue": "안양 종합",
+      "attendance": 8210
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-121",
+      "date": "2026-07-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "대구",
+      "venue": "청주 종합",
+      "attendance": 4279
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-122",
+      "date": "2026-07-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "수원FC",
+      "venue": "안산 와스타디움",
+      "attendance": 5556
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-123",
+      "date": "2026-07-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "용인",
+      "venue": "파주 스타디움",
+      "attendance": 3101
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-124",
+      "date": "2026-07-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "성남",
+      "venue": "수원 월드컵",
+      "attendance": 16775
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-94",
+      "date": "2026-07-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "인천",
+      "venue": "서울 월드컵",
+      "attendance": 22600
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-95",
+      "date": "2026-07-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "제주",
+      "venue": "김천 종합",
+      "attendance": 1284
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-96",
+      "date": "2026-07-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "울산",
+      "venue": "광주 월드컵",
+      "attendance": 3516
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-125",
+      "date": "2026-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "서울E",
+      "venue": "김해 종합",
+      "attendance": 2160
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-126",
+      "date": "2026-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "충남아산",
+      "venue": "김포솔터축구장",
+      "attendance": 2083
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-127",
+      "date": "2026-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "천안",
+      "venue": "창원 축구센터",
+      "attendance": 1664
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-128",
+      "date": "2026-07-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "부산",
+      "venue": "광양 전용",
+      "attendance": 1883
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-129",
+      "date": "2026-07-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "전남",
+      "venue": "수원 종합",
+      "attendance": 1494
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-130",
+      "date": "2026-07-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "김해",
+      "venue": "천안 종합",
+      "attendance": 1560
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-97",
+      "date": "2026-07-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "전북",
+      "venue": "울산 문수",
+      "attendance": 20173
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-98",
+      "date": "2026-07-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "부천",
+      "venue": "김천 종합",
+      "attendance": 1467
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-99",
+      "date": "2026-07-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "포항",
+      "venue": "광주 월드컵",
+      "attendance": 3633
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-131",
+      "date": "2026-07-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "수원",
+      "venue": "안산 와스타디움",
+      "attendance": 9952
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-132",
+      "date": "2026-07-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "성남",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 10294
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-133",
+      "date": "2026-07-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "파주",
+      "venue": "화성 종합",
+      "attendance": 3037
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-134",
+      "date": "2026-07-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "충북청주",
+      "venue": "용인 미르",
+      "attendance": 3121
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-100",
+      "date": "2026-07-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "대전",
+      "venue": "제주 월드컵",
+      "attendance": 4028
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-101",
+      "date": "2026-07-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "안양",
+      "venue": "인천 전용",
+      "attendance": 10616
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-102",
+      "date": "2026-07-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "강원",
+      "venue": "서울 월드컵",
+      "attendance": 17872
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-135",
+      "date": "2026-07-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "경남",
+      "venue": "아산 이순신",
+      "attendance": 2212
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-136",
+      "date": "2026-07-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "김포",
+      "venue": "부산 구덕",
+      "attendance": 3012
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-103",
+      "date": "2026-07-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "울산",
+      "venue": "대전 월드컵",
+      "attendance": 7165
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-104",
+      "date": "2026-07-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "김천",
+      "venue": "강릉하이원아레나",
+      "attendance": 5810
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-105",
+      "date": "2026-07-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "전북",
+      "venue": "인천 전용",
+      "attendance": 12984
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-106",
+      "date": "2026-07-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "포항",
+      "venue": "제주 월드컵",
+      "attendance": 4225
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-137",
+      "date": "2026-07-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "충남아산",
+      "venue": "광양 전용",
+      "attendance": 4413
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-138",
+      "date": "2026-07-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "대구",
+      "venue": "김포솔터축구장",
+      "attendance": 3509
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-139",
+      "date": "2026-07-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "서울E",
+      "venue": "수원 종합",
+      "attendance": 2008
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-140",
+      "date": "2026-07-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "부산",
+      "venue": "탄천 종합",
+      "attendance": 2302
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-107",
+      "date": "2026-07-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "광주",
+      "venue": "안양 종합",
+      "attendance": 5937
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-108",
+      "date": "2026-07-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "서울",
+      "venue": "부천 종합",
+      "attendance": 9218
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-141",
+      "date": "2026-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "안산",
+      "venue": "창원 축구센터",
+      "attendance": 2041
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-142",
+      "date": "2026-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "파주",
+      "venue": "수원 월드컵",
+      "attendance": 11098
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-143",
+      "date": "2026-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "천안",
+      "venue": "청주 종합",
+      "attendance": 1152
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-144",
+      "date": "2026-07-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "화성",
+      "venue": "용인 미르",
+      "attendance": 2731
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-109",
+      "date": "2026-07-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "강원",
+      "venue": "제주 월드컵",
+      "attendance": 3107
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-110",
+      "date": "2026-07-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "인천",
+      "venue": "울산 문수",
+      "attendance": 5083
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-111",
+      "date": "2026-07-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "대전",
+      "venue": "전주 월드컵",
+      "attendance": 10258
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-112",
+      "date": "2026-07-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "안양",
+      "venue": "부천 종합",
+      "attendance": 3531
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-113",
+      "date": "2026-07-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "김천",
+      "venue": "광주 월드컵",
+      "attendance": 1385
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-114",
+      "date": "2026-07-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "포항",
+      "venue": "서울 월드컵",
+      "attendance": 11139
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-145",
+      "date": "2026-07-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "천안",
+      "venue": "목동 종합",
+      "attendance": 2263
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-146",
+      "date": "2026-07-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "충북청주",
+      "venue": "김해 종합",
+      "attendance": 1017
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-115",
+      "date": "2026-07-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "전북",
+      "venue": "포항 스틸야드",
+      "attendance": 13147
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-116",
+      "date": "2026-07-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "대전",
+      "venue": "김천 종합",
+      "attendance": 2035
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-147",
+      "date": "2026-07-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "수원",
+      "venue": "부산 구덕",
+      "attendance": 10193
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-148",
+      "date": "2026-07-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "수원FC",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9625
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-149",
+      "date": "2026-07-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "경남",
+      "venue": "광양 전용",
+      "attendance": 4043
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-150",
+      "date": "2026-07-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "충남아산",
+      "venue": "화성 종합",
+      "attendance": 2538
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-117",
+      "date": "2026-07-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "강원",
+      "venue": "안양 종합",
+      "attendance": 5461
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-118",
+      "date": "2026-07-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "제주",
+      "venue": "광주 월드컵",
+      "attendance": 1999
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-119",
+      "date": "2026-07-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "부천",
+      "venue": "인천 전용",
+      "attendance": 8623
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-120",
+      "date": "2026-07-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "울산",
+      "venue": "서울 월드컵",
+      "attendance": 24343
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-151",
+      "date": "2026-07-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "용인",
+      "venue": "김포솔터축구장",
+      "attendance": 1764
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-152",
+      "date": "2026-07-26",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "안산",
+      "venue": "파주 스타디움",
+      "attendance": 3022
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-121",
+      "date": "2026-08-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "부천",
+      "venue": "강릉하이원아레나",
+      "attendance": 6311
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-122",
+      "date": "2026-08-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "서울",
+      "venue": "전주 월드컵",
+      "attendance": 23081
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-123",
+      "date": "2026-08-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "김천",
+      "venue": "포항 스틸야드",
+      "attendance": 5316
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-153",
+      "date": "2026-08-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "성남",
+      "venue": "아산 이순신",
+      "attendance": 2375
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-154",
+      "date": "2026-08-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "용인",
+      "venue": "천안 종합",
+      "attendance": 1709
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-155",
+      "date": "2026-08-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "수원",
+      "venue": "청주 종합",
+      "attendance": 6089
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-156",
+      "date": "2026-08-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "대구",
+      "venue": "화성 종합",
+      "attendance": 3777
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-124",
+      "date": "2026-08-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "안양",
+      "venue": "울산 문수",
+      "attendance": 8072
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-125",
+      "date": "2026-08-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "광주",
+      "venue": "대전 월드컵",
+      "attendance": 4762
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-126",
+      "date": "2026-08-02",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "인천",
+      "venue": "제주 월드컵",
+      "attendance": 4280
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-157",
+      "date": "2026-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "서울E",
+      "venue": "부산 구덕",
+      "attendance": 2339
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-158",
+      "date": "2026-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "경남",
+      "venue": "김포솔터축구장",
+      "attendance": 1348
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-159",
+      "date": "2026-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "파주",
+      "venue": "광양 전용",
+      "attendance": 2725
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-160",
+      "date": "2026-08-02",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "김해",
+      "venue": "안산 와스타디움",
+      "attendance": 2230
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-161",
+      "date": "2026-08-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "안산",
+      "venue": "아산 이순신",
+      "attendance": 1658
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-162",
+      "date": "2026-08-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "충북청주",
+      "venue": "김포솔터축구장",
+      "attendance": 957
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-163",
+      "date": "2026-08-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "대구",
+      "venue": "창원 축구센터",
+      "attendance": 4116
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-164",
+      "date": "2026-08-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "서울E",
+      "venue": "화성 종합",
+      "attendance": 2392
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-165",
+      "date": "2026-08-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "김해",
+      "venue": "수원 월드컵",
+      "attendance": 10040
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-166",
+      "date": "2026-08-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "부산",
+      "venue": "용인 미르",
+      "attendance": 2018
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-127",
+      "date": "2026-08-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "대전",
+      "venue": "안양 종합",
+      "attendance": 6039
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-128",
+      "date": "2026-08-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "광주",
+      "venue": "부천 종합",
+      "attendance": 5187
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-130",
+      "date": "2026-08-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "서울",
+      "venue": "김천 종합",
+      "attendance": 2696
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-131",
+      "date": "2026-08-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "제주",
+      "venue": "전주 월드컵",
+      "attendance": 10246
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-132",
+      "date": "2026-08-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "울산",
+      "venue": "포항 스틸야드",
+      "attendance": 11453
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-167",
+      "date": "2026-08-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "수원FC",
+      "venue": "파주 스타디움",
+      "attendance": 2701
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-168",
+      "date": "2026-08-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "천안",
+      "venue": "탄천 종합",
+      "attendance": 1778
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-133",
+      "date": "2026-08-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "포항",
+      "venue": "광주 월드컵",
+      "attendance": 2452
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-134",
+      "date": "2026-08-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "안양",
+      "venue": "제주 월드컵",
+      "attendance": 3628
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-135",
+      "date": "2026-08-15",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "대전",
+      "venue": "서울 월드컵",
+      "attendance": 21311
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-169",
+      "date": "2026-08-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "전남",
+      "venue": "청주 종합",
+      "attendance": 1478
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-170",
+      "date": "2026-08-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "경남",
+      "venue": "김해 종합",
+      "attendance": 1176
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-171",
+      "date": "2026-08-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "수원FC",
+      "venue": "수원 월드컵",
+      "attendance": 21153
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-172",
+      "date": "2026-08-15",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "화성",
+      "venue": "부산 구덕",
+      "attendance": 3174
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-136",
+      "date": "2026-08-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "김천",
+      "venue": "인천 전용",
+      "attendance": 8013
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-137",
+      "date": "2026-08-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "전북",
+      "venue": "부천 종합",
+      "attendance": 9268
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-138",
+      "date": "2026-08-16",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "강원",
+      "venue": "울산 문수",
+      "attendance": 9350
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-173",
+      "date": "2026-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "안산",
+      "venue": "목동 종합",
+      "attendance": 3510
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-174",
+      "date": "2026-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "충남아산",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 7444
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-175",
+      "date": "2026-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "천안",
+      "venue": "김포솔터축구장",
+      "attendance": 1410
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-176",
+      "date": "2026-08-16",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "성남",
+      "venue": "파주 스타디움",
+      "attendance": 2662
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-139",
+      "date": "2026-08-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "서울",
+      "venue": "안양 종합",
+      "attendance": 8856
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-140",
+      "date": "2026-08-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "울산",
+      "venue": "전주 월드컵",
+      "attendance": 18841
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-141",
+      "date": "2026-08-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "포항",
+      "venue": "부천 종합",
+      "attendance": 4283
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-142",
+      "date": "2026-08-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "김천",
+      "venue": "제주 월드컵",
+      "attendance": 3418
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-177",
+      "date": "2026-08-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "부산",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9774
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-178",
+      "date": "2026-08-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "김해",
+      "venue": "수원 종합",
+      "attendance": 1631
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-179",
+      "date": "2026-08-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "수원",
+      "venue": "천안 종합",
+      "attendance": 13068
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-180",
+      "date": "2026-08-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "성남",
+      "venue": "안산 와스타디움",
+      "attendance": 2210
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-143",
+      "date": "2026-08-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "강원",
+      "venue": "대전 월드컵",
+      "attendance": 4747
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-144",
+      "date": "2026-08-23",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "인천",
+      "venue": "광주 월드컵",
+      "attendance": 1975
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-181",
+      "date": "2026-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "화성",
+      "venue": "광양 전용",
+      "attendance": 4044
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-182",
+      "date": "2026-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "용인",
+      "venue": "아산 이순신",
+      "attendance": 1354
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-183",
+      "date": "2026-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "경남",
+      "venue": "청주 종합",
+      "attendance": 1542
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-184",
+      "date": "2026-08-23",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "파주",
+      "venue": "목동 종합",
+      "attendance": 3980
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-145",
+      "date": "2026-08-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "부천",
+      "venue": "서울 월드컵",
+      "attendance": 11334
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-146",
+      "date": "2026-08-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "전북",
+      "venue": "김천 종합",
+      "attendance": 2684
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-147",
+      "date": "2026-08-25",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "포항",
+      "venue": "제주 월드컵",
+      "attendance": 2538
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-148",
+      "date": "2026-08-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "인천",
+      "venue": "안양 종합",
+      "attendance": 4596
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-149",
+      "date": "2026-08-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "울산",
+      "venue": "대전 월드컵",
+      "attendance": 4077
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-150",
+      "date": "2026-08-26",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "광주",
+      "venue": "강릉하이원아레나",
+      "attendance": 3836
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-185",
+      "date": "2026-08-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "대구",
+      "venue": "안산 와스타디움",
+      "attendance": 2295
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-186",
+      "date": "2026-08-28",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "천안",
+      "venue": "광양 전용",
+      "attendance": 2143
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-151",
+      "date": "2026-08-29",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "김천",
+      "venue": "울산 문수",
+      "attendance": 8546
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-152",
+      "date": "2026-08-29",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "안양",
+      "venue": "부천 종합",
+      "attendance": 7066
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-187",
+      "date": "2026-08-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "수원",
+      "venue": "김포솔터축구장",
+      "attendance": 7525
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-188",
+      "date": "2026-08-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "파주",
+      "venue": "창원 축구센터",
+      "attendance": 2418
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-189",
+      "date": "2026-08-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "화성",
+      "away": "충북청주",
+      "venue": "화성 종합",
+      "attendance": 4318
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-190",
+      "date": "2026-08-29",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "서울E",
+      "venue": "탄천 종합",
+      "attendance": 2639
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-153",
+      "date": "2026-08-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "서울",
+      "venue": "광주 월드컵",
+      "attendance": 1770
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-154",
+      "date": "2026-08-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "전북",
+      "venue": "인천 전용",
+      "attendance": 11056
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-155",
+      "date": "2026-08-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "대전",
+      "venue": "제주 월드컵",
+      "attendance": 2878
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-156",
+      "date": "2026-08-30",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "포항",
+      "venue": "강릉하이원아레나",
+      "attendance": 5172
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-191",
+      "date": "2026-08-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "용인",
+      "venue": "김해 종합",
+      "attendance": 684
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-192",
+      "date": "2026-08-30",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "부산",
+      "venue": "수원 종합",
+      "attendance": 2580
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-193",
+      "date": "2026-09-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "서울E",
+      "venue": "청주 종합",
+      "attendance": 2610
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-194",
+      "date": "2026-09-04",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "대구",
+      "venue": "파주 스타디움",
+      "attendance": 3070
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-157",
+      "date": "2026-09-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "대전",
+      "venue": "부천 종합",
+      "attendance": 5623
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-158",
+      "date": "2026-09-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "인천",
+      "venue": "서울 월드컵",
+      "attendance": 28288
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-159",
+      "date": "2026-09-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "포항",
+      "venue": "전주 월드컵",
+      "attendance": 11716
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-160",
+      "date": "2026-09-05",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "울산",
+      "venue": "제주 월드컵",
+      "attendance": 12037
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-195",
+      "date": "2026-09-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "안산",
+      "venue": "부산 구덕",
+      "attendance": 2664
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-196",
+      "date": "2026-09-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "화성",
+      "venue": "천안 종합",
+      "attendance": 2488
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-197",
+      "date": "2026-09-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "수원FC",
+      "venue": "용인 미르",
+      "attendance": 4038
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-198",
+      "date": "2026-09-05",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "전남",
+      "venue": "김해 종합",
+      "attendance": 1002
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-161",
+      "date": "2026-09-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "강원",
+      "venue": "안양 종합",
+      "attendance": 6044
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-162",
+      "date": "2026-09-06",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "광주",
+      "venue": "김천 종합",
+      "attendance": 1345
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-199",
+      "date": "2026-09-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "충남아산",
+      "venue": "수원 월드컵",
+      "attendance": 13481
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-200",
+      "date": "2026-09-06",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "성남",
+      "venue": "김포솔터축구장",
+      "attendance": 1348
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-163",
+      "date": "2026-09-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "서울",
+      "venue": "울산 문수",
+      "attendance": 7753
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-164",
+      "date": "2026-09-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "부천",
+      "venue": "인천 전용",
+      "attendance": 5794
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-165",
+      "date": "2026-09-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "안양",
+      "venue": "대전 월드컵",
+      "attendance": 2944
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-166",
+      "date": "2026-09-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "전북",
+      "venue": "강릉하이원아레나",
+      "attendance": 5066
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-167",
+      "date": "2026-09-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "제주",
+      "venue": "광주 월드컵",
+      "attendance": 991
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-168",
+      "date": "2026-09-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "김천",
+      "venue": "상주 시민",
+      "attendance": 2207
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-169",
+      "date": "2026-09-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "서울",
+      "venue": "전주 월드컵",
+      "attendance": 18821
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-170",
+      "date": "2026-09-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "인천",
+      "venue": "울산 문수",
+      "attendance": 11167
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-171",
+      "date": "2026-09-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "제주",
+      "venue": "부천 종합",
+      "attendance": 6269
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-172",
+      "date": "2026-09-12",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "포항",
+      "venue": "대전 월드컵",
+      "attendance": 7686
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-201",
+      "date": "2026-09-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "용인",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 9132
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-202",
+      "date": "2026-09-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "수원",
+      "venue": "목동 종합",
+      "attendance": 11077
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-203",
+      "date": "2026-09-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "화성",
+      "venue": "안산 와스타디움",
+      "attendance": 3360
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-204",
+      "date": "2026-09-12",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "충북청주",
+      "venue": "아산 이순신",
+      "attendance": 3679
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-173",
+      "date": "2026-09-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "강원",
+      "venue": "김천 종합",
+      "attendance": 1659
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-174",
+      "date": "2026-09-13",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "안양",
+      "venue": "광주 월드컵",
+      "attendance": 2011
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-205",
+      "date": "2026-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "성남",
+      "venue": "창원 축구센터",
+      "attendance": 2685
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-206",
+      "date": "2026-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "김포",
+      "venue": "광양 전용",
+      "attendance": 3934
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-207",
+      "date": "2026-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "김해",
+      "venue": "부산 구덕",
+      "attendance": 2194
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-208",
+      "date": "2026-09-13",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "천안",
+      "venue": "수원 종합",
+      "attendance": 1755
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-175",
+      "date": "2026-09-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "김천",
+      "venue": "부천 종합",
+      "attendance": 4602
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-176",
+      "date": "2026-09-19",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "울산",
+      "venue": "안양 종합",
+      "attendance": 7477
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-209",
+      "date": "2026-09-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "수원FC",
+      "venue": "광양 전용",
+      "attendance": 4235
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-210",
+      "date": "2026-09-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "천안",
+      "venue": "아산 이순신",
+      "attendance": 3791
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-211",
+      "date": "2026-09-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "대구",
+      "venue": "목동 종합",
+      "attendance": 6105
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-212",
+      "date": "2026-09-19",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "부산",
+      "venue": "김포솔터축구장",
+      "attendance": 1829
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-177",
+      "date": "2026-09-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "제주",
+      "venue": "강릉하이원아레나",
+      "attendance": 5790
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-178",
+      "date": "2026-09-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "광주",
+      "venue": "전주 월드컵",
+      "attendance": 11239
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-179",
+      "date": "2026-09-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "대전",
+      "venue": "인천 전용",
+      "attendance": 9312
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-180",
+      "date": "2026-09-20",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "서울",
+      "venue": "상주 시민",
+      "attendance": 4034
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-213",
+      "date": "2026-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "안산",
+      "away": "충북청주",
+      "venue": "안산 와스타디움",
+      "attendance": 4030
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-214",
+      "date": "2026-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "경남",
+      "venue": "용인 미르",
+      "attendance": 3038
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-215",
+      "date": "2026-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "파주",
+      "venue": "김해 종합",
+      "attendance": 874
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-216",
+      "date": "2026-09-20",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "화성",
+      "venue": "탄천 종합",
+      "attendance": 3065
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-129",
+      "date": "2026-09-27",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "인천",
+      "venue": "강릉하이원아레나",
+      "attendance": 5274
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-181",
+      "date": "2026-10-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "전북",
+      "venue": "대전 월드컵",
+      "attendance": 15420
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-182",
+      "date": "2026-10-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "부천",
+      "venue": "강릉하이원아레나",
+      "attendance": 6398
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-183",
+      "date": "2026-10-09",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "포항",
+      "venue": "인천 전용",
+      "attendance": 12189
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-217",
+      "date": "2026-10-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "화성",
+      "venue": "수원 종합",
+      "attendance": 3558
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-218",
+      "date": "2026-10-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "성남",
+      "venue": "청주 종합",
+      "attendance": 3034
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-219",
+      "date": "2026-10-09",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "서울E",
+      "venue": "김포솔터축구장",
+      "attendance": 2181
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-184",
+      "date": "2026-10-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "제주",
+      "venue": "서울 월드컵",
+      "attendance": 23403
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-185",
+      "date": "2026-10-10",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "안양",
+      "venue": "김천 종합",
+      "attendance": 2363
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-220",
+      "date": "2026-10-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "용인",
+      "venue": "광양 전용",
+      "attendance": 3940
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-221",
+      "date": "2026-10-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "부산",
+      "venue": "파주 스타디움",
+      "attendance": 2763
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-222",
+      "date": "2026-10-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "경남",
+      "venue": "천안 종합",
+      "attendance": 1817
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-223",
+      "date": "2026-10-10",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "충남아산",
+      "venue": "김해 종합",
+      "attendance": 1067
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-186",
+      "date": "2026-10-11",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "울산",
+      "venue": "광주 월드컵",
+      "attendance": 6763
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-224",
+      "date": "2026-10-11",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "안산",
+      "venue": "수원 월드컵",
+      "attendance": 16924
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-188",
+      "date": "2026-10-17",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "부천",
+      "venue": "울산 문수",
+      "attendance": 25017
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-225",
+      "date": "2026-10-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "충북청주",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 8732
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-226",
+      "date": "2026-10-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "수원FC",
+      "venue": "탄천 종합",
+      "attendance": 3720
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-227",
+      "date": "2026-10-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "안산",
+      "venue": "용인 미르",
+      "attendance": 2984
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-228",
+      "date": "2026-10-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "파주",
+      "venue": "김포솔터축구장",
+      "attendance": 1296
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-229",
+      "date": "2026-10-17",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "충남아산",
+      "venue": "창원 축구센터",
+      "attendance": 2225
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-187",
+      "date": "2026-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "김천",
+      "venue": "서울 월드컵",
+      "attendance": 13788
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-189",
+      "date": "2026-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "광주",
+      "venue": "대전 월드컵",
+      "attendance": 6695
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-190",
+      "date": "2026-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "제주",
+      "venue": "전주 월드컵",
+      "attendance": 11469
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-191",
+      "date": "2026-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "인천",
+      "venue": "강릉하이원아레나",
+      "attendance": 5558
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-192",
+      "date": "2026-10-18",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "안양",
+      "venue": "포항 스틸야드",
+      "attendance": 9212
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-230",
+      "date": "2026-10-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "화성",
+      "venue": "수원 월드컵",
+      "attendance": 13029
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-231",
+      "date": "2026-10-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "김해",
+      "venue": "목동 종합",
+      "attendance": 2904
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-232",
+      "date": "2026-10-18",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "전남",
+      "venue": "부산 구덕",
+      "attendance": 2164
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-193",
+      "date": "2026-10-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "포항",
+      "venue": "울산 문수",
+      "attendance": 15228
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-194",
+      "date": "2026-10-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "전북",
+      "venue": "안양 종합",
+      "attendance": 9126
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-195",
+      "date": "2026-10-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "광주",
+      "venue": "부천 종합",
+      "attendance": 6076
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-196",
+      "date": "2026-10-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "대전",
+      "venue": "김천 종합",
+      "attendance": 1614
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-197",
+      "date": "2026-10-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "제주",
+      "venue": "인천 전용",
+      "attendance": 11541
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-198",
+      "date": "2026-10-24",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "강원",
+      "venue": "서울 월드컵",
+      "attendance": 30022
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-233",
+      "date": "2026-10-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "대구",
+      "venue": "순천 팔마",
+      "attendance": 4507
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-234",
+      "date": "2026-10-24",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "김해",
+      "venue": "김포솔터축구장",
+      "attendance": 1041
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-235",
+      "date": "2026-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "수원",
+      "venue": "탄천 종합",
+      "attendance": 9726
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-236",
+      "date": "2026-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "충남아산",
+      "venue": "수원 종합",
+      "attendance": 2500
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-237",
+      "date": "2026-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "경남",
+      "venue": "부산 구덕",
+      "attendance": 1758
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-238",
+      "date": "2026-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "안산",
+      "venue": "천안 종합",
+      "attendance": 2504
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-239",
+      "date": "2026-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "용인",
+      "venue": "청주 종합",
+      "attendance": 2637
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-240",
+      "date": "2026-10-25",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "화성",
+      "venue": "파주 스타디움",
+      "attendance": 2585
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-199",
+      "date": "2026-10-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "대전",
+      "venue": "전주 월드컵",
+      "attendance": 7654
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-200",
+      "date": "2026-10-31",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "김천",
+      "venue": "광주 월드컵",
+      "attendance": 1813
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-241",
+      "date": "2026-10-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "경남",
+      "away": "화성",
+      "venue": "창원 축구센터",
+      "attendance": 2008
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-242",
+      "date": "2026-10-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "용인",
+      "away": "서울E",
+      "venue": "용인 미르",
+      "attendance": 3712
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-243",
+      "date": "2026-10-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충남아산",
+      "away": "김포",
+      "venue": "아산 이순신",
+      "attendance": 2720
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-244",
+      "date": "2026-10-31",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "수원",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 12230
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-201",
+      "date": "2026-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "제주",
+      "venue": "포항 스틸야드",
+      "attendance": 3911
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-202",
+      "date": "2026-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "울산",
+      "away": "강원",
+      "venue": "울산 문수",
+      "attendance": 7038
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-203",
+      "date": "2026-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "인천",
+      "venue": "서울 월드컵",
+      "attendance": 12050
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-204",
+      "date": "2026-11-01",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "안양",
+      "away": "부천",
+      "venue": "안양 종합",
+      "attendance": 4464
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-245",
+      "date": "2026-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "안산",
+      "venue": "수원 종합",
+      "attendance": 1682
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-246",
+      "date": "2026-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "성남",
+      "venue": "광양 전용",
+      "attendance": 2981
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-247",
+      "date": "2026-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "충북청주",
+      "away": "파주",
+      "venue": "청주 종합",
+      "attendance": 2734
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-248",
+      "date": "2026-11-01",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "천안",
+      "venue": "김해 종합",
+      "attendance": 3582
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-205",
+      "date": "2026-11-07",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "제주",
+      "away": "광주",
+      "venue": "제주 월드컵",
+      "attendance": 3039
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-206",
+      "date": "2026-11-07",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "안양",
+      "venue": "김천 종합",
+      "attendance": 1125
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-249",
+      "date": "2026-11-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "대구",
+      "venue": "탄천 종합",
+      "attendance": 2544
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-250",
+      "date": "2026-11-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원FC",
+      "away": "경남",
+      "venue": "수원 종합",
+      "attendance": 1605
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-251",
+      "date": "2026-11-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "안산",
+      "venue": "김포솔터축구장",
+      "attendance": 872
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-252",
+      "date": "2026-11-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김해",
+      "away": "화성",
+      "venue": "김해 종합",
+      "attendance": 2701
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-253",
+      "date": "2026-11-07",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "전남",
+      "venue": "목동 종합",
+      "attendance": 4506
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-207",
+      "date": "2026-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "서울",
+      "away": "울산",
+      "venue": "서울 월드컵",
+      "attendance": 13037
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-208",
+      "date": "2026-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "대전",
+      "away": "인천",
+      "venue": "대전 월드컵",
+      "attendance": 6387
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-209",
+      "date": "2026-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "전북",
+      "venue": "강릉하이원아레나",
+      "attendance": 4206
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-210",
+      "date": "2026-11-08",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "부천",
+      "away": "포항",
+      "venue": "부천 종합",
+      "attendance": 3585
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-254",
+      "date": "2026-11-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "용인",
+      "venue": "수원 월드컵",
+      "attendance": 23135
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-255",
+      "date": "2026-11-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "천안",
+      "away": "부산",
+      "venue": "천안 종합",
+      "attendance": 2340
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-256",
+      "date": "2026-11-08",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "충남아산",
+      "venue": "파주 스타디움",
+      "attendance": 1062
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-211",
+      "date": "2026-11-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "전북",
+      "away": "서울",
+      "venue": "전주 월드컵",
+      "attendance": 8411
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-212",
+      "date": "2026-11-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "포항",
+      "away": "안양",
+      "venue": "포항 스틸야드",
+      "attendance": 4677
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-213",
+      "date": "2026-11-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "강원",
+      "away": "대전",
+      "venue": "강릉하이원아레나",
+      "attendance": 4578
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-214",
+      "date": "2026-11-21",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "인천",
+      "away": "울산",
+      "venue": "인천 전용",
+      "attendance": 8971
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-257",
+      "date": "2026-11-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "수원",
+      "away": "경남",
+      "venue": "수원 월드컵",
+      "attendance": 19291
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-258",
+      "date": "2026-11-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "부산",
+      "away": "충북청주",
+      "venue": "부산 구덕",
+      "attendance": 2161
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-259",
+      "date": "2026-11-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "김포",
+      "away": "수원FC",
+      "venue": "김포솔터축구장",
+      "attendance": 1014
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-260",
+      "date": "2026-11-21",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "성남",
+      "away": "용인",
+      "venue": "탄천 종합",
+      "attendance": 2562
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-215",
+      "date": "2026-11-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "김천",
+      "away": "제주",
+      "venue": "김천 종합",
+      "attendance": 940
+    },
+    {
+      "game_id": "하나은행 K리그1 2026-216",
+      "date": "2026-11-22",
+      "stage": "k1",
+      "competition": "하나은행 K리그1 2026",
+      "home": "광주",
+      "away": "부천",
+      "venue": "광주 월드컵",
+      "attendance": 2545
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-261",
+      "date": "2026-11-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "대구",
+      "away": "김해",
+      "venue": "대구iM뱅크PARK",
+      "attendance": 10715
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-262",
+      "date": "2026-11-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "전남",
+      "away": "안산",
+      "venue": "광양 전용",
+      "attendance": 3143
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-263",
+      "date": "2026-11-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "파주",
+      "away": "천안",
+      "venue": "파주 스타디움",
+      "attendance": 2250
+    },
+    {
+      "game_id": "하나은행 K리그2 2026-264",
+      "date": "2026-11-22",
+      "stage": "k2",
+      "competition": "하나은행 K리그2 2026",
+      "home": "서울E",
+      "away": "충남아산",
+      "venue": "목동 종합",
+      "attendance": 4690
+    }
+  ]
+}

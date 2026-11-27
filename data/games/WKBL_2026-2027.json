@@ -1,0 +1,272 @@
+{
+  "league": "WKBL",
+  "season": "2026-2027",
+  "collected_at": "2026-11-27T13:23:42+09:00",
+  "source_url": "https://www.wkbl.or.kr/game/sch/schedule1.asp + https://www.wkbl.or.kr/history/crowd.asp",
+  "games": [
+    {
+      "game_id": "047-01-1",
+      "game_type": "01",
+      "date": "2026-11-01",
+      "stage": "regular",
+      "home": "KB스타즈",
+      "away": "BNK 썸",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-2",
+      "game_type": "01",
+      "date": "2026-11-02",
+      "stage": "regular",
+      "home": "삼성생명",
+      "away": "하나은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-3",
+      "game_type": "01",
+      "date": "2026-11-04",
+      "stage": "regular",
+      "home": "신한은행",
+      "away": "우리은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-4",
+      "game_type": "01",
+      "date": "2026-11-06",
+      "stage": "regular",
+      "home": "하나은행",
+      "away": "KB스타즈",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-5",
+      "game_type": "01",
+      "date": "2026-11-07",
+      "stage": "regular",
+      "home": "BNK 썸",
+      "away": "신한은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-6",
+      "game_type": "01",
+      "date": "2026-11-07",
+      "stage": "regular",
+      "home": "우리은행",
+      "away": "삼성생명",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-7",
+      "game_type": "01",
+      "date": "2026-11-08",
+      "stage": "regular",
+      "home": "BNK 썸",
+      "away": "하나은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-8",
+      "game_type": "01",
+      "date": "2026-11-09",
+      "stage": "regular",
+      "home": "KB스타즈",
+      "away": "우리은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-9",
+      "game_type": "01",
+      "date": "2026-11-11",
+      "stage": "regular",
+      "home": "신한은행",
+      "away": "삼성생명",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-10",
+      "game_type": "01",
+      "date": "2026-11-13",
+      "stage": "regular",
+      "home": "우리은행",
+      "away": "BNK 썸",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-11",
+      "game_type": "01",
+      "date": "2026-11-14",
+      "stage": "regular",
+      "home": "삼성생명",
+      "away": "KB스타즈",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-12",
+      "game_type": "01",
+      "date": "2026-11-14",
+      "stage": "regular",
+      "home": "하나은행",
+      "away": "신한은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-13",
+      "game_type": "01",
+      "date": "2026-11-15",
+      "stage": "regular",
+      "home": "삼성생명",
+      "away": "BNK 썸",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-14",
+      "game_type": "01",
+      "date": "2026-11-16",
+      "stage": "regular",
+      "home": "하나은행",
+      "away": "우리은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-15",
+      "game_type": "01",
+      "date": "2026-11-18",
+      "stage": "regular",
+      "home": "신한은행",
+      "away": "KB스타즈",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-16",
+      "game_type": "01",
+      "date": "2026-11-20",
+      "stage": "regular",
+      "home": "하나은행",
+      "away": "삼성생명",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-17",
+      "game_type": "01",
+      "date": "2026-11-21",
+      "stage": "regular",
+      "home": "KB스타즈",
+      "away": "신한은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-18",
+      "game_type": "01",
+      "date": "2026-11-21",
+      "stage": "regular",
+      "home": "BNK 썸",
+      "away": "우리은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-19",
+      "game_type": "01",
+      "date": "2026-11-22",
+      "stage": "regular",
+      "home": "KB스타즈",
+      "away": "삼성생명",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-20",
+      "game_type": "01",
+      "date": "2026-11-23",
+      "stage": "regular",
+      "home": "신한은행",
+      "away": "하나은행",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": false
+    },
+    {
+      "game_id": "047-01-21",
+      "game_type": "01",
+      "date": "2026-11-25",
+      "stage": "regular",
+      "home": "우리은행",
+      "away": "KB스타즈",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": true
+    }
+  ],
+  "attendance_method": "season_total_snapshot",
+  "season_total": 27985,
+  "stage_totals": {
+    "regular": {
+      "attendance": 27985,
+      "games": 20
+    },
+    "postseason": {
+      "attendance": 0,
+      "games": 0
+    }
+  }
+}
