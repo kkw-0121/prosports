@@ -37,6 +37,12 @@
 
   // ---------------------------------------------------------------- 공통 계산
   const label = (code) => `${leagues[code].name} (${leagues[code].abbr})`;
+  /** 시즌 상태 배지: 진행 중(주황) · 확정(파랑) · 시즌 전(회색 글자) */
+  const BADGE = {
+    live: '<span class="badge live">진행 중</span>',
+    final: '<span class="badge final">확정</span>',
+    pre: '<span class="badge pre">시즌 전</span>',
+  };
   const seasonKey = (code, i) => Object.keys(leagues[code].seasons)[i];
   const seasonOf = (code, i) => leagues[code].seasons[seasonKey(code, i)];
   const isLive = (code, i) => seasonOf(code, i).source === "collected";
@@ -53,7 +59,7 @@
 
   function renderChips() {
     $("#seasonChips").innerHTML = D.rows.map((r, i) =>
-      `<button class="chip" role="tab" aria-selected="${i === rowIdx}" data-i="${i}">${r.year}<small>${rowLive(i) ? " · 진행 중" : ""}</small></button>`
+      `<button class="chip" role="tab" aria-selected="${i === rowIdx}" data-i="${i}">${r.year}${rowLive(i) ? ' <span class="badge live sm">진행 중</span>' : ""}</button>`
     ).join("");
     $("#seasonChips").querySelectorAll(".chip").forEach((b) =>
       b.addEventListener("click", () => { rowIdx = +b.dataset.i; renderAll(); }));
@@ -76,7 +82,7 @@
     const basis = p?.partial ? `전 시즌 같은 종목(${p.names.join("·")})` : "전 시즌";
     $("#kpis").innerHTML = `
       <div class="card kpi">
-        <div class="label">전체 총 관중 ${live ? '<span class="tag live">진행 중</span>' : ""}</div>
+        <div class="label">전체 총 관중 ${live ? BADGE.live : ""}</div>
         <div class="value">${num(r.attendance)}<span class="unit">명</span></div>
         <div class="meta"><span>약 ${koUnit(r.attendance)}</span><span>${esc(r.row)}</span></div>
       </div>
@@ -97,7 +103,7 @@
     $("#sportCards").innerHTML = codes.map((c) => {
       const lg = leagues[c], sid = seasonKey(c, rowIdx), s = lg.seasons[sid];
       const prev = rowIdx > 0 ? seasonOf(c, rowIdx - 1) : null;
-      const state = isLive(c, rowIdx) ? (s.has_data ? "진행 중" : "시즌 전") : "확정";
+      const badge = isLive(c, rowIdx) ? (s.has_data ? BADGE.live : BADGE.pre) : BADGE.final;
       let body;
       if (!s.has_data) {
         const last = prev && prev.has_data ? `직전 시즌 ${shortSeason(seasonKey(c, rowIdx - 1))}: ${koUnit(prev.total.attendance)}` : "";
@@ -110,7 +116,7 @@
       }
       return `<article class="card sport ${c === sport ? "active" : ""}" style="--c:${color(c)}" data-code="${c}" tabindex="0">
           <div class="name"><i></i>${esc(label(c))}</div>
-          <div class="season">${shortSeason(sid)} 시즌 · ${state}</div>${body}</article>`;
+          <div class="season">${shortSeason(sid)} 시즌 ${badge}</div>${body}</article>`;
     }).join("");
     $("#sportCards").querySelectorAll(".sport").forEach((el) => {
       const go = () => { sport = el.dataset.code; renderSportCards(); renderDetail(); $(".detail-card").scrollIntoView({ behavior: "smooth", block: "start" }); };
@@ -239,7 +245,7 @@
     const head = `<tr><th>시즌</th>${items.map((it) => `<th>${esc(it.label)}</th>`).join("")}<th>합계</th></tr>`;
     const body = newestFirst(keys).map(([k, i]) => {
       const se = lg.seasons[k];
-      const live = se.source === "collected" && se.has_data ? '<span class="tag live">진행 중</span>' : "";
+      const live = se.source === "collected" && se.has_data ? BADGE.live : "";
       return `<tr class="${i === rowIdx ? "sel" : ""}"><td class="row-head">${shortSeason(k)}${live}</td>
         ${items.map((it) => statCell(se.items[it.key], it.label)).join("")}${statCell(se.total, "합계", "total")}</tr>`;
     }).join("");
