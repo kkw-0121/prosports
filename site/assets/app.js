@@ -410,7 +410,10 @@
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((data) => {
       D = data; leagues = D.leagues; codes = Object.keys(leagues);
-      rowIdx = D.rows.reduce((last, r, i) => (r.games > 0 ? i : last), 0);
+      // 처음 시즌 = 올해 연도(한국 시간). 그 행이 아직 없으면 올해보다 앞선 가장 최근 행
+      const thisYear = String(new Date(Date.now() + 9 * 3600e3).getUTCFullYear());
+      rowIdx = D.rows.findIndex((r) => r.year === thisYear);
+      if (rowIdx < 0) rowIdx = D.rows.reduce((last, r, i) => (r.year <= thisYear ? i : last), D.rows.length - 1);
       mainSport = detailSport = progSport = defaultSport(rowIdx);
       renderHeader(); renderFoot(); renderAll();
       if (D.recent) renderRecent();
