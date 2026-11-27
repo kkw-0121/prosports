@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T16:40:50+09:00",
-  "as_of": "2026-11-27",
+  "generated_at": "2026-11-28T01:34:51+09:00",
+  "as_of": "2026-11-28",
   "excel_as_of": "2026.11.24",
   "rows": [
     {
@@ -70,9 +70,9 @@
       "row": "2027 (2026-2027)",
       "year": "2027",
       "split": "2026-2027",
-      "attendance": 374525,
-      "games": 143,
-      "average": 2619.055944055944,
+      "attendance": 378773,
+      "games": 145,
+      "average": 2612.2275862068964,
       "complete": true
     }
   ],
@@ -352,7 +352,7 @@
             "average": null
           },
           "has_data": false,
-          "collected_at": "2026-11-27T14:55:00+09:00",
+          "collected_at": "2026-11-28T01:32:35+09:00",
           "last_game": null,
           "official": [],
           "official_status": "not_provided",
@@ -362,8 +362,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 14:55",
-        "last_success": "2026-11-27T14:55:00+09:00"
+        "message": "마지막 성공 2026-11-28 01:32",
+        "last_success": "2026-11-28T01:32:35+09:00"
       }
     },
     "KLEAGUE": {
@@ -609,7 +609,7 @@
             "average": 6287.204166666666
           },
           "has_data": true,
-          "collected_at": "2026-11-27T14:55:45+09:00",
+          "collected_at": "2026-11-28T01:33:22+09:00",
           "last_game": "2026-11-22",
           "official": [
             {
@@ -650,7 +650,7 @@
             "average": null
           },
           "has_data": false,
-          "collected_at": "2026-11-27T14:56:01+09:00",
+          "collected_at": "2026-11-28T01:33:39+09:00",
           "last_game": null,
           "official": [],
           "official_status": "not_provided",
@@ -660,8 +660,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 14:56",
-        "last_success": "2026-11-27T14:56:01+09:00"
+        "message": "마지막 성공 2026-11-28 01:33",
+        "last_success": "2026-11-28T01:33:39+09:00"
       }
     },
     "KBL": {
@@ -894,7 +894,7 @@
             "average": 3217.194805194805
           },
           "has_data": true,
-          "collected_at": "2026-11-27T14:56:29+09:00",
+          "collected_at": "2026-11-28T01:34:10+09:00",
           "last_game": "2026-11-19",
           "official": [
             {
@@ -913,8 +913,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 14:56",
-        "last_success": "2026-11-27T14:56:29+09:00"
+        "message": "마지막 성공 2026-11-28 01:34",
+        "last_success": "2026-11-28T01:34:10+09:00"
       }
     },
     "WKBL": {
@@ -1147,8 +1147,8 @@
             "average": 1399.25
           },
           "has_data": true,
-          "collected_at": "2026-11-27T15:23:23+09:00",
-          "last_game": "2026-11-25",
+          "collected_at": "2026-11-28T01:34:20+09:00",
+          "last_game": "2026-11-27",
           "official": [
             {
               "key": "total",
@@ -1161,15 +1161,15 @@
           ],
           "official_status": "provided",
           "notes": [
-            "관중 반영 대기 1경기 (연맹 집계 반영 후 포함): 2026-11-25 우리은행-KB스타즈"
+            "관중 반영 대기 2경기 (연맹 집계 반영 후 포함): 2026-11-25 우리은행-KB스타즈, 2026-11-27 삼성생명-신한은행"
           ]
         }
       },
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 15:23",
-        "last_success": "2026-11-27T15:23:23+09:00"
+        "message": "마지막 성공 2026-11-28 01:34",
+        "last_success": "2026-11-28T01:34:20+09:00"
       }
     },
     "KOVO": {
@@ -1506,9 +1506,9 @@
           "source": "collected",
           "items": {
             "men_regular": {
-              "attendance": 50613,
-              "games": 23,
-              "average": 2200.5652173913045
+              "attendance": 52260,
+              "games": 24,
+              "average": 2177.5
             },
             "men_postseason": {
               "attendance": 0,
@@ -1516,9 +1516,9 @@
               "average": null
             },
             "women_regular": {
-              "attendance": 48203,
-              "games": 23,
-              "average": 2095.782608695652
+              "attendance": 50804,
+              "games": 24,
+              "average": 2116.8333333333335
             },
             "women_postseason": {
               "attendance": 0,
@@ -1532,13 +1532,13 @@
             }
           },
           "total": {
-            "attendance": 98816,
-            "games": 46,
-            "average": 2148.1739130434785
+            "attendance": 103064,
+            "games": 48,
+            "average": 2147.1666666666665
           },
           "has_data": true,
-          "collected_at": "2026-11-27T14:57:06+09:00",
-          "last_game": "2026-11-26",
+          "collected_at": "2026-11-28T01:34:50+09:00",
+          "last_game": "2026-11-27",
           "official": [],
           "official_status": "not_provided",
           "notes": []
@@ -1547,8 +1547,8 @@
       "status": {
         "state": "ok",
         "label": "정상",
-        "message": "마지막 성공 2026-11-27 14:57",
-        "last_success": "2026-11-27T14:57:06+09:00"
+        "message": "마지막 성공 2026-11-28 01:34",
+        "last_success": "2026-11-28T01:34:50+09:00"
       }
     }
   },
@@ -8249,6 +8249,12 @@
             "day": 27,
             "attendance": 98816,
             "games": 46
+          },
+          {
+            "date": "2026-11-27",
+            "day": 28,
+            "attendance": 103064,
+            "games": 48
           }
         ],
         "prev": [
@@ -9112,27 +9118,57 @@
           }
         ],
         "compare": {
-          "day": 27,
-          "date": "2026-11-26",
-          "prev_date": "2025-11-13",
+          "day": 28,
+          "date": "2026-11-27",
+          "prev_date": "2025-11-14",
           "cur": {
-            "attendance": 98816,
-            "games": 46,
-            "average": 2148.1739130434785
+            "attendance": 103064,
+            "games": 48,
+            "average": 2147.1666666666665
           },
           "prev": {
-            "attendance": 95729,
-            "games": 45,
-            "average": 2127.311111111111
+            "attendance": 99280,
+            "games": 47,
+            "average": 2112.340425531915
           },
-          "rate_attendance": 3.2247281388085116,
-          "rate_average": 0.9807123097039879
+          "rate_attendance": 3.811442385173247,
+          "rate_average": 1.6487040021487869
         },
         "notes": []
       }
     }
   ],
   "recent": [
+    {
+      "league": "WKBL",
+      "date": "2026-11-27",
+      "label": "정규리그",
+      "home": "삼성생명",
+      "away": "신한은행",
+      "venue": null,
+      "attendance": null,
+      "pending": true
+    },
+    {
+      "league": "KOVO",
+      "date": "2026-11-27",
+      "label": "남자부 정규리그",
+      "home": "대한항공",
+      "away": "KB손해보험",
+      "venue": "인천계양체육관",
+      "attendance": 1647,
+      "pending": false
+    },
+    {
+      "league": "KOVO",
+      "date": "2026-11-27",
+      "label": "여자부 정규리그",
+      "home": "흥국생명",
+      "away": "GS칼텍스",
+      "venue": "인천삼산월드체육관",
+      "attendance": 2601,
+      "pending": false
+    },
     {
       "league": "KOVO",
       "date": "2026-11-26",
@@ -9301,126 +9337,6 @@
       "away": "충남아산",
       "venue": "목동 종합",
       "attendance": 4690,
-      "pending": false
-    },
-    {
-      "league": "WKBL",
-      "date": "2026-11-21",
-      "label": "정규리그",
-      "home": "KB스타즈",
-      "away": "신한은행",
-      "venue": null,
-      "attendance": null,
-      "pending": false
-    },
-    {
-      "league": "WKBL",
-      "date": "2026-11-21",
-      "label": "정규리그",
-      "home": "BNK 썸",
-      "away": "우리은행",
-      "venue": null,
-      "attendance": null,
-      "pending": false
-    },
-    {
-      "league": "KOVO",
-      "date": "2026-11-21",
-      "label": "남자부 정규리그",
-      "home": "삼성화재",
-      "away": "OK저축은행",
-      "venue": "대전충무체육관",
-      "attendance": 2787,
-      "pending": false
-    },
-    {
-      "league": "KOVO",
-      "date": "2026-11-21",
-      "label": "여자부 정규리그",
-      "home": "SOOP",
-      "away": "정관장",
-      "venue": "숲 스타디움",
-      "attendance": 2121,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그1",
-      "home": "전북",
-      "away": "서울",
-      "venue": "전주 월드컵",
-      "attendance": 8411,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그1",
-      "home": "포항",
-      "away": "안양",
-      "venue": "포항 스틸야드",
-      "attendance": 4677,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그1",
-      "home": "강원",
-      "away": "대전",
-      "venue": "강릉하이원아레나",
-      "attendance": 4578,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그1",
-      "home": "인천",
-      "away": "울산",
-      "venue": "인천 전용",
-      "attendance": 8971,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그2",
-      "home": "수원",
-      "away": "경남",
-      "venue": "수원 월드컵",
-      "attendance": 19291,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그2",
-      "home": "부산",
-      "away": "충북청주",
-      "venue": "부산 구덕",
-      "attendance": 2161,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그2",
-      "home": "김포",
-      "away": "수원FC",
-      "venue": "김포솔터축구장",
-      "attendance": 1014,
-      "pending": false
-    },
-    {
-      "league": "KLEAGUE",
-      "date": "2026-11-21",
-      "label": "K리그2",
-      "home": "성남",
-      "away": "용인",
-      "venue": "탄천 종합",
-      "attendance": 2562,
       "pending": false
     }
   ],

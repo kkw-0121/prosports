@@ -1,7 +1,7 @@
 {
   "league": "WKBL",
   "season": "2026-2027",
-  "collected_at": "2026-11-27T15:23:23+09:00",
+  "collected_at": "2026-11-28T01:34:20+09:00",
   "source_url": "https://www.wkbl.or.kr/game/sch/schedule1.asp + https://www.wkbl.or.kr/history/crowd.asp",
   "games": [
     {
@@ -251,6 +251,18 @@
       "stage": "regular",
       "home": "우리은행",
       "away": "KB스타즈",
+      "venue": null,
+      "attendance": null,
+      "attendance_known": false,
+      "pending": true
+    },
+    {
+      "game_id": "047-01-22",
+      "game_type": "01",
+      "date": "2026-11-27",
+      "stage": "regular",
+      "home": "삼성생명",
+      "away": "신한은행",
       "venue": null,
       "attendance": null,
       "attendance_known": false,

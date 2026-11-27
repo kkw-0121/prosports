@@ -1,7 +1,7 @@
 {
   "league": "KOVO",
   "season": "2026-2027",
-  "collected_at": "2026-11-27T14:57:06+09:00",
+  "collected_at": "2026-11-28T01:34:50+09:00",
   "source_url": "https://kovo.co.kr/games/v-leagues/schedules?season=023&gender=all&league=201",
   "games": [
     {
@@ -509,6 +509,28 @@
       "away": "SOOP",
       "venue": "수원체육관",
       "attendance": 1259
+    },
+    {
+      "game_id": "023-201-1-47",
+      "date": "2026-11-27",
+      "stage": "regular",
+      "division": "men",
+      "league_name": "정규리그",
+      "home": "대한항공",
+      "away": "KB손해보험",
+      "venue": "인천계양체육관",
+      "attendance": 1647
+    },
+    {
+      "game_id": "023-201-2-48",
+      "date": "2026-11-27",
+      "stage": "regular",
+      "division": "women",
+      "league_name": "정규리그",
+      "home": "흥국생명",
+      "away": "GS칼텍스",
+      "venue": "인천삼산월드체육관",
+      "attendance": 2601
     }
   ],
   "notes": [
