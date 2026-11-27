@@ -32,7 +32,7 @@
   }
   const shortSeason = (sid) => (sid.includes("-") ? `${sid.slice(0, 4)}-${sid.slice(-2)}` : sid);
 
-  let D, leagues, codes, rowIdx, sport;
+  let D, leagues, codes, rowIdx, mainSport, detailSport, progSport;
   const charts = {};
 
   // ---------------------------------------------------------------- 공통 계산
@@ -114,12 +114,12 @@
           <dl><dt>경기 수</dt><dd>${num(s.total.games)}</dd><dt>평균</dt><dd>${num(s.total.average)}명</dd></dl>
           <div class="foot-row"><span class="card-sub">평균 · 전 시즌 대비</span>${deltaTag(delta(s.total.average, prev?.total.average), "평균 관중 전 시즌 대비")}</div>`;
       }
-      return `<article class="card sport ${c === sport ? "active" : ""}" style="--c:${color(c)}" data-code="${c}" tabindex="0">
+      return `<article class="card sport ${c === mainSport ? "active" : ""}" style="--c:${color(c)}" data-code="${c}" tabindex="0">
           <div class="name"><i></i>${esc(label(c))}</div>
           <div class="season">${shortSeason(sid)} 시즌 ${badge}</div>${body}</article>`;
     }).join("");
     $("#sportCards").querySelectorAll(".sport").forEach((el) => {
-      const go = () => { sport = el.dataset.code; renderSportCards(); renderDetail(); $(".detail-card").scrollIntoView({ behavior: "smooth", block: "start" }); };
+      const go = () => { selectMain(el.dataset.code); $(".progress-card").scrollIntoView({ behavior: "smooth", block: "start" }); };
       el.addEventListener("click", go);
       el.addEventListener("keydown", (e) => { if (e.key === "Enter") go(); });
     });
@@ -185,14 +185,14 @@
   // ---------------------------------------------------------------- 종목 상세
   function renderTabs() {
     $("#sportTabs").innerHTML = codes.map((c) =>
-      `<button class="tab" role="tab" aria-selected="${c === sport}" data-code="${c}" style="--c:${color(c)}"><i></i>${esc(label(c))}</button>`).join("");
+      `<button class="tab" role="tab" aria-selected="${c === detailSport}" data-code="${c}" style="--c:${color(c)}"><i></i>${esc(label(c))}</button>`).join("");
     $("#sportTabs").querySelectorAll(".tab").forEach((b) =>
-      b.addEventListener("click", () => { sport = b.dataset.code; renderSportCards(); renderDetail(); }));
+      b.addEventListener("click", () => { detailSport = b.dataset.code; renderDetail(); }));   // 상세만 바뀜
   }
 
   function renderDetail() {
     renderTabs();
-    const lg = leagues[sport], c = color(sport), keys = Object.keys(lg.seasons);
+    const lg = leagues[detailSport], c = color(detailSport), keys = Object.keys(lg.seasons);
     $(".detail-grid").classList.toggle("wide", lg.items.length > 3);   // 항목이 많으면 표를 아래 전체 폭으로
     // 그래프
     const opt = baseOptions();
@@ -279,23 +279,37 @@
       지난 시즌은 엑셀 확정값(엑셀 기준일 ${esc(D.excel_as_of)}) · 화면 데이터 생성 ${esc(D.generated_at.slice(0, 16).replace("T", " "))}`;
   }
 
+  /** 기본 종목: 카드 순서(야구→축구→남자농구→여자농구→배구)에서 경기가 있는 첫 종목 (시즌 전 종목은 건너뜀) */
+  const defaultSport = (i) => codes.find((c) => seasonOf(c, i).has_data) || codes[0];
+
+  /** 메인 선택(종목 카드): 진행 현황·종목별 상세를 모두 그 종목으로 */
+  function selectMain(code) {
+    mainSport = detailSport = progSport = code;
+    renderSportCards(); renderDetail();
+    if (D.progress) renderProgress();
+  }
+
   function renderAll() {
+    // 시즌을 바꿨는데 메인 카드 종목이 그 시즌에 경기가 없으면 기본 종목으로 바뀜 (메인을 누른 것처럼 셋 다)
+    if (!seasonOf(mainSport, rowIdx).has_data) mainSport = detailSport = progSport = defaultSport(rowIdx);
+    if (!seasonOf(detailSport, rowIdx).has_data) detailSport = mainSport;
     renderChips(); renderKpis(); renderSportCards(); renderTrend(); renderDetail(); renderSummary();
+    if (D.progress) renderProgress();
   }
 
   // ---------------------------------------------------------------- 2차: 이번 시즌 진행 현황
-  let progLeague, recentLeague = "ALL";
+  let recentLeague = "ALL";
   const WEEK = ["일", "월", "화", "수", "목", "금", "토"];
   const dateLabel = (d) => { const t = new Date(`${d}T00:00:00`); return `${d.slice(5).replace("-", ".")} (${WEEK[t.getDay()]})`; };
 
   function renderProgress() {
-    const P = D.progress;
+    const P = D.progress[rowIdx];          // 위에서 고른 연도(엑셀 행)의 시즌
     $("#progressTabs").innerHTML = codes.map((c) =>
-      `<button class="tab" role="tab" aria-selected="${c === progLeague}" data-code="${c}" style="--c:${color(c)}"><i></i>${esc(label(c))}</button>`).join("");
+      `<button class="tab" role="tab" aria-selected="${c === progSport}" data-code="${c}" style="--c:${color(c)}"><i></i>${esc(label(c))}</button>`).join("");
     $("#progressTabs").querySelectorAll(".tab").forEach((b) =>
-      b.addEventListener("click", () => { progLeague = b.dataset.code; renderProgress(); }));
+      b.addEventListener("click", () => { progSport = b.dataset.code; renderProgress(); }));   // 진행 현황만 바뀜
 
-    const p = P[progLeague], c = color(progLeague);
+    const p = P[progSport], c = color(progSport);
     const opt = baseOptions();
     opt.interaction = { mode: "nearest", intersect: false, axis: "x" };
     opt.scales.x = { type: "linear", min: 1, grid: { display: false }, border: { display: false },
@@ -321,11 +335,12 @@
 
     // 오른쪽 숫자
     let html;
-    if (p.state === "pre") {
-      html = `<div class="ps-head">${esc(label(progLeague))} ${p.season ? shortSeason(p.season) + " 시즌" : ""} ${BADGE.pre}</div>`;
+    const stateBadge = { live: BADGE.live, final: BADGE.final, pre: BADGE.pre, none: "" }[p.state] || "";
+    if (p.state === "pre" || p.state === "none") {
+      html = `<div class="ps-head">${esc(label(progSport))} ${shortSeason(p.season)} 시즌 ${stateBadge}</div>`;
     } else {
       const k = p.compare, last = p.cur[p.cur.length - 1];
-      html = `<div class="ps-head">${esc(label(progLeague))} ${shortSeason(p.season)} 시즌 ${BADGE.live}</div>`;
+      html = `<div class="ps-head">${esc(label(progSport))} ${shortSeason(p.season)} 시즌 ${stateBadge}</div>`;
       if (k) {
         html += `<div class="ps-when">개막 후 <b>${k.day}일째</b> · ${k.date.replaceAll("-", ".")} 경기까지
                  <span>지난 시즌 같은 시점: ${k.prev_date.replaceAll("-", ".")}</span></div>
@@ -396,12 +411,8 @@
     .then((data) => {
       D = data; leagues = D.leagues; codes = Object.keys(leagues);
       rowIdx = D.rows.reduce((last, r, i) => (r.games > 0 ? i : last), 0);
-      sport = codes.find((c) => seasonOf(c, rowIdx).has_data) || codes[0];
-      // 진행 현황 기본 선택: 가장 최근에 경기가 있었던 종목
-      const lastDate = (c) => { const cur = D.progress?.[c]?.cur || []; return cur.length ? cur[cur.length - 1].date : ""; };
-      progLeague = [...codes].sort((a, b) => lastDate(b).localeCompare(lastDate(a)))[0];
+      mainSport = detailSport = progSport = defaultSport(rowIdx);
       renderHeader(); renderFoot(); renderAll();
-      if (D.progress) renderProgress();
       if (D.recent) renderRecent();
     })
     .catch((e) => {

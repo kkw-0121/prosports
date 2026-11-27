@@ -130,47 +130,66 @@ def rate(cur, prev):
     return None if cur is None or not prev else (cur - prev) / prev * 100
 
 
-def build_progress(cfg: dict, leagues_out: dict) -> dict:
-    out = {}
-    for code, lg in cfg["leagues"].items():
-        ids = [season_id(s, lg) for s in cfg["seasons"]]
-        live = [sid for sid in lg["collect"] if leagues_out[code]["seasons"][sid]["has_data"]]
-        entry = {"season": None, "state": "pre", "cur": [], "prev": [], "compare": None, "notes": []}
-        if not live:
-            upcoming = lg["collect"][-1] if lg["collect"] else None
-            entry.update(season=upcoming, notes=["시즌 시작 전 (개막 후 자동으로 표시)"])
-            out[code] = entry
-            continue
-        sid = live[-1]
-        prev_sid = ids[ids.index(sid) - 1] if ids.index(sid) > 0 else None
-        data = load_json(DATA_DIR / "games" / f"{code}_{sid}.json")
-        cur = wkbl_cumulative(data) if data.get("attendance_method") == "season_total_snapshot" else cumulative(data["games"])
-        prev = []
-        for folder in ("games", "reference"):
-            p = DATA_DIR / folder / f"{code}_{prev_sid}.json"
-            if prev_sid and p.exists():
-                prev = cumulative(load_json(p)["games"])
-                break
-        entry.update(season=sid, prev_season=prev_sid, state="live", cur=cur, prev=prev)
-        if data.get("attendance_method") == "season_total_snapshot":
-            started = (data.get("total_history") or [{}])[0].get("recorded_at", "")[:10]
-            entry["notes"].append("WKBL은 경기별 관중을 공개하지 않아, 매일 수집한 시즌 합계로 그린 곡선입니다"
-                                  + (f" (기록 시작 {started})." if started else "."))
-        if not prev:
-            entry["notes"].append(f"지난 시즌({prev_sid}) 경기별 관중 자료가 없어 같은 시점 비교 불가")
-        if cur and prev:
-            last = cur[-1]
-            p = at_day(prev, last["day"])
-            if p:
-                ca, pa = last["attendance"] / last["games"], p["attendance"] / p["games"]
-                entry["compare"] = {
-                    "day": last["day"], "date": last["date"], "prev_date": p["date"],
-                    "cur": {"attendance": last["attendance"], "games": last["games"], "average": ca},
-                    "prev": {"attendance": p["attendance"], "games": p["games"], "average": pa},
-                    "rate_attendance": rate(last["attendance"], p["attendance"]),
-                    "rate_average": rate(ca, pa),
-                }
-        out[code] = entry
+def _per_game_file(code: str, sid: str | None) -> Path | None:
+    """그 시즌의 경기별 자료: 자동 수집 파일(data/games) 우선, 없으면 비교용 자료(data/reference)."""
+    if not sid:
+        return None
+    for folder in ("games", "reference"):
+        p = DATA_DIR / folder / f"{code}_{sid}.json"
+        if p.exists():
+            return p
+    return None
+
+
+def progress_entry(code: str, lg: dict, sid: str, prev_sid: str | None, has_data: bool) -> dict:
+    """한 연도(엑셀 행)·한 리그의 시즌 진행 현황."""
+    entry = {"season": sid, "prev_season": prev_sid, "state": "none", "cur": [], "prev": [], "compare": None, "notes": []}
+    path = _per_game_file(code, sid)
+    if not has_data:
+        entry["state"] = "pre"
+        entry["notes"].append("시즌 시작 전 (개막 후 자동으로 표시)")
+        return entry
+    if path is None:
+        entry["notes"].append("이 시즌은 경기별 관중 자료가 없어 진행 현황을 표시할 수 없습니다"
+                              + (" (WKBL은 경기별 관중 미공개)." if code == "WKBL" else "."))
+        return entry
+    data = load_json(path)
+    snapshot = data.get("attendance_method") == "season_total_snapshot"
+    cur = wkbl_cumulative(data) if snapshot else cumulative(data["games"])
+    pp = _per_game_file(code, prev_sid)
+    prev = cumulative(load_json(pp)["games"]) if pp and code != "WKBL" else []
+    entry.update(state="live" if sid in lg["collect"] else "final", cur=cur, prev=prev)
+    if snapshot:
+        started = (data.get("total_history") or [{}])[0].get("recorded_at", "")[:10]
+        entry["notes"].append("WKBL은 경기별 관중을 공개하지 않아, 매일 수집한 시즌 합계로 그린 곡선입니다"
+                              + (f" (기록 시작 {started})." if started else "."))
+    if not prev and prev_sid:
+        entry["notes"].append(f"지난 시즌({prev_sid}) 경기별 관중 자료가 없어 같은 시점 비교 불가")
+    if cur and prev:
+        last = cur[-1]
+        p = at_day(prev, last["day"])
+        if p:
+            ca, pa = last["attendance"] / last["games"], p["attendance"] / p["games"]
+            entry["compare"] = {
+                "day": last["day"], "date": last["date"], "prev_date": p["date"],
+                "cur": {"attendance": last["attendance"], "games": last["games"], "average": ca},
+                "prev": {"attendance": p["attendance"], "games": p["games"], "average": pa},
+                "rate_attendance": rate(last["attendance"], p["attendance"]),
+                "rate_average": rate(ca, pa),
+            }
+    return entry
+
+
+def build_progress(cfg: dict, leagues_out: dict) -> list[dict]:
+    """연도(엑셀 행)마다 리그별 시즌 진행 현황. 화면에서 고른 연도의 것만 보여준다."""
+    out = []
+    for i, srow in enumerate(cfg["seasons"]):
+        row = {}
+        for code, lg in cfg["leagues"].items():
+            sid = season_id(srow, lg)
+            prev_sid = season_id(cfg["seasons"][i - 1], lg) if i > 0 else None
+            row[code] = progress_entry(code, lg, sid, prev_sid, leagues_out[code]["seasons"][sid]["has_data"])
+        out.append(row)
     return out
 
 
