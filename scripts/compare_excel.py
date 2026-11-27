@@ -70,7 +70,7 @@ def main() -> int:
     unexpected = [p for p in changed if p not in EXPECTED_CHANGED_PARTS and p not in sheet_parts]
     if unexpected:
         problems.append(f"바뀌면 안 되는 부품이 바뀜: {unexpected}")
-    same_drawings = all(zo.read(p) == zn.read(p) for p in no if p.startswith(("xl/drawings/", "xl/media/")))
+    same_drawings = all(p in nn and zo.read(p) == zn.read(p) for p in no if p.startswith(("xl/drawings/", "xl/media/")))
     lines += ["## 1. 파일 구성", "",
               f"- 원본 부품 {len(no)}개 중 빠진 것: {len(missing)}개",
               f"- 추가된 부품: {', '.join(added) or '없음'}",

@@ -6,7 +6,7 @@
 
 ## 1. 파일 구성
 
-- 원본 부품 39개 중 빠진 것: 0개
+- 원본 부품 28개 중 빠진 것: 0개
 - 추가된 부품: xl/worksheets/sheet7.xml
 - 내용이 바뀐 부품: [Content_Types].xml, docProps/app.xml, xl/_rels/workbook.xml.rels, xl/styles.xml, xl/workbook.xml, xl/worksheets/sheet1.xml, xl/worksheets/sheet2.xml, xl/worksheets/sheet3.xml, xl/worksheets/sheet4.xml, xl/worksheets/sheet5.xml, xl/worksheets/sheet6.xml
 - 텍스트 상자·그림(drawings, media) 바이트 동일: ✅

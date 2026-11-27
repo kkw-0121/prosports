@@ -12,7 +12,8 @@
 - 매일 **오전 0시 30분**(전날 밤 경기 반영)과 **오전 9시**(연맹의 늦은 정정 반영)에 자동으로 갱신됩니다.
   GitHub 사정에 따라 10~20분 늦게 시작할 수 있습니다.
 - 오른쪽 위 **[엑셀 다운로드]** → `프로스포츠 관중 수(YY.MM.DD 기준).xlsx`
-  - 원본 양식과 서식·수식·안내 상자가 같고, 숫자와 기준일만 최신으로 바뀝니다.
+  - 원본 양식과 서식·수식이 같고, 숫자와 기준일만 최신으로 바뀝니다.
+  - 내부 업무용 안내(리그 시트의 파란 안내 상자·캡처 그림, 종합 시트의 '관중 수 취합 방법')는 다운로드 파일에서 뺐습니다.
   - 맨 뒤에 **'공식 집계 대조'** 시트가 붙습니다 (경기별 합계와 연맹 공식 누적치 비교).
 - 내 PC에서만 보고 싶을 때: 폴더의 `대시보드_열기.bat` 더블클릭 → 브라우저에서 http://localhost:8765
 
@@ -74,7 +75,7 @@
 2. 이 폴더에서 Claude Code를 열고 **"README의 새 연도 행 추가 절차대로 2028 행을 반영해줘"** 라고 요청하면 아래를 처리합니다.
    - `config/leagues.yaml` 의 `seasons` 에 2028 추가, 행 번호(`first_row`) 조정, `collect` 에 새 시즌 추가
    - `python scripts/build_baseline.py` → `python scripts/verify_baseline.py` (엑셀과 100% 일치 확인)
-   - `python scripts/make_public_template.py` (다운로드용 양식 다시 만들기, 담당자 연락처 자동 제거)
+   - `python scripts/make_public_template.py` (다운로드용 양식 다시 만들기: 안내 상자·연락처 자동 제거)
    - `python scripts/build_summary.py`, 저장소에 올리기
 
 ---
@@ -118,7 +119,7 @@
 
 - 지난 시즌(2020~2026 확정분)은 원본 엑셀의 숫자(`data/baseline.json`)를 그대로 씁니다.
 - 원본 엑셀과 `PROMPT.md`, 디자인 참고 이미지는 저장소에 올리지 않습니다 (`.gitignore`).
-- 다운로드용 양식(`site/template/양식.xlsx`)에는 담당자 연락처가 지워져 있습니다.
+- 다운로드용 양식(`site/template/양식.xlsx`)은 원본에서 리그 시트 안내 상자·그림, 종합 시트의 '관중 수 취합 방법', 담당자 연락처를 뺀 것입니다. 원본 엑셀을 고치면 `python scripts/make_public_template.py` 를 다시 실행하세요.
 
 ## 나중에 비공개로 바꾸려면
 1. 저장소 **Settings → General → Danger Zone → Change visibility → Private**
